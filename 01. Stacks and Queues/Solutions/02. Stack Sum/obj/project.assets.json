@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\My Documents\\Stilyan\\Programming and Editing\\Programming\\Files\\Visual Studio\\C# Advanced\\01. Stacks and Queues\\Solutions\\02. Stack Sum\\02. Stack Sum.csproj",
+      "projectUniqueName": "D:\\My Documents\\Stilyan\\Programming and Editing\\Programming\\Files\\Visual Studio\\SoftUni-CSharp-Advanced-January-2024\\01. Stacks and Queues\\Solutions\\02. Stack Sum\\02. Stack Sum.csproj",
       "projectName": "02. Stack Sum",
-      "projectPath": "D:\\My Documents\\Stilyan\\Programming and Editing\\Programming\\Files\\Visual Studio\\C# Advanced\\01. Stacks and Queues\\Solutions\\02. Stack Sum\\02. Stack Sum.csproj",
+      "projectPath": "D:\\My Documents\\Stilyan\\Programming and Editing\\Programming\\Files\\Visual Studio\\SoftUni-CSharp-Advanced-January-2024\\01. Stacks and Queues\\Solutions\\02. Stack Sum\\02. Stack Sum.csproj",
       "packagesPath": "C:\\Users\\Becko\\.nuget\\packages\\",
-      "outputPath": "D:\\My Documents\\Stilyan\\Programming and Editing\\Programming\\Files\\Visual Studio\\C# Advanced\\01. Stacks and Queues\\Solutions\\02. Stack Sum\\obj\\",
+      "outputPath": "D:\\My Documents\\Stilyan\\Programming and Editing\\Programming\\Files\\Visual Studio\\SoftUni-CSharp-Advanced-January-2024\\01. Stacks and Queues\\Solutions\\02. Stack Sum\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

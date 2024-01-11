@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\My Documents\\Stilyan\\Programming and Editing\\Programming\\Files\\Visual Studio\\C# Advanced\\01. Stacks and Queues\\Solutions\\07. Hot Potato\\07. Hot Potato.csproj": {}
+    "D:\\My Documents\\Stilyan\\Programming and Editing\\Programming\\Files\\Visual Studio\\SoftUni-CSharp-Advanced-January-2024\\01. Stacks and Queues\\Solutions\\07. Hot Potato\\07. Hot Potato.csproj": {}
   },
   "projects": {
-    "D:\\My Documents\\Stilyan\\Programming and Editing\\Programming\\Files\\Visual Studio\\C# Advanced\\01. Stacks and Queues\\Solutions\\07. Hot Potato\\07. Hot Potato.csproj": {
+    "D:\\My Documents\\Stilyan\\Programming and Editing\\Programming\\Files\\Visual Studio\\SoftUni-CSharp-Advanced-January-2024\\01. Stacks and Queues\\Solutions\\07. Hot Potato\\07. Hot Potato.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\My Documents\\Stilyan\\Programming and Editing\\Programming\\Files\\Visual Studio\\C# Advanced\\01. Stacks and Queues\\Solutions\\07. Hot Potato\\07. Hot Potato.csproj",
+        "projectUniqueName": "D:\\My Documents\\Stilyan\\Programming and Editing\\Programming\\Files\\Visual Studio\\SoftUni-CSharp-Advanced-January-2024\\01. Stacks and Queues\\Solutions\\07. Hot Potato\\07. Hot Potato.csproj",
         "projectName": "07. Hot Potato",
-        "projectPath": "D:\\My Documents\\Stilyan\\Programming and Editing\\Programming\\Files\\Visual Studio\\C# Advanced\\01. Stacks and Queues\\Solutions\\07. Hot Potato\\07. Hot Potato.csproj",
+        "projectPath": "D:\\My Documents\\Stilyan\\Programming and Editing\\Programming\\Files\\Visual Studio\\SoftUni-CSharp-Advanced-January-2024\\01. Stacks and Queues\\Solutions\\07. Hot Potato\\07. Hot Potato.csproj",
         "packagesPath": "C:\\Users\\Becko\\.nuget\\packages\\",
-        "outputPath": "D:\\My Documents\\Stilyan\\Programming and Editing\\Programming\\Files\\Visual Studio\\C# Advanced\\01. Stacks and Queues\\Solutions\\07. Hot Potato\\obj\\",
+        "outputPath": "D:\\My Documents\\Stilyan\\Programming and Editing\\Programming\\Files\\Visual Studio\\SoftUni-CSharp-Advanced-January-2024\\01. Stacks and Queues\\Solutions\\07. Hot Potato\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

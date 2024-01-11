@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\My Documents\\Stilyan\\Programming and Editing\\Programming\\Files\\Visual Studio\\C# Advanced\\01. Stacks and Queues\\Solutions\\01. Reverse a String\\01. Reverse a String.csproj": {}
+    "D:\\My Documents\\Stilyan\\Programming and Editing\\Programming\\Files\\Visual Studio\\SoftUni-CSharp-Advanced-January-2024\\01. Stacks and Queues\\Solutions\\01. Reverse a String\\01. Reverse a String.csproj": {}
   },
   "projects": {
-    "D:\\My Documents\\Stilyan\\Programming and Editing\\Programming\\Files\\Visual Studio\\C# Advanced\\01. Stacks and Queues\\Solutions\\01. Reverse a String\\01. Reverse a String.csproj": {
+    "D:\\My Documents\\Stilyan\\Programming and Editing\\Programming\\Files\\Visual Studio\\SoftUni-CSharp-Advanced-January-2024\\01. Stacks and Queues\\Solutions\\01. Reverse a String\\01. Reverse a String.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\My Documents\\Stilyan\\Programming and Editing\\Programming\\Files\\Visual Studio\\C# Advanced\\01. Stacks and Queues\\Solutions\\01. Reverse a String\\01. Reverse a String.csproj",
+        "projectUniqueName": "D:\\My Documents\\Stilyan\\Programming and Editing\\Programming\\Files\\Visual Studio\\SoftUni-CSharp-Advanced-January-2024\\01. Stacks and Queues\\Solutions\\01. Reverse a String\\01. Reverse a String.csproj",
         "projectName": "01. Reverse a String",
-        "projectPath": "D:\\My Documents\\Stilyan\\Programming and Editing\\Programming\\Files\\Visual Studio\\C# Advanced\\01. Stacks and Queues\\Solutions\\01. Reverse a String\\01. Reverse a String.csproj",
+        "projectPath": "D:\\My Documents\\Stilyan\\Programming and Editing\\Programming\\Files\\Visual Studio\\SoftUni-CSharp-Advanced-January-2024\\01. Stacks and Queues\\Solutions\\01. Reverse a String\\01. Reverse a String.csproj",
         "packagesPath": "C:\\Users\\Becko\\.nuget\\packages\\",
-        "outputPath": "D:\\My Documents\\Stilyan\\Programming and Editing\\Programming\\Files\\Visual Studio\\C# Advanced\\01. Stacks and Queues\\Solutions\\01. Reverse a String\\obj\\",
+        "outputPath": "D:\\My Documents\\Stilyan\\Programming and Editing\\Programming\\Files\\Visual Studio\\SoftUni-CSharp-Advanced-January-2024\\01. Stacks and Queues\\Solutions\\01. Reverse a String\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

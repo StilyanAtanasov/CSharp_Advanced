@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\My Documents\\Stilyan\\Programming and Editing\\Programming\\Files\\Visual Studio\\C# Advanced\\01. Stacks and Queues\\Solutions\\04. Matching Brackets\\04. Matching Brackets.csproj": {}
+    "D:\\My Documents\\Stilyan\\Programming and Editing\\Programming\\Files\\Visual Studio\\SoftUni-CSharp-Advanced-January-2024\\01. Stacks and Queues\\Solutions\\04. Matching Brackets\\04. Matching Brackets.csproj": {}
   },
   "projects": {
-    "D:\\My Documents\\Stilyan\\Programming and Editing\\Programming\\Files\\Visual Studio\\C# Advanced\\01. Stacks and Queues\\Solutions\\04. Matching Brackets\\04. Matching Brackets.csproj": {
+    "D:\\My Documents\\Stilyan\\Programming and Editing\\Programming\\Files\\Visual Studio\\SoftUni-CSharp-Advanced-January-2024\\01. Stacks and Queues\\Solutions\\04. Matching Brackets\\04. Matching Brackets.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\My Documents\\Stilyan\\Programming and Editing\\Programming\\Files\\Visual Studio\\C# Advanced\\01. Stacks and Queues\\Solutions\\04. Matching Brackets\\04. Matching Brackets.csproj",
+        "projectUniqueName": "D:\\My Documents\\Stilyan\\Programming and Editing\\Programming\\Files\\Visual Studio\\SoftUni-CSharp-Advanced-January-2024\\01. Stacks and Queues\\Solutions\\04. Matching Brackets\\04. Matching Brackets.csproj",
         "projectName": "04. Matching Brackets",
-        "projectPath": "D:\\My Documents\\Stilyan\\Programming and Editing\\Programming\\Files\\Visual Studio\\C# Advanced\\01. Stacks and Queues\\Solutions\\04. Matching Brackets\\04. Matching Brackets.csproj",
+        "projectPath": "D:\\My Documents\\Stilyan\\Programming and Editing\\Programming\\Files\\Visual Studio\\SoftUni-CSharp-Advanced-January-2024\\01. Stacks and Queues\\Solutions\\04. Matching Brackets\\04. Matching Brackets.csproj",
         "packagesPath": "C:\\Users\\Becko\\.nuget\\packages\\",
-        "outputPath": "D:\\My Documents\\Stilyan\\Programming and Editing\\Programming\\Files\\Visual Studio\\C# Advanced\\01. Stacks and Queues\\Solutions\\04. Matching Brackets\\obj\\",
+        "outputPath": "D:\\My Documents\\Stilyan\\Programming and Editing\\Programming\\Files\\Visual Studio\\SoftUni-CSharp-Advanced-January-2024\\01. Stacks and Queues\\Solutions\\04. Matching Brackets\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

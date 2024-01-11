@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\My Documents\\Stilyan\\Programming and Editing\\Programming\\Files\\Visual Studio\\C# Advanced\\01. Stacks and Queues\\Solutions\\08. Traffic Jam\\08. Traffic Jam.csproj",
+      "projectUniqueName": "D:\\My Documents\\Stilyan\\Programming and Editing\\Programming\\Files\\Visual Studio\\SoftUni-CSharp-Advanced-January-2024\\01. Stacks and Queues\\Solutions\\08. Traffic Jam\\08. Traffic Jam.csproj",
       "projectName": "08. Traffic Jam",
-      "projectPath": "D:\\My Documents\\Stilyan\\Programming and Editing\\Programming\\Files\\Visual Studio\\C# Advanced\\01. Stacks and Queues\\Solutions\\08. Traffic Jam\\08. Traffic Jam.csproj",
+      "projectPath": "D:\\My Documents\\Stilyan\\Programming and Editing\\Programming\\Files\\Visual Studio\\SoftUni-CSharp-Advanced-January-2024\\01. Stacks and Queues\\Solutions\\08. Traffic Jam\\08. Traffic Jam.csproj",
       "packagesPath": "C:\\Users\\Becko\\.nuget\\packages\\",
-      "outputPath": "D:\\My Documents\\Stilyan\\Programming and Editing\\Programming\\Files\\Visual Studio\\C# Advanced\\01. Stacks and Queues\\Solutions\\08. Traffic Jam\\obj\\",
+      "outputPath": "D:\\My Documents\\Stilyan\\Programming and Editing\\Programming\\Files\\Visual Studio\\SoftUni-CSharp-Advanced-January-2024\\01. Stacks and Queues\\Solutions\\08. Traffic Jam\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
