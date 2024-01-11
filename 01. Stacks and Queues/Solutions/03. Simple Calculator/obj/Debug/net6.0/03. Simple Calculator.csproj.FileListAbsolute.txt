@@ -1,0 +1,14 @@
+D:\My Documents\Stilyan\Programming and Editing\Programming\Files\Visual Studio\C# Advanced\01. Stacks and Queues\Solutions\03. Simple Calculator\bin\Debug\net6.0\03. Simple Calculator.exe
+D:\My Documents\Stilyan\Programming and Editing\Programming\Files\Visual Studio\C# Advanced\01. Stacks and Queues\Solutions\03. Simple Calculator\bin\Debug\net6.0\03. Simple Calculator.deps.json
+D:\My Documents\Stilyan\Programming and Editing\Programming\Files\Visual Studio\C# Advanced\01. Stacks and Queues\Solutions\03. Simple Calculator\bin\Debug\net6.0\03. Simple Calculator.runtimeconfig.json
+D:\My Documents\Stilyan\Programming and Editing\Programming\Files\Visual Studio\C# Advanced\01. Stacks and Queues\Solutions\03. Simple Calculator\bin\Debug\net6.0\03. Simple Calculator.dll
+D:\My Documents\Stilyan\Programming and Editing\Programming\Files\Visual Studio\C# Advanced\01. Stacks and Queues\Solutions\03. Simple Calculator\bin\Debug\net6.0\03. Simple Calculator.pdb
+D:\My Documents\Stilyan\Programming and Editing\Programming\Files\Visual Studio\C# Advanced\01. Stacks and Queues\Solutions\03. Simple Calculator\obj\Debug\net6.0\03. Simple Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Documents\Stilyan\Programming and Editing\Programming\Files\Visual Studio\C# Advanced\01. Stacks and Queues\Solutions\03. Simple Calculator\obj\Debug\net6.0\03. Simple Calculator.AssemblyInfoInputs.cache
+D:\My Documents\Stilyan\Programming and Editing\Programming\Files\Visual Studio\C# Advanced\01. Stacks and Queues\Solutions\03. Simple Calculator\obj\Debug\net6.0\03. Simple Calculator.AssemblyInfo.cs
+D:\My Documents\Stilyan\Programming and Editing\Programming\Files\Visual Studio\C# Advanced\01. Stacks and Queues\Solutions\03. Simple Calculator\obj\Debug\net6.0\03. Simple Calculator.csproj.CoreCompileInputs.cache
+D:\My Documents\Stilyan\Programming and Editing\Programming\Files\Visual Studio\C# Advanced\01. Stacks and Queues\Solutions\03. Simple Calculator\obj\Debug\net6.0\03. Simple Calculator.dll
+D:\My Documents\Stilyan\Programming and Editing\Programming\Files\Visual Studio\C# Advanced\01. Stacks and Queues\Solutions\03. Simple Calculator\obj\Debug\net6.0\refint\03. Simple Calculator.dll
+D:\My Documents\Stilyan\Programming and Editing\Programming\Files\Visual Studio\C# Advanced\01. Stacks and Queues\Solutions\03. Simple Calculator\obj\Debug\net6.0\03. Simple Calculator.pdb
+D:\My Documents\Stilyan\Programming and Editing\Programming\Files\Visual Studio\C# Advanced\01. Stacks and Queues\Solutions\03. Simple Calculator\obj\Debug\net6.0\03. Simple Calculator.genruntimeconfig.cache
+D:\My Documents\Stilyan\Programming and Editing\Programming\Files\Visual Studio\C# Advanced\01. Stacks and Queues\Solutions\03. Simple Calculator\obj\Debug\net6.0\ref\03. Simple Calculator.dll

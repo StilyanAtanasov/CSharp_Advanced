@@ -1,0 +1,14 @@
+D:\My Documents\Stilyan\Programming and Editing\Programming\Files\Visual Studio\C# Advanced\01. Stacks and Queues\Solutions\01. Reverse a String\bin\Debug\net6.0\01. Reverse a String.exe
+D:\My Documents\Stilyan\Programming and Editing\Programming\Files\Visual Studio\C# Advanced\01. Stacks and Queues\Solutions\01. Reverse a String\bin\Debug\net6.0\01. Reverse a String.deps.json
+D:\My Documents\Stilyan\Programming and Editing\Programming\Files\Visual Studio\C# Advanced\01. Stacks and Queues\Solutions\01. Reverse a String\bin\Debug\net6.0\01. Reverse a String.runtimeconfig.json
+D:\My Documents\Stilyan\Programming and Editing\Programming\Files\Visual Studio\C# Advanced\01. Stacks and Queues\Solutions\01. Reverse a String\bin\Debug\net6.0\01. Reverse a String.dll
+D:\My Documents\Stilyan\Programming and Editing\Programming\Files\Visual Studio\C# Advanced\01. Stacks and Queues\Solutions\01. Reverse a String\bin\Debug\net6.0\01. Reverse a String.pdb
+D:\My Documents\Stilyan\Programming and Editing\Programming\Files\Visual Studio\C# Advanced\01. Stacks and Queues\Solutions\01. Reverse a String\obj\Debug\net6.0\01. Reverse a String.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Documents\Stilyan\Programming and Editing\Programming\Files\Visual Studio\C# Advanced\01. Stacks and Queues\Solutions\01. Reverse a String\obj\Debug\net6.0\01. Reverse a String.AssemblyInfoInputs.cache
+D:\My Documents\Stilyan\Programming and Editing\Programming\Files\Visual Studio\C# Advanced\01. Stacks and Queues\Solutions\01. Reverse a String\obj\Debug\net6.0\01. Reverse a String.AssemblyInfo.cs
+D:\My Documents\Stilyan\Programming and Editing\Programming\Files\Visual Studio\C# Advanced\01. Stacks and Queues\Solutions\01. Reverse a String\obj\Debug\net6.0\01. Reverse a String.csproj.CoreCompileInputs.cache
+D:\My Documents\Stilyan\Programming and Editing\Programming\Files\Visual Studio\C# Advanced\01. Stacks and Queues\Solutions\01. Reverse a String\obj\Debug\net6.0\01. Reverse a String.dll
+D:\My Documents\Stilyan\Programming and Editing\Programming\Files\Visual Studio\C# Advanced\01. Stacks and Queues\Solutions\01. Reverse a String\obj\Debug\net6.0\refint\01. Reverse a String.dll
+D:\My Documents\Stilyan\Programming and Editing\Programming\Files\Visual Studio\C# Advanced\01. Stacks and Queues\Solutions\01. Reverse a String\obj\Debug\net6.0\01. Reverse a String.pdb
+D:\My Documents\Stilyan\Programming and Editing\Programming\Files\Visual Studio\C# Advanced\01. Stacks and Queues\Solutions\01. Reverse a String\obj\Debug\net6.0\01. Reverse a String.genruntimeconfig.cache
+D:\My Documents\Stilyan\Programming and Editing\Programming\Files\Visual Studio\C# Advanced\01. Stacks and Queues\Solutions\01. Reverse a String\obj\Debug\net6.0\ref\01. Reverse a String.dll
