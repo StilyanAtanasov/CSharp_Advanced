@@ -4,7 +4,7 @@ int n = values[0]; // Stack length
 int s = values[1]; // Elements to Pop()
 int x = values[2]; // Element to find
 
-Stack<int> stack = new(Console.ReadLine()!.Split().Select(int.Parse));
+Stack<int> stack = new(Console.ReadLine()!.Split().Select(int.Parse).ToArray()[..n]);
 
 if (s > n) s = n;
 for (int i = 0; i < s; i++) stack.Pop();
