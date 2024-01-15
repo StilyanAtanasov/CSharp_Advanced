@@ -1,0 +1,14 @@
+D:\My Documents\Stilyan\Programming\GitHub Repositories\SoftUni-CSharp-Advanced-January-2024\02. Exercise Stacks and Queues\Solutions\05. Fashion Boutique\bin\Debug\net6.0\05. Fashion Boutique.exe
+D:\My Documents\Stilyan\Programming\GitHub Repositories\SoftUni-CSharp-Advanced-January-2024\02. Exercise Stacks and Queues\Solutions\05. Fashion Boutique\bin\Debug\net6.0\05. Fashion Boutique.deps.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\SoftUni-CSharp-Advanced-January-2024\02. Exercise Stacks and Queues\Solutions\05. Fashion Boutique\bin\Debug\net6.0\05. Fashion Boutique.runtimeconfig.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\SoftUni-CSharp-Advanced-January-2024\02. Exercise Stacks and Queues\Solutions\05. Fashion Boutique\bin\Debug\net6.0\05. Fashion Boutique.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\SoftUni-CSharp-Advanced-January-2024\02. Exercise Stacks and Queues\Solutions\05. Fashion Boutique\bin\Debug\net6.0\05. Fashion Boutique.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\SoftUni-CSharp-Advanced-January-2024\02. Exercise Stacks and Queues\Solutions\05. Fashion Boutique\obj\Debug\net6.0\05. Fashion Boutique.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Documents\Stilyan\Programming\GitHub Repositories\SoftUni-CSharp-Advanced-January-2024\02. Exercise Stacks and Queues\Solutions\05. Fashion Boutique\obj\Debug\net6.0\05. Fashion Boutique.AssemblyInfoInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\SoftUni-CSharp-Advanced-January-2024\02. Exercise Stacks and Queues\Solutions\05. Fashion Boutique\obj\Debug\net6.0\05. Fashion Boutique.AssemblyInfo.cs
+D:\My Documents\Stilyan\Programming\GitHub Repositories\SoftUni-CSharp-Advanced-January-2024\02. Exercise Stacks and Queues\Solutions\05. Fashion Boutique\obj\Debug\net6.0\05. Fashion Boutique.csproj.CoreCompileInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\SoftUni-CSharp-Advanced-January-2024\02. Exercise Stacks and Queues\Solutions\05. Fashion Boutique\obj\Debug\net6.0\05. Fashion Boutique.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\SoftUni-CSharp-Advanced-January-2024\02. Exercise Stacks and Queues\Solutions\05. Fashion Boutique\obj\Debug\net6.0\refint\05. Fashion Boutique.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\SoftUni-CSharp-Advanced-January-2024\02. Exercise Stacks and Queues\Solutions\05. Fashion Boutique\obj\Debug\net6.0\05. Fashion Boutique.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\SoftUni-CSharp-Advanced-January-2024\02. Exercise Stacks and Queues\Solutions\05. Fashion Boutique\obj\Debug\net6.0\05. Fashion Boutique.genruntimeconfig.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\SoftUni-CSharp-Advanced-January-2024\02. Exercise Stacks and Queues\Solutions\05. Fashion Boutique\obj\Debug\net6.0\ref\05. Fashion Boutique.dll
