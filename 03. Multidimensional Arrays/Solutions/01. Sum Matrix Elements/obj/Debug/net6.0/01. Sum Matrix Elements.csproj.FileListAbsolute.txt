@@ -1,0 +1,14 @@
+D:\My Documents\Stilyan\Programming\GitHub\Repositories\SoftUni-CSharp-Advanced-January-2024\03. Multidimensional Arrays\Solutions\01. Sum Matrix Elements\bin\Debug\net6.0\01. Sum Matrix Elements.exe
+D:\My Documents\Stilyan\Programming\GitHub\Repositories\SoftUni-CSharp-Advanced-January-2024\03. Multidimensional Arrays\Solutions\01. Sum Matrix Elements\bin\Debug\net6.0\01. Sum Matrix Elements.deps.json
+D:\My Documents\Stilyan\Programming\GitHub\Repositories\SoftUni-CSharp-Advanced-January-2024\03. Multidimensional Arrays\Solutions\01. Sum Matrix Elements\bin\Debug\net6.0\01. Sum Matrix Elements.runtimeconfig.json
+D:\My Documents\Stilyan\Programming\GitHub\Repositories\SoftUni-CSharp-Advanced-January-2024\03. Multidimensional Arrays\Solutions\01. Sum Matrix Elements\bin\Debug\net6.0\01. Sum Matrix Elements.dll
+D:\My Documents\Stilyan\Programming\GitHub\Repositories\SoftUni-CSharp-Advanced-January-2024\03. Multidimensional Arrays\Solutions\01. Sum Matrix Elements\bin\Debug\net6.0\01. Sum Matrix Elements.pdb
+D:\My Documents\Stilyan\Programming\GitHub\Repositories\SoftUni-CSharp-Advanced-January-2024\03. Multidimensional Arrays\Solutions\01. Sum Matrix Elements\obj\Debug\net6.0\01. Sum Matrix Elements.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Documents\Stilyan\Programming\GitHub\Repositories\SoftUni-CSharp-Advanced-January-2024\03. Multidimensional Arrays\Solutions\01. Sum Matrix Elements\obj\Debug\net6.0\01. Sum Matrix Elements.AssemblyInfoInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub\Repositories\SoftUni-CSharp-Advanced-January-2024\03. Multidimensional Arrays\Solutions\01. Sum Matrix Elements\obj\Debug\net6.0\01. Sum Matrix Elements.AssemblyInfo.cs
+D:\My Documents\Stilyan\Programming\GitHub\Repositories\SoftUni-CSharp-Advanced-January-2024\03. Multidimensional Arrays\Solutions\01. Sum Matrix Elements\obj\Debug\net6.0\01. Sum Matrix Elements.csproj.CoreCompileInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub\Repositories\SoftUni-CSharp-Advanced-January-2024\03. Multidimensional Arrays\Solutions\01. Sum Matrix Elements\obj\Debug\net6.0\01. Sum Matrix Elements.dll
+D:\My Documents\Stilyan\Programming\GitHub\Repositories\SoftUni-CSharp-Advanced-January-2024\03. Multidimensional Arrays\Solutions\01. Sum Matrix Elements\obj\Debug\net6.0\refint\01. Sum Matrix Elements.dll
+D:\My Documents\Stilyan\Programming\GitHub\Repositories\SoftUni-CSharp-Advanced-January-2024\03. Multidimensional Arrays\Solutions\01. Sum Matrix Elements\obj\Debug\net6.0\01. Sum Matrix Elements.pdb
+D:\My Documents\Stilyan\Programming\GitHub\Repositories\SoftUni-CSharp-Advanced-January-2024\03. Multidimensional Arrays\Solutions\01. Sum Matrix Elements\obj\Debug\net6.0\01. Sum Matrix Elements.genruntimeconfig.cache
+D:\My Documents\Stilyan\Programming\GitHub\Repositories\SoftUni-CSharp-Advanced-January-2024\03. Multidimensional Arrays\Solutions\01. Sum Matrix Elements\obj\Debug\net6.0\ref\01. Sum Matrix Elements.dll
