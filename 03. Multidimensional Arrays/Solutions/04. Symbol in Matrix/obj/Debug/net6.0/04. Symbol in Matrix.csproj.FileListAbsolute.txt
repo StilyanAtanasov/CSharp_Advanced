@@ -1,0 +1,14 @@
+D:\My Documents\Stilyan\Programming\GitHub\Repositories\SoftUni-CSharp-Advanced-January-2024\03. Multidimensional Arrays\Solutions\04. Symbol in Matrix\bin\Debug\net6.0\04. Symbol in Matrix.exe
+D:\My Documents\Stilyan\Programming\GitHub\Repositories\SoftUni-CSharp-Advanced-January-2024\03. Multidimensional Arrays\Solutions\04. Symbol in Matrix\bin\Debug\net6.0\04. Symbol in Matrix.deps.json
+D:\My Documents\Stilyan\Programming\GitHub\Repositories\SoftUni-CSharp-Advanced-January-2024\03. Multidimensional Arrays\Solutions\04. Symbol in Matrix\bin\Debug\net6.0\04. Symbol in Matrix.runtimeconfig.json
+D:\My Documents\Stilyan\Programming\GitHub\Repositories\SoftUni-CSharp-Advanced-January-2024\03. Multidimensional Arrays\Solutions\04. Symbol in Matrix\bin\Debug\net6.0\04. Symbol in Matrix.dll
+D:\My Documents\Stilyan\Programming\GitHub\Repositories\SoftUni-CSharp-Advanced-January-2024\03. Multidimensional Arrays\Solutions\04. Symbol in Matrix\bin\Debug\net6.0\04. Symbol in Matrix.pdb
+D:\My Documents\Stilyan\Programming\GitHub\Repositories\SoftUni-CSharp-Advanced-January-2024\03. Multidimensional Arrays\Solutions\04. Symbol in Matrix\obj\Debug\net6.0\04. Symbol in Matrix.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Documents\Stilyan\Programming\GitHub\Repositories\SoftUni-CSharp-Advanced-January-2024\03. Multidimensional Arrays\Solutions\04. Symbol in Matrix\obj\Debug\net6.0\04. Symbol in Matrix.AssemblyInfoInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub\Repositories\SoftUni-CSharp-Advanced-January-2024\03. Multidimensional Arrays\Solutions\04. Symbol in Matrix\obj\Debug\net6.0\04. Symbol in Matrix.AssemblyInfo.cs
+D:\My Documents\Stilyan\Programming\GitHub\Repositories\SoftUni-CSharp-Advanced-January-2024\03. Multidimensional Arrays\Solutions\04. Symbol in Matrix\obj\Debug\net6.0\04. Symbol in Matrix.csproj.CoreCompileInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub\Repositories\SoftUni-CSharp-Advanced-January-2024\03. Multidimensional Arrays\Solutions\04. Symbol in Matrix\obj\Debug\net6.0\04. Symbol in Matrix.dll
+D:\My Documents\Stilyan\Programming\GitHub\Repositories\SoftUni-CSharp-Advanced-January-2024\03. Multidimensional Arrays\Solutions\04. Symbol in Matrix\obj\Debug\net6.0\refint\04. Symbol in Matrix.dll
+D:\My Documents\Stilyan\Programming\GitHub\Repositories\SoftUni-CSharp-Advanced-January-2024\03. Multidimensional Arrays\Solutions\04. Symbol in Matrix\obj\Debug\net6.0\04. Symbol in Matrix.pdb
+D:\My Documents\Stilyan\Programming\GitHub\Repositories\SoftUni-CSharp-Advanced-January-2024\03. Multidimensional Arrays\Solutions\04. Symbol in Matrix\obj\Debug\net6.0\04. Symbol in Matrix.genruntimeconfig.cache
+D:\My Documents\Stilyan\Programming\GitHub\Repositories\SoftUni-CSharp-Advanced-January-2024\03. Multidimensional Arrays\Solutions\04. Symbol in Matrix\obj\Debug\net6.0\ref\04. Symbol in Matrix.dll
