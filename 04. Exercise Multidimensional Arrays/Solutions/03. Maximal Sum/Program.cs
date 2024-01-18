@@ -8,8 +8,8 @@ for (int i = 0; i < matrix.GetLength(0); i++)
 }
 
 int highestSum = int.MinValue;
-uint hieghesSumMatrixRow = 0;
-uint hieghesSumMatrixColumn = 0;
+uint highestSumMatrixRow = 0;
+uint highestSumMatrixColumn = 0;
 for (uint i = 0; i < matrix.GetLength(0) - 2; i++)
     for (uint j = 0; j < matrix.GetLength(1) - 2; j++)
     {
@@ -19,14 +19,14 @@ for (uint i = 0; i < matrix.GetLength(0) - 2; i++)
         if (sum > highestSum)
         {
             highestSum = sum;
-            hieghesSumMatrixRow = i;
-            hieghesSumMatrixColumn = j;
+            highestSumMatrixRow = i;
+            highestSumMatrixColumn = j;
         }
     }
 
 Console.WriteLine($"Sum = {highestSum}");
 for (int i = 0; i < 3; i++)
 {
-    for (int j = 0; j < 3; j++)Console.Write(matrix[hieghesSumMatrixRow + i, hieghesSumMatrixColumn + j] + " ");
+    for (int j = 0; j < 3; j++)Console.Write(matrix[highestSumMatrixRow + i, highestSumMatrixColumn + j] + " ");
     Console.WriteLine();
 }
