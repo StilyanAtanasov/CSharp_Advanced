@@ -1,0 +1,14 @@
+D:\My Documents\Stilyan\Programming\GitHub\Repositories\SoftUni-CSharp-Advanced-January-2024\04. Exercise Multidimensional Arrays\Solutions\05. Snake Moves\bin\Debug\net6.0\05. Snake Moves.exe
+D:\My Documents\Stilyan\Programming\GitHub\Repositories\SoftUni-CSharp-Advanced-January-2024\04. Exercise Multidimensional Arrays\Solutions\05. Snake Moves\bin\Debug\net6.0\05. Snake Moves.deps.json
+D:\My Documents\Stilyan\Programming\GitHub\Repositories\SoftUni-CSharp-Advanced-January-2024\04. Exercise Multidimensional Arrays\Solutions\05. Snake Moves\bin\Debug\net6.0\05. Snake Moves.runtimeconfig.json
+D:\My Documents\Stilyan\Programming\GitHub\Repositories\SoftUni-CSharp-Advanced-January-2024\04. Exercise Multidimensional Arrays\Solutions\05. Snake Moves\bin\Debug\net6.0\05. Snake Moves.dll
+D:\My Documents\Stilyan\Programming\GitHub\Repositories\SoftUni-CSharp-Advanced-January-2024\04. Exercise Multidimensional Arrays\Solutions\05. Snake Moves\bin\Debug\net6.0\05. Snake Moves.pdb
+D:\My Documents\Stilyan\Programming\GitHub\Repositories\SoftUni-CSharp-Advanced-January-2024\04. Exercise Multidimensional Arrays\Solutions\05. Snake Moves\obj\Debug\net6.0\05. Snake Moves.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Documents\Stilyan\Programming\GitHub\Repositories\SoftUni-CSharp-Advanced-January-2024\04. Exercise Multidimensional Arrays\Solutions\05. Snake Moves\obj\Debug\net6.0\05. Snake Moves.AssemblyInfoInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub\Repositories\SoftUni-CSharp-Advanced-January-2024\04. Exercise Multidimensional Arrays\Solutions\05. Snake Moves\obj\Debug\net6.0\05. Snake Moves.AssemblyInfo.cs
+D:\My Documents\Stilyan\Programming\GitHub\Repositories\SoftUni-CSharp-Advanced-January-2024\04. Exercise Multidimensional Arrays\Solutions\05. Snake Moves\obj\Debug\net6.0\05. Snake Moves.csproj.CoreCompileInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub\Repositories\SoftUni-CSharp-Advanced-January-2024\04. Exercise Multidimensional Arrays\Solutions\05. Snake Moves\obj\Debug\net6.0\05. Snake Moves.dll
+D:\My Documents\Stilyan\Programming\GitHub\Repositories\SoftUni-CSharp-Advanced-January-2024\04. Exercise Multidimensional Arrays\Solutions\05. Snake Moves\obj\Debug\net6.0\refint\05. Snake Moves.dll
+D:\My Documents\Stilyan\Programming\GitHub\Repositories\SoftUni-CSharp-Advanced-January-2024\04. Exercise Multidimensional Arrays\Solutions\05. Snake Moves\obj\Debug\net6.0\05. Snake Moves.pdb
+D:\My Documents\Stilyan\Programming\GitHub\Repositories\SoftUni-CSharp-Advanced-January-2024\04. Exercise Multidimensional Arrays\Solutions\05. Snake Moves\obj\Debug\net6.0\05. Snake Moves.genruntimeconfig.cache
+D:\My Documents\Stilyan\Programming\GitHub\Repositories\SoftUni-CSharp-Advanced-January-2024\04. Exercise Multidimensional Arrays\Solutions\05. Snake Moves\obj\Debug\net6.0\ref\05. Snake Moves.dll
