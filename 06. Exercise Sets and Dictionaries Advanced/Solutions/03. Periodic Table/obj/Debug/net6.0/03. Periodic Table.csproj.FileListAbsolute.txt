@@ -1,0 +1,14 @@
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\06. Exercise Sets and Dictionaries Advanced\Solutions\03. Periodic Table\bin\Debug\net6.0\03. Periodic Table.exe
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\06. Exercise Sets and Dictionaries Advanced\Solutions\03. Periodic Table\bin\Debug\net6.0\03. Periodic Table.deps.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\06. Exercise Sets and Dictionaries Advanced\Solutions\03. Periodic Table\bin\Debug\net6.0\03. Periodic Table.runtimeconfig.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\06. Exercise Sets and Dictionaries Advanced\Solutions\03. Periodic Table\bin\Debug\net6.0\03. Periodic Table.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\06. Exercise Sets and Dictionaries Advanced\Solutions\03. Periodic Table\bin\Debug\net6.0\03. Periodic Table.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\06. Exercise Sets and Dictionaries Advanced\Solutions\03. Periodic Table\obj\Debug\net6.0\03. Periodic Table.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\06. Exercise Sets and Dictionaries Advanced\Solutions\03. Periodic Table\obj\Debug\net6.0\03. Periodic Table.AssemblyInfoInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\06. Exercise Sets and Dictionaries Advanced\Solutions\03. Periodic Table\obj\Debug\net6.0\03. Periodic Table.AssemblyInfo.cs
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\06. Exercise Sets and Dictionaries Advanced\Solutions\03. Periodic Table\obj\Debug\net6.0\03. Periodic Table.csproj.CoreCompileInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\06. Exercise Sets and Dictionaries Advanced\Solutions\03. Periodic Table\obj\Debug\net6.0\03. Periodic Table.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\06. Exercise Sets and Dictionaries Advanced\Solutions\03. Periodic Table\obj\Debug\net6.0\refint\03. Periodic Table.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\06. Exercise Sets and Dictionaries Advanced\Solutions\03. Periodic Table\obj\Debug\net6.0\03. Periodic Table.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\06. Exercise Sets and Dictionaries Advanced\Solutions\03. Periodic Table\obj\Debug\net6.0\03. Periodic Table.genruntimeconfig.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\06. Exercise Sets and Dictionaries Advanced\Solutions\03. Periodic Table\obj\Debug\net6.0\ref\03. Periodic Table.dll
