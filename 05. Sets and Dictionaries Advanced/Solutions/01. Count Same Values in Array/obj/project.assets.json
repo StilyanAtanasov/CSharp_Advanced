@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\My Documents\\Stilyan\\Programming\\GitHub\\Repositories\\SoftUni-CSharp-Advanced-January-2024\\05. Sets and Dictionaries Advanced\\Solutions\\01. Count Same Values in Array\\01. Count Same Values in Array.csproj",
+      "projectUniqueName": "D:\\My Documents\\Stilyan\\Programming\\GitHub Repositories\\C# Advanced\\05. Sets and Dictionaries Advanced\\Solutions\\01. Count Same Values in Array\\01. Count Same Values in Array.csproj",
       "projectName": "01. Count Same Values in Array",
-      "projectPath": "D:\\My Documents\\Stilyan\\Programming\\GitHub\\Repositories\\SoftUni-CSharp-Advanced-January-2024\\05. Sets and Dictionaries Advanced\\Solutions\\01. Count Same Values in Array\\01. Count Same Values in Array.csproj",
+      "projectPath": "D:\\My Documents\\Stilyan\\Programming\\GitHub Repositories\\C# Advanced\\05. Sets and Dictionaries Advanced\\Solutions\\01. Count Same Values in Array\\01. Count Same Values in Array.csproj",
       "packagesPath": "C:\\Users\\Becko\\.nuget\\packages\\",
-      "outputPath": "D:\\My Documents\\Stilyan\\Programming\\GitHub\\Repositories\\SoftUni-CSharp-Advanced-January-2024\\05. Sets and Dictionaries Advanced\\Solutions\\01. Count Same Values in Array\\obj\\",
+      "outputPath": "D:\\My Documents\\Stilyan\\Programming\\GitHub Repositories\\C# Advanced\\05. Sets and Dictionaries Advanced\\Solutions\\01. Count Same Values in Array\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

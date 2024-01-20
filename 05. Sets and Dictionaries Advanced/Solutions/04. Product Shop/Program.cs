@@ -1,6 +1,4 @@
-﻿using System.Globalization;
-
-SortedDictionary<string, Dictionary<string, double>> shops = new();
+﻿SortedDictionary<string, Dictionary<string, double>> shops = new();
 
 string command = Console.ReadLine()!;
 while (command != "Revision")
