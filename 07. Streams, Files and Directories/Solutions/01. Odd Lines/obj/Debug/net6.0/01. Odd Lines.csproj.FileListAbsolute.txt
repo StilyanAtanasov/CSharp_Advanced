@@ -1,0 +1,14 @@
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\07. Streams, Files and Directories\Solutions\01. Odd Lines\bin\Debug\net6.0\01. Odd Lines.exe
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\07. Streams, Files and Directories\Solutions\01. Odd Lines\bin\Debug\net6.0\01. Odd Lines.deps.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\07. Streams, Files and Directories\Solutions\01. Odd Lines\bin\Debug\net6.0\01. Odd Lines.runtimeconfig.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\07. Streams, Files and Directories\Solutions\01. Odd Lines\bin\Debug\net6.0\01. Odd Lines.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\07. Streams, Files and Directories\Solutions\01. Odd Lines\bin\Debug\net6.0\01. Odd Lines.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\07. Streams, Files and Directories\Solutions\01. Odd Lines\obj\Debug\net6.0\01. Odd Lines.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\07. Streams, Files and Directories\Solutions\01. Odd Lines\obj\Debug\net6.0\01. Odd Lines.AssemblyInfoInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\07. Streams, Files and Directories\Solutions\01. Odd Lines\obj\Debug\net6.0\01. Odd Lines.AssemblyInfo.cs
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\07. Streams, Files and Directories\Solutions\01. Odd Lines\obj\Debug\net6.0\01. Odd Lines.csproj.CoreCompileInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\07. Streams, Files and Directories\Solutions\01. Odd Lines\obj\Debug\net6.0\01. Odd Lines.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\07. Streams, Files and Directories\Solutions\01. Odd Lines\obj\Debug\net6.0\refint\01. Odd Lines.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\07. Streams, Files and Directories\Solutions\01. Odd Lines\obj\Debug\net6.0\01. Odd Lines.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\07. Streams, Files and Directories\Solutions\01. Odd Lines\obj\Debug\net6.0\01. Odd Lines.genruntimeconfig.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\07. Streams, Files and Directories\Solutions\01. Odd Lines\obj\Debug\net6.0\ref\01. Odd Lines.dll
