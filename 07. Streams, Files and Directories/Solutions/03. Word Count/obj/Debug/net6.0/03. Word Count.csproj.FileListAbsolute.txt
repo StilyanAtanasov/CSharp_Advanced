@@ -1,0 +1,14 @@
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\07. Streams, Files and Directories\Solutions\03. Word Count\bin\Debug\net6.0\03. Word Count.exe
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\07. Streams, Files and Directories\Solutions\03. Word Count\bin\Debug\net6.0\03. Word Count.deps.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\07. Streams, Files and Directories\Solutions\03. Word Count\bin\Debug\net6.0\03. Word Count.runtimeconfig.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\07. Streams, Files and Directories\Solutions\03. Word Count\bin\Debug\net6.0\03. Word Count.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\07. Streams, Files and Directories\Solutions\03. Word Count\bin\Debug\net6.0\03. Word Count.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\07. Streams, Files and Directories\Solutions\03. Word Count\obj\Debug\net6.0\03. Word Count.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\07. Streams, Files and Directories\Solutions\03. Word Count\obj\Debug\net6.0\03. Word Count.AssemblyInfoInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\07. Streams, Files and Directories\Solutions\03. Word Count\obj\Debug\net6.0\03. Word Count.AssemblyInfo.cs
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\07. Streams, Files and Directories\Solutions\03. Word Count\obj\Debug\net6.0\03. Word Count.csproj.CoreCompileInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\07. Streams, Files and Directories\Solutions\03. Word Count\obj\Debug\net6.0\03. Word Count.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\07. Streams, Files and Directories\Solutions\03. Word Count\obj\Debug\net6.0\refint\03. Word Count.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\07. Streams, Files and Directories\Solutions\03. Word Count\obj\Debug\net6.0\03. Word Count.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\07. Streams, Files and Directories\Solutions\03. Word Count\obj\Debug\net6.0\03. Word Count.genruntimeconfig.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\07. Streams, Files and Directories\Solutions\03. Word Count\obj\Debug\net6.0\ref\03. Word Count.dll
