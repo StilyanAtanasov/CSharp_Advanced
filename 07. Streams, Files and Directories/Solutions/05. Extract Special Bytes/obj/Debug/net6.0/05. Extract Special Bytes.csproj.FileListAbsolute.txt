@@ -1,0 +1,14 @@
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\07. Streams, Files and Directories\Solutions\05. Extract Special Bytes\bin\Debug\net6.0\05. Extract Special Bytes.exe
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\07. Streams, Files and Directories\Solutions\05. Extract Special Bytes\bin\Debug\net6.0\05. Extract Special Bytes.deps.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\07. Streams, Files and Directories\Solutions\05. Extract Special Bytes\bin\Debug\net6.0\05. Extract Special Bytes.runtimeconfig.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\07. Streams, Files and Directories\Solutions\05. Extract Special Bytes\bin\Debug\net6.0\05. Extract Special Bytes.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\07. Streams, Files and Directories\Solutions\05. Extract Special Bytes\bin\Debug\net6.0\05. Extract Special Bytes.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\07. Streams, Files and Directories\Solutions\05. Extract Special Bytes\obj\Debug\net6.0\05. Extract Special Bytes.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\07. Streams, Files and Directories\Solutions\05. Extract Special Bytes\obj\Debug\net6.0\05. Extract Special Bytes.AssemblyInfoInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\07. Streams, Files and Directories\Solutions\05. Extract Special Bytes\obj\Debug\net6.0\05. Extract Special Bytes.AssemblyInfo.cs
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\07. Streams, Files and Directories\Solutions\05. Extract Special Bytes\obj\Debug\net6.0\05. Extract Special Bytes.csproj.CoreCompileInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\07. Streams, Files and Directories\Solutions\05. Extract Special Bytes\obj\Debug\net6.0\05. Extract Special Bytes.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\07. Streams, Files and Directories\Solutions\05. Extract Special Bytes\obj\Debug\net6.0\refint\05. Extract Special Bytes.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\07. Streams, Files and Directories\Solutions\05. Extract Special Bytes\obj\Debug\net6.0\05. Extract Special Bytes.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\07. Streams, Files and Directories\Solutions\05. Extract Special Bytes\obj\Debug\net6.0\05. Extract Special Bytes.genruntimeconfig.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\07. Streams, Files and Directories\Solutions\05. Extract Special Bytes\obj\Debug\net6.0\ref\05. Extract Special Bytes.dll
