@@ -6,11 +6,11 @@ CalculateWordCounts(wordPath, textPath, outputPath);
 
 static void CalculateWordCounts(string wordsFilePath, string textFilePath, string outputFilePath)
 {
-    StreamReader wordsReader = new StreamReader(wordsFilePath);
+    using StreamReader wordsReader = new StreamReader(wordsFilePath);
     Dictionary<string, ushort> wordCounts = new Dictionary<string, ushort>();
     foreach (string word in wordsReader.ReadToEnd().Split()) wordCounts.Add(word, 0);
 
-    StreamReader textReader = new StreamReader(textFilePath);
+    using StreamReader textReader = new StreamReader(textFilePath);
     while (!textReader.EndOfStream)
     {
         List<string> rowText = textReader.ReadLine()!.ToLower().Split(new[] { ' ', ',', '.', ';', ':', '!', '?', '-' }).ToList();
@@ -25,7 +25,6 @@ static void CalculateWordCounts(string wordsFilePath, string textFilePath, strin
         
     }
 
-    StreamWriter writer = new StreamWriter(outputFilePath);
+    using StreamWriter writer = new StreamWriter(outputFilePath);
     foreach (var (word, timesAppeared) in wordCounts.OrderByDescending(x => x.Value)) writer.WriteLine($"{word} - {timesAppeared}");
-    writer.Close();
 }

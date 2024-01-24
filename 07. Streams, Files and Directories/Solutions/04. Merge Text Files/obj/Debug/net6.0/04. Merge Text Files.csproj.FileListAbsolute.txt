@@ -1,0 +1,14 @@
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\07. Streams, Files and Directories\Solutions\04. Merge Text Files\bin\Debug\net6.0\04. Merge Text Files.exe
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\07. Streams, Files and Directories\Solutions\04. Merge Text Files\bin\Debug\net6.0\04. Merge Text Files.deps.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\07. Streams, Files and Directories\Solutions\04. Merge Text Files\bin\Debug\net6.0\04. Merge Text Files.runtimeconfig.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\07. Streams, Files and Directories\Solutions\04. Merge Text Files\bin\Debug\net6.0\04. Merge Text Files.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\07. Streams, Files and Directories\Solutions\04. Merge Text Files\bin\Debug\net6.0\04. Merge Text Files.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\07. Streams, Files and Directories\Solutions\04. Merge Text Files\obj\Debug\net6.0\04. Merge Text Files.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\07. Streams, Files and Directories\Solutions\04. Merge Text Files\obj\Debug\net6.0\04. Merge Text Files.AssemblyInfoInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\07. Streams, Files and Directories\Solutions\04. Merge Text Files\obj\Debug\net6.0\04. Merge Text Files.AssemblyInfo.cs
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\07. Streams, Files and Directories\Solutions\04. Merge Text Files\obj\Debug\net6.0\04. Merge Text Files.csproj.CoreCompileInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\07. Streams, Files and Directories\Solutions\04. Merge Text Files\obj\Debug\net6.0\04. Merge Text Files.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\07. Streams, Files and Directories\Solutions\04. Merge Text Files\obj\Debug\net6.0\refint\04. Merge Text Files.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\07. Streams, Files and Directories\Solutions\04. Merge Text Files\obj\Debug\net6.0\04. Merge Text Files.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\07. Streams, Files and Directories\Solutions\04. Merge Text Files\obj\Debug\net6.0\04. Merge Text Files.genruntimeconfig.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\07. Streams, Files and Directories\Solutions\04. Merge Text Files\obj\Debug\net6.0\ref\04. Merge Text Files.dll
