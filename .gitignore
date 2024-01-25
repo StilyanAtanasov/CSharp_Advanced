@@ -1,3 +1,6 @@
 # Ignore Word and PDF files
 *.docx
 *.pdf
+
+# Ignore sln settings
+*.sln.DotSettings.user
