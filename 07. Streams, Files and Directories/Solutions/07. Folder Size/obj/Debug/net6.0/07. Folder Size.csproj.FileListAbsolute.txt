@@ -1,0 +1,14 @@
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\07. Streams, Files and Directories\Solutions\07. Folder Size\bin\Debug\net6.0\07. Folder Size.exe
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\07. Streams, Files and Directories\Solutions\07. Folder Size\bin\Debug\net6.0\07. Folder Size.deps.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\07. Streams, Files and Directories\Solutions\07. Folder Size\bin\Debug\net6.0\07. Folder Size.runtimeconfig.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\07. Streams, Files and Directories\Solutions\07. Folder Size\bin\Debug\net6.0\07. Folder Size.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\07. Streams, Files and Directories\Solutions\07. Folder Size\bin\Debug\net6.0\07. Folder Size.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\07. Streams, Files and Directories\Solutions\07. Folder Size\obj\Debug\net6.0\07. Folder Size.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\07. Streams, Files and Directories\Solutions\07. Folder Size\obj\Debug\net6.0\07. Folder Size.AssemblyInfoInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\07. Streams, Files and Directories\Solutions\07. Folder Size\obj\Debug\net6.0\07. Folder Size.AssemblyInfo.cs
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\07. Streams, Files and Directories\Solutions\07. Folder Size\obj\Debug\net6.0\07. Folder Size.csproj.CoreCompileInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\07. Streams, Files and Directories\Solutions\07. Folder Size\obj\Debug\net6.0\07. Folder Size.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\07. Streams, Files and Directories\Solutions\07. Folder Size\obj\Debug\net6.0\refint\07. Folder Size.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\07. Streams, Files and Directories\Solutions\07. Folder Size\obj\Debug\net6.0\07. Folder Size.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\07. Streams, Files and Directories\Solutions\07. Folder Size\obj\Debug\net6.0\07. Folder Size.genruntimeconfig.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\07. Streams, Files and Directories\Solutions\07. Folder Size\obj\Debug\net6.0\ref\07. Folder Size.dll

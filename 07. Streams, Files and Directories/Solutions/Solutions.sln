@@ -9,11 +9,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. Line Numbers", "02. Lin
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. Word Count", "03. Word Count\03. Word Count.csproj", "{3B24D1B4-4057-4379-8EF7-3B59FB2FC67C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Merge Text Files", "04. Merge Text Files\04. Merge Text Files.csproj", "{47063AB9-0B3B-48EB-BE9B-BC6FF21FA03C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04. Merge Text Files", "04. Merge Text Files\04. Merge Text Files.csproj", "{47063AB9-0B3B-48EB-BE9B-BC6FF21FA03C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Extract Special Bytes", "05. Extract Special Bytes\05. Extract Special Bytes.csproj", "{6080B05B-3BE1-4600-A69F-71D3FD63D006}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05. Extract Special Bytes", "05. Extract Special Bytes\05. Extract Special Bytes.csproj", "{6080B05B-3BE1-4600-A69F-71D3FD63D006}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Split, Merge Binary Files", "06. Split, Merge Binary Files\06. Split, Merge Binary Files.csproj", "{80A0691B-E8EB-435E-A01A-DF8626426A51}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06. Split, Merge Binary Files", "06. Split, Merge Binary Files\06. Split, Merge Binary Files.csproj", "{80A0691B-E8EB-435E-A01A-DF8626426A51}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. Folder Size", "07. Folder Size\07. Folder Size.csproj", "{355203A8-20A0-4645-942E-36AF70BEF79C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{80A0691B-E8EB-435E-A01A-DF8626426A51}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{80A0691B-E8EB-435E-A01A-DF8626426A51}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{80A0691B-E8EB-435E-A01A-DF8626426A51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{355203A8-20A0-4645-942E-36AF70BEF79C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{355203A8-20A0-4645-942E-36AF70BEF79C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{355203A8-20A0-4645-942E-36AF70BEF79C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{355203A8-20A0-4645-942E-36AF70BEF79C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
