@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Merge Text Files", "04.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Extract Special Bytes", "05. Extract Special Bytes\05. Extract Special Bytes.csproj", "{6080B05B-3BE1-4600-A69F-71D3FD63D006}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Split, Merge Binary Files", "06. Split, Merge Binary Files\06. Split, Merge Binary Files.csproj", "{80A0691B-E8EB-435E-A01A-DF8626426A51}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{6080B05B-3BE1-4600-A69F-71D3FD63D006}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6080B05B-3BE1-4600-A69F-71D3FD63D006}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6080B05B-3BE1-4600-A69F-71D3FD63D006}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80A0691B-E8EB-435E-A01A-DF8626426A51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80A0691B-E8EB-435E-A01A-DF8626426A51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80A0691B-E8EB-435E-A01A-DF8626426A51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80A0691B-E8EB-435E-A01A-DF8626426A51}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
