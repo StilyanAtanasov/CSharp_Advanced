@@ -1,0 +1,14 @@
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\08. Exercise Streams, Files and Directories\Solutions\02. Line Numbers\bin\Debug\net6.0\02. Line Numbers.exe
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\08. Exercise Streams, Files and Directories\Solutions\02. Line Numbers\bin\Debug\net6.0\02. Line Numbers.deps.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\08. Exercise Streams, Files and Directories\Solutions\02. Line Numbers\bin\Debug\net6.0\02. Line Numbers.runtimeconfig.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\08. Exercise Streams, Files and Directories\Solutions\02. Line Numbers\bin\Debug\net6.0\02. Line Numbers.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\08. Exercise Streams, Files and Directories\Solutions\02. Line Numbers\bin\Debug\net6.0\02. Line Numbers.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\08. Exercise Streams, Files and Directories\Solutions\02. Line Numbers\obj\Debug\net6.0\02. Line Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\08. Exercise Streams, Files and Directories\Solutions\02. Line Numbers\obj\Debug\net6.0\02. Line Numbers.AssemblyInfoInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\08. Exercise Streams, Files and Directories\Solutions\02. Line Numbers\obj\Debug\net6.0\02. Line Numbers.AssemblyInfo.cs
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\08. Exercise Streams, Files and Directories\Solutions\02. Line Numbers\obj\Debug\net6.0\02. Line Numbers.csproj.CoreCompileInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\08. Exercise Streams, Files and Directories\Solutions\02. Line Numbers\obj\Debug\net6.0\02. Line Numbers.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\08. Exercise Streams, Files and Directories\Solutions\02. Line Numbers\obj\Debug\net6.0\refint\02. Line Numbers.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\08. Exercise Streams, Files and Directories\Solutions\02. Line Numbers\obj\Debug\net6.0\02. Line Numbers.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\08. Exercise Streams, Files and Directories\Solutions\02. Line Numbers\obj\Debug\net6.0\02. Line Numbers.genruntimeconfig.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\08. Exercise Streams, Files and Directories\Solutions\02. Line Numbers\obj\Debug\net6.0\ref\02. Line Numbers.dll
