@@ -4,3 +4,6 @@
 
 # Ignore DotSettings.user files
 **/*.DotSettings.user
+
+# Exclude .vs folders
+**/.vs/
