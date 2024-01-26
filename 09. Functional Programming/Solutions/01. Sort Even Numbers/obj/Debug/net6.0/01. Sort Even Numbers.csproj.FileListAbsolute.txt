@@ -1,0 +1,14 @@
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\09. Functional Programming\Solutions\01. Sort Even Numbers\bin\Debug\net6.0\01. Sort Even Numbers.exe
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\09. Functional Programming\Solutions\01. Sort Even Numbers\bin\Debug\net6.0\01. Sort Even Numbers.deps.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\09. Functional Programming\Solutions\01. Sort Even Numbers\bin\Debug\net6.0\01. Sort Even Numbers.runtimeconfig.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\09. Functional Programming\Solutions\01. Sort Even Numbers\bin\Debug\net6.0\01. Sort Even Numbers.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\09. Functional Programming\Solutions\01. Sort Even Numbers\bin\Debug\net6.0\01. Sort Even Numbers.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\09. Functional Programming\Solutions\01. Sort Even Numbers\obj\Debug\net6.0\01. Sort Even Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\09. Functional Programming\Solutions\01. Sort Even Numbers\obj\Debug\net6.0\01. Sort Even Numbers.AssemblyInfoInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\09. Functional Programming\Solutions\01. Sort Even Numbers\obj\Debug\net6.0\01. Sort Even Numbers.AssemblyInfo.cs
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\09. Functional Programming\Solutions\01. Sort Even Numbers\obj\Debug\net6.0\01. Sort Even Numbers.csproj.CoreCompileInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\09. Functional Programming\Solutions\01. Sort Even Numbers\obj\Debug\net6.0\01. Sort Even Numbers.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\09. Functional Programming\Solutions\01. Sort Even Numbers\obj\Debug\net6.0\refint\01. Sort Even Numbers.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\09. Functional Programming\Solutions\01. Sort Even Numbers\obj\Debug\net6.0\01. Sort Even Numbers.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\09. Functional Programming\Solutions\01. Sort Even Numbers\obj\Debug\net6.0\01. Sort Even Numbers.genruntimeconfig.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\09. Functional Programming\Solutions\01. Sort Even Numbers\obj\Debug\net6.0\ref\01. Sort Even Numbers.dll
