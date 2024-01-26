@@ -2,4 +2,4 @@
 *.docx
 *.pdf
 
-*.user
+**/*.DotSettings.user
