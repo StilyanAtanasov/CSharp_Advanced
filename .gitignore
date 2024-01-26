@@ -2,4 +2,5 @@
 *.docx
 *.pdf
 
+# Ignore DotSettings.user files
 **/*.DotSettings.user
