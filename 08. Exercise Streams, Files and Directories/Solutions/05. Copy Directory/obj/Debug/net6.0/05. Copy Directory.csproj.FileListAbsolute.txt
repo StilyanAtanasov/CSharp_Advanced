@@ -1,0 +1,14 @@
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\08. Exercise Streams, Files and Directories\Solutions\05. Copy Directory\bin\Debug\net6.0\05. Copy Directory.exe
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\08. Exercise Streams, Files and Directories\Solutions\05. Copy Directory\bin\Debug\net6.0\05. Copy Directory.deps.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\08. Exercise Streams, Files and Directories\Solutions\05. Copy Directory\bin\Debug\net6.0\05. Copy Directory.runtimeconfig.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\08. Exercise Streams, Files and Directories\Solutions\05. Copy Directory\bin\Debug\net6.0\05. Copy Directory.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\08. Exercise Streams, Files and Directories\Solutions\05. Copy Directory\bin\Debug\net6.0\05. Copy Directory.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\08. Exercise Streams, Files and Directories\Solutions\05. Copy Directory\obj\Debug\net6.0\05. Copy Directory.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\08. Exercise Streams, Files and Directories\Solutions\05. Copy Directory\obj\Debug\net6.0\05. Copy Directory.AssemblyInfoInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\08. Exercise Streams, Files and Directories\Solutions\05. Copy Directory\obj\Debug\net6.0\05. Copy Directory.AssemblyInfo.cs
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\08. Exercise Streams, Files and Directories\Solutions\05. Copy Directory\obj\Debug\net6.0\05. Copy Directory.csproj.CoreCompileInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\08. Exercise Streams, Files and Directories\Solutions\05. Copy Directory\obj\Debug\net6.0\05. Copy Directory.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\08. Exercise Streams, Files and Directories\Solutions\05. Copy Directory\obj\Debug\net6.0\refint\05. Copy Directory.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\08. Exercise Streams, Files and Directories\Solutions\05. Copy Directory\obj\Debug\net6.0\05. Copy Directory.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\08. Exercise Streams, Files and Directories\Solutions\05. Copy Directory\obj\Debug\net6.0\05. Copy Directory.genruntimeconfig.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\08. Exercise Streams, Files and Directories\Solutions\05. Copy Directory\obj\Debug\net6.0\ref\05. Copy Directory.dll

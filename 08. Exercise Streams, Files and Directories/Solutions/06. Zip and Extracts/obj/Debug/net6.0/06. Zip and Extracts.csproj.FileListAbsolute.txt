@@ -1,0 +1,14 @@
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\08. Exercise Streams, Files and Directories\Solutions\06. Zip and Extracts\bin\Debug\net6.0\06. Zip and Extracts.exe
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\08. Exercise Streams, Files and Directories\Solutions\06. Zip and Extracts\bin\Debug\net6.0\06. Zip and Extracts.deps.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\08. Exercise Streams, Files and Directories\Solutions\06. Zip and Extracts\bin\Debug\net6.0\06. Zip and Extracts.runtimeconfig.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\08. Exercise Streams, Files and Directories\Solutions\06. Zip and Extracts\bin\Debug\net6.0\06. Zip and Extracts.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\08. Exercise Streams, Files and Directories\Solutions\06. Zip and Extracts\bin\Debug\net6.0\06. Zip and Extracts.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\08. Exercise Streams, Files and Directories\Solutions\06. Zip and Extracts\obj\Debug\net6.0\06. Zip and Extracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\08. Exercise Streams, Files and Directories\Solutions\06. Zip and Extracts\obj\Debug\net6.0\06. Zip and Extracts.AssemblyInfoInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\08. Exercise Streams, Files and Directories\Solutions\06. Zip and Extracts\obj\Debug\net6.0\06. Zip and Extracts.AssemblyInfo.cs
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\08. Exercise Streams, Files and Directories\Solutions\06. Zip and Extracts\obj\Debug\net6.0\06. Zip and Extracts.csproj.CoreCompileInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\08. Exercise Streams, Files and Directories\Solutions\06. Zip and Extracts\obj\Debug\net6.0\06. Zip and Extracts.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\08. Exercise Streams, Files and Directories\Solutions\06. Zip and Extracts\obj\Debug\net6.0\refint\06. Zip and Extracts.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\08. Exercise Streams, Files and Directories\Solutions\06. Zip and Extracts\obj\Debug\net6.0\06. Zip and Extracts.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\08. Exercise Streams, Files and Directories\Solutions\06. Zip and Extracts\obj\Debug\net6.0\06. Zip and Extracts.genruntimeconfig.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\08. Exercise Streams, Files and Directories\Solutions\06. Zip and Extracts\obj\Debug\net6.0\ref\06. Zip and Extracts.dll
