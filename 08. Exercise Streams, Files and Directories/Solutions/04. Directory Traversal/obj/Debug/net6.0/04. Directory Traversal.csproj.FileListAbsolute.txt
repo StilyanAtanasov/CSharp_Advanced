@@ -1,0 +1,14 @@
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\08. Exercise Streams, Files and Directories\Solutions\04. Directory Traversal\bin\Debug\net6.0\04. Directory Traversal.exe
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\08. Exercise Streams, Files and Directories\Solutions\04. Directory Traversal\bin\Debug\net6.0\04. Directory Traversal.deps.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\08. Exercise Streams, Files and Directories\Solutions\04. Directory Traversal\bin\Debug\net6.0\04. Directory Traversal.runtimeconfig.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\08. Exercise Streams, Files and Directories\Solutions\04. Directory Traversal\bin\Debug\net6.0\04. Directory Traversal.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\08. Exercise Streams, Files and Directories\Solutions\04. Directory Traversal\bin\Debug\net6.0\04. Directory Traversal.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\08. Exercise Streams, Files and Directories\Solutions\04. Directory Traversal\obj\Debug\net6.0\04. Directory Traversal.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\08. Exercise Streams, Files and Directories\Solutions\04. Directory Traversal\obj\Debug\net6.0\04. Directory Traversal.AssemblyInfoInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\08. Exercise Streams, Files and Directories\Solutions\04. Directory Traversal\obj\Debug\net6.0\04. Directory Traversal.AssemblyInfo.cs
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\08. Exercise Streams, Files and Directories\Solutions\04. Directory Traversal\obj\Debug\net6.0\04. Directory Traversal.csproj.CoreCompileInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\08. Exercise Streams, Files and Directories\Solutions\04. Directory Traversal\obj\Debug\net6.0\04. Directory Traversal.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\08. Exercise Streams, Files and Directories\Solutions\04. Directory Traversal\obj\Debug\net6.0\refint\04. Directory Traversal.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\08. Exercise Streams, Files and Directories\Solutions\04. Directory Traversal\obj\Debug\net6.0\04. Directory Traversal.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\08. Exercise Streams, Files and Directories\Solutions\04. Directory Traversal\obj\Debug\net6.0\04. Directory Traversal.genruntimeconfig.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\08. Exercise Streams, Files and Directories\Solutions\04. Directory Traversal\obj\Debug\net6.0\ref\04. Directory Traversal.dll
