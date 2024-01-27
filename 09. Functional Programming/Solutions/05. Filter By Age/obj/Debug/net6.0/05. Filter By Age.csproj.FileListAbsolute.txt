@@ -1,0 +1,14 @@
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\09. Functional Programming\Solutions\05. Filter By Age\bin\Debug\net6.0\05. Filter By Age.exe
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\09. Functional Programming\Solutions\05. Filter By Age\bin\Debug\net6.0\05. Filter By Age.deps.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\09. Functional Programming\Solutions\05. Filter By Age\bin\Debug\net6.0\05. Filter By Age.runtimeconfig.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\09. Functional Programming\Solutions\05. Filter By Age\bin\Debug\net6.0\05. Filter By Age.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\09. Functional Programming\Solutions\05. Filter By Age\bin\Debug\net6.0\05. Filter By Age.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\09. Functional Programming\Solutions\05. Filter By Age\obj\Debug\net6.0\05. Filter By Age.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\09. Functional Programming\Solutions\05. Filter By Age\obj\Debug\net6.0\05. Filter By Age.AssemblyInfoInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\09. Functional Programming\Solutions\05. Filter By Age\obj\Debug\net6.0\05. Filter By Age.AssemblyInfo.cs
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\09. Functional Programming\Solutions\05. Filter By Age\obj\Debug\net6.0\05. Filter By Age.csproj.CoreCompileInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\09. Functional Programming\Solutions\05. Filter By Age\obj\Debug\net6.0\05. Filter By Age.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\09. Functional Programming\Solutions\05. Filter By Age\obj\Debug\net6.0\refint\05. Filter By Age.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\09. Functional Programming\Solutions\05. Filter By Age\obj\Debug\net6.0\05. Filter By Age.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\09. Functional Programming\Solutions\05. Filter By Age\obj\Debug\net6.0\05. Filter By Age.genruntimeconfig.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\09. Functional Programming\Solutions\05. Filter By Age\obj\Debug\net6.0\ref\05. Filter By Age.dll

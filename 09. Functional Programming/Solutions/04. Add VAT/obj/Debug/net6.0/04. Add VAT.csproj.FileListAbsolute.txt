@@ -1,0 +1,14 @@
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\09. Functional Programming\Solutions\04. Add VAT\bin\Debug\net6.0\04. Add VAT.exe
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\09. Functional Programming\Solutions\04. Add VAT\bin\Debug\net6.0\04. Add VAT.deps.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\09. Functional Programming\Solutions\04. Add VAT\bin\Debug\net6.0\04. Add VAT.runtimeconfig.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\09. Functional Programming\Solutions\04. Add VAT\bin\Debug\net6.0\04. Add VAT.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\09. Functional Programming\Solutions\04. Add VAT\bin\Debug\net6.0\04. Add VAT.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\09. Functional Programming\Solutions\04. Add VAT\obj\Debug\net6.0\04. Add VAT.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\09. Functional Programming\Solutions\04. Add VAT\obj\Debug\net6.0\04. Add VAT.AssemblyInfoInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\09. Functional Programming\Solutions\04. Add VAT\obj\Debug\net6.0\04. Add VAT.AssemblyInfo.cs
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\09. Functional Programming\Solutions\04. Add VAT\obj\Debug\net6.0\04. Add VAT.csproj.CoreCompileInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\09. Functional Programming\Solutions\04. Add VAT\obj\Debug\net6.0\04. Add VAT.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\09. Functional Programming\Solutions\04. Add VAT\obj\Debug\net6.0\refint\04. Add VAT.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\09. Functional Programming\Solutions\04. Add VAT\obj\Debug\net6.0\04. Add VAT.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\09. Functional Programming\Solutions\04. Add VAT\obj\Debug\net6.0\04. Add VAT.genruntimeconfig.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\09. Functional Programming\Solutions\04. Add VAT\obj\Debug\net6.0\ref\04. Add VAT.dll

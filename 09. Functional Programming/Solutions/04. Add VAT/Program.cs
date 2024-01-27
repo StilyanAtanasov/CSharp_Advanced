@@ -1,0 +1,1 @@
+﻿Console.ReadLine()!.Split(", ").Select(double.Parse).ToList().ForEach(x => Console.WriteLine((x * 1.2).ToString("F2")));

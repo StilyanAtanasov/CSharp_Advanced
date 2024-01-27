@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Sum Numbers", "02. Sum 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Count Uppercase Words", "03. Count Uppercase Words\03. Count Uppercase Words.csproj", "{11AB7DB4-9C42-42CB-AADA-22FB06089D46}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Add VAT", "04. Add VAT\04. Add VAT.csproj", "{70D8648F-8749-4208-9C66-AA80E161E349}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Filter By Age", "05. Filter By Age\05. Filter By Age.csproj", "{9A487220-F511-4A08-81DE-04099C0DC4C4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{11AB7DB4-9C42-42CB-AADA-22FB06089D46}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{11AB7DB4-9C42-42CB-AADA-22FB06089D46}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{11AB7DB4-9C42-42CB-AADA-22FB06089D46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70D8648F-8749-4208-9C66-AA80E161E349}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70D8648F-8749-4208-9C66-AA80E161E349}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70D8648F-8749-4208-9C66-AA80E161E349}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70D8648F-8749-4208-9C66-AA80E161E349}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9A487220-F511-4A08-81DE-04099C0DC4C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A487220-F511-4A08-81DE-04099C0DC4C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A487220-F511-4A08-81DE-04099C0DC4C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A487220-F511-4A08-81DE-04099C0DC4C4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

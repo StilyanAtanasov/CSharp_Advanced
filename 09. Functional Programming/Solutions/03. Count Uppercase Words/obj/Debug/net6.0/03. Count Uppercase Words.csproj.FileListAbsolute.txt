@@ -1,0 +1,14 @@
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\09. Functional Programming\Solutions\03. Count Uppercase Words\bin\Debug\net6.0\03. Count Uppercase Words.exe
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\09. Functional Programming\Solutions\03. Count Uppercase Words\bin\Debug\net6.0\03. Count Uppercase Words.deps.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\09. Functional Programming\Solutions\03. Count Uppercase Words\bin\Debug\net6.0\03. Count Uppercase Words.runtimeconfig.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\09. Functional Programming\Solutions\03. Count Uppercase Words\bin\Debug\net6.0\03. Count Uppercase Words.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\09. Functional Programming\Solutions\03. Count Uppercase Words\bin\Debug\net6.0\03. Count Uppercase Words.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\09. Functional Programming\Solutions\03. Count Uppercase Words\obj\Debug\net6.0\03. Count Uppercase Words.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\09. Functional Programming\Solutions\03. Count Uppercase Words\obj\Debug\net6.0\03. Count Uppercase Words.AssemblyInfoInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\09. Functional Programming\Solutions\03. Count Uppercase Words\obj\Debug\net6.0\03. Count Uppercase Words.AssemblyInfo.cs
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\09. Functional Programming\Solutions\03. Count Uppercase Words\obj\Debug\net6.0\03. Count Uppercase Words.csproj.CoreCompileInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\09. Functional Programming\Solutions\03. Count Uppercase Words\obj\Debug\net6.0\03. Count Uppercase Words.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\09. Functional Programming\Solutions\03. Count Uppercase Words\obj\Debug\net6.0\refint\03. Count Uppercase Words.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\09. Functional Programming\Solutions\03. Count Uppercase Words\obj\Debug\net6.0\03. Count Uppercase Words.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\09. Functional Programming\Solutions\03. Count Uppercase Words\obj\Debug\net6.0\03. Count Uppercase Words.genruntimeconfig.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\09. Functional Programming\Solutions\03. Count Uppercase Words\obj\Debug\net6.0\ref\03. Count Uppercase Words.dll
