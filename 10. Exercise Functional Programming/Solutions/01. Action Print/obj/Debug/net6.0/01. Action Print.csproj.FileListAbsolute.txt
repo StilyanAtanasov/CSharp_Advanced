@@ -1,0 +1,14 @@
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\10. Exercise Functional Programming\Solutions\01. Action Print\bin\Debug\net6.0\01. Action Print.exe
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\10. Exercise Functional Programming\Solutions\01. Action Print\bin\Debug\net6.0\01. Action Print.deps.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\10. Exercise Functional Programming\Solutions\01. Action Print\bin\Debug\net6.0\01. Action Print.runtimeconfig.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\10. Exercise Functional Programming\Solutions\01. Action Print\bin\Debug\net6.0\01. Action Print.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\10. Exercise Functional Programming\Solutions\01. Action Print\bin\Debug\net6.0\01. Action Print.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\10. Exercise Functional Programming\Solutions\01. Action Print\obj\Debug\net6.0\01. Action Print.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\10. Exercise Functional Programming\Solutions\01. Action Print\obj\Debug\net6.0\01. Action Print.AssemblyInfoInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\10. Exercise Functional Programming\Solutions\01. Action Print\obj\Debug\net6.0\01. Action Print.AssemblyInfo.cs
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\10. Exercise Functional Programming\Solutions\01. Action Print\obj\Debug\net6.0\01. Action Print.csproj.CoreCompileInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\10. Exercise Functional Programming\Solutions\01. Action Print\obj\Debug\net6.0\01. Action Print.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\10. Exercise Functional Programming\Solutions\01. Action Print\obj\Debug\net6.0\refint\01. Action Print.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\10. Exercise Functional Programming\Solutions\01. Action Print\obj\Debug\net6.0\01. Action Print.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\10. Exercise Functional Programming\Solutions\01. Action Print\obj\Debug\net6.0\01. Action Print.genruntimeconfig.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\10. Exercise Functional Programming\Solutions\01. Action Print\obj\Debug\net6.0\ref\01. Action Print.dll
