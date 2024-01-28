@@ -1,0 +1,14 @@
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\10. Exercise Functional Programming\Solutions\11. TriFunction\bin\Debug\net6.0\11. TriFunction.exe
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\10. Exercise Functional Programming\Solutions\11. TriFunction\bin\Debug\net6.0\11. TriFunction.deps.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\10. Exercise Functional Programming\Solutions\11. TriFunction\bin\Debug\net6.0\11. TriFunction.runtimeconfig.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\10. Exercise Functional Programming\Solutions\11. TriFunction\bin\Debug\net6.0\11. TriFunction.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\10. Exercise Functional Programming\Solutions\11. TriFunction\bin\Debug\net6.0\11. TriFunction.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\10. Exercise Functional Programming\Solutions\11. TriFunction\obj\Debug\net6.0\11. TriFunction.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\10. Exercise Functional Programming\Solutions\11. TriFunction\obj\Debug\net6.0\11. TriFunction.AssemblyInfoInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\10. Exercise Functional Programming\Solutions\11. TriFunction\obj\Debug\net6.0\11. TriFunction.AssemblyInfo.cs
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\10. Exercise Functional Programming\Solutions\11. TriFunction\obj\Debug\net6.0\11. TriFunction.csproj.CoreCompileInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\10. Exercise Functional Programming\Solutions\11. TriFunction\obj\Debug\net6.0\11. TriFunction.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\10. Exercise Functional Programming\Solutions\11. TriFunction\obj\Debug\net6.0\refint\11. TriFunction.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\10. Exercise Functional Programming\Solutions\11. TriFunction\obj\Debug\net6.0\11. TriFunction.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\10. Exercise Functional Programming\Solutions\11. TriFunction\obj\Debug\net6.0\11. TriFunction.genruntimeconfig.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\10. Exercise Functional Programming\Solutions\11. TriFunction\obj\Debug\net6.0\ref\11. TriFunction.dll
