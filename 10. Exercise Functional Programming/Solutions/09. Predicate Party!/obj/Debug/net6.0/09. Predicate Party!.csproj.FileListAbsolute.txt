@@ -1,0 +1,14 @@
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\10. Exercise Functional Programming\Solutions\09. Predicate Party!\bin\Debug\net6.0\09. Predicate Party!.exe
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\10. Exercise Functional Programming\Solutions\09. Predicate Party!\bin\Debug\net6.0\09. Predicate Party!.deps.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\10. Exercise Functional Programming\Solutions\09. Predicate Party!\bin\Debug\net6.0\09. Predicate Party!.runtimeconfig.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\10. Exercise Functional Programming\Solutions\09. Predicate Party!\bin\Debug\net6.0\09. Predicate Party!.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\10. Exercise Functional Programming\Solutions\09. Predicate Party!\bin\Debug\net6.0\09. Predicate Party!.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\10. Exercise Functional Programming\Solutions\09. Predicate Party!\obj\Debug\net6.0\09. Predicate Party!.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\10. Exercise Functional Programming\Solutions\09. Predicate Party!\obj\Debug\net6.0\09. Predicate Party!.AssemblyInfoInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\10. Exercise Functional Programming\Solutions\09. Predicate Party!\obj\Debug\net6.0\09. Predicate Party!.AssemblyInfo.cs
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\10. Exercise Functional Programming\Solutions\09. Predicate Party!\obj\Debug\net6.0\09. Predicate Party!.csproj.CoreCompileInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\10. Exercise Functional Programming\Solutions\09. Predicate Party!\obj\Debug\net6.0\09. Predicate Party!.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\10. Exercise Functional Programming\Solutions\09. Predicate Party!\obj\Debug\net6.0\refint\09. Predicate Party!.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\10. Exercise Functional Programming\Solutions\09. Predicate Party!\obj\Debug\net6.0\09. Predicate Party!.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\10. Exercise Functional Programming\Solutions\09. Predicate Party!\obj\Debug\net6.0\09. Predicate Party!.genruntimeconfig.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\10. Exercise Functional Programming\Solutions\09. Predicate Party!\obj\Debug\net6.0\ref\09. Predicate Party!.dll
