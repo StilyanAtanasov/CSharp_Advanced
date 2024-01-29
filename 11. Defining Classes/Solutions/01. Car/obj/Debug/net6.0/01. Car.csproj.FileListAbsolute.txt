@@ -1,0 +1,14 @@
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\11. Defining Classes\Solutions\01. Car\bin\Debug\net6.0\01. Car.exe
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\11. Defining Classes\Solutions\01. Car\bin\Debug\net6.0\01. Car.deps.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\11. Defining Classes\Solutions\01. Car\bin\Debug\net6.0\01. Car.runtimeconfig.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\11. Defining Classes\Solutions\01. Car\bin\Debug\net6.0\01. Car.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\11. Defining Classes\Solutions\01. Car\bin\Debug\net6.0\01. Car.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\11. Defining Classes\Solutions\01. Car\obj\Debug\net6.0\01. Car.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\11. Defining Classes\Solutions\01. Car\obj\Debug\net6.0\01. Car.AssemblyInfoInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\11. Defining Classes\Solutions\01. Car\obj\Debug\net6.0\01. Car.AssemblyInfo.cs
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\11. Defining Classes\Solutions\01. Car\obj\Debug\net6.0\01. Car.csproj.CoreCompileInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\11. Defining Classes\Solutions\01. Car\obj\Debug\net6.0\01. Car.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\11. Defining Classes\Solutions\01. Car\obj\Debug\net6.0\refint\01. Car.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\11. Defining Classes\Solutions\01. Car\obj\Debug\net6.0\01. Car.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\11. Defining Classes\Solutions\01. Car\obj\Debug\net6.0\01. Car.genruntimeconfig.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\11. Defining Classes\Solutions\01. Car\obj\Debug\net6.0\ref\01. Car.dll
