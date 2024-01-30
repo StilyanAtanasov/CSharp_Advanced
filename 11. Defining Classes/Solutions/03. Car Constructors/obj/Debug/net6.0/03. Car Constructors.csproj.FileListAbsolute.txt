@@ -1,0 +1,14 @@
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\11. Defining Classes\Solutions\03. Car Constructors\bin\Debug\net6.0\03. Car Constructors.exe
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\11. Defining Classes\Solutions\03. Car Constructors\bin\Debug\net6.0\03. Car Constructors.deps.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\11. Defining Classes\Solutions\03. Car Constructors\bin\Debug\net6.0\03. Car Constructors.runtimeconfig.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\11. Defining Classes\Solutions\03. Car Constructors\bin\Debug\net6.0\03. Car Constructors.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\11. Defining Classes\Solutions\03. Car Constructors\bin\Debug\net6.0\03. Car Constructors.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\11. Defining Classes\Solutions\03. Car Constructors\obj\Debug\net6.0\03. Car Constructors.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\11. Defining Classes\Solutions\03. Car Constructors\obj\Debug\net6.0\03. Car Constructors.AssemblyInfoInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\11. Defining Classes\Solutions\03. Car Constructors\obj\Debug\net6.0\03. Car Constructors.AssemblyInfo.cs
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\11. Defining Classes\Solutions\03. Car Constructors\obj\Debug\net6.0\03. Car Constructors.csproj.CoreCompileInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\11. Defining Classes\Solutions\03. Car Constructors\obj\Debug\net6.0\03. Car Constructors.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\11. Defining Classes\Solutions\03. Car Constructors\obj\Debug\net6.0\refint\03. Car Constructors.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\11. Defining Classes\Solutions\03. Car Constructors\obj\Debug\net6.0\03. Car Constructors.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\11. Defining Classes\Solutions\03. Car Constructors\obj\Debug\net6.0\03. Car Constructors.genruntimeconfig.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\11. Defining Classes\Solutions\03. Car Constructors\obj\Debug\net6.0\ref\03. Car Constructors.dll
