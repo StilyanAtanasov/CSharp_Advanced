@@ -1,0 +1,14 @@
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\11. Defining Classes\Solutions\04. Car Engine And Tires\bin\Debug\net6.0\04. Car Engine And Tires.exe
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\11. Defining Classes\Solutions\04. Car Engine And Tires\bin\Debug\net6.0\04. Car Engine And Tires.deps.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\11. Defining Classes\Solutions\04. Car Engine And Tires\bin\Debug\net6.0\04. Car Engine And Tires.runtimeconfig.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\11. Defining Classes\Solutions\04. Car Engine And Tires\bin\Debug\net6.0\04. Car Engine And Tires.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\11. Defining Classes\Solutions\04. Car Engine And Tires\bin\Debug\net6.0\04. Car Engine And Tires.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\11. Defining Classes\Solutions\04. Car Engine And Tires\obj\Debug\net6.0\04. Car Engine And Tires.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\11. Defining Classes\Solutions\04. Car Engine And Tires\obj\Debug\net6.0\04. Car Engine And Tires.AssemblyInfoInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\11. Defining Classes\Solutions\04. Car Engine And Tires\obj\Debug\net6.0\04. Car Engine And Tires.AssemblyInfo.cs
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\11. Defining Classes\Solutions\04. Car Engine And Tires\obj\Debug\net6.0\04. Car Engine And Tires.csproj.CoreCompileInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\11. Defining Classes\Solutions\04. Car Engine And Tires\obj\Debug\net6.0\04. Car Engine And Tires.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\11. Defining Classes\Solutions\04. Car Engine And Tires\obj\Debug\net6.0\refint\04. Car Engine And Tires.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\11. Defining Classes\Solutions\04. Car Engine And Tires\obj\Debug\net6.0\04. Car Engine And Tires.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\11. Defining Classes\Solutions\04. Car Engine And Tires\obj\Debug\net6.0\04. Car Engine And Tires.genruntimeconfig.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\11. Defining Classes\Solutions\04. Car Engine And Tires\obj\Debug\net6.0\ref\04. Car Engine And Tires.dll
