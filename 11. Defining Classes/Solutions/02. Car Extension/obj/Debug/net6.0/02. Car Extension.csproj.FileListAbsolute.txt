@@ -1,0 +1,14 @@
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\11. Defining Classes\Solutions\02. Car Extension\bin\Debug\net6.0\02. Car Extension.exe
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\11. Defining Classes\Solutions\02. Car Extension\bin\Debug\net6.0\02. Car Extension.deps.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\11. Defining Classes\Solutions\02. Car Extension\bin\Debug\net6.0\02. Car Extension.runtimeconfig.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\11. Defining Classes\Solutions\02. Car Extension\bin\Debug\net6.0\02. Car Extension.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\11. Defining Classes\Solutions\02. Car Extension\bin\Debug\net6.0\02. Car Extension.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\11. Defining Classes\Solutions\02. Car Extension\obj\Debug\net6.0\02. Car Extension.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\11. Defining Classes\Solutions\02. Car Extension\obj\Debug\net6.0\02. Car Extension.AssemblyInfoInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\11. Defining Classes\Solutions\02. Car Extension\obj\Debug\net6.0\02. Car Extension.AssemblyInfo.cs
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\11. Defining Classes\Solutions\02. Car Extension\obj\Debug\net6.0\02. Car Extension.csproj.CoreCompileInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\11. Defining Classes\Solutions\02. Car Extension\obj\Debug\net6.0\02. Car Extension.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\11. Defining Classes\Solutions\02. Car Extension\obj\Debug\net6.0\refint\02. Car Extension.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\11. Defining Classes\Solutions\02. Car Extension\obj\Debug\net6.0\02. Car Extension.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\11. Defining Classes\Solutions\02. Car Extension\obj\Debug\net6.0\02. Car Extension.genruntimeconfig.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\11. Defining Classes\Solutions\02. Car Extension\obj\Debug\net6.0\ref\02. Car Extension.dll

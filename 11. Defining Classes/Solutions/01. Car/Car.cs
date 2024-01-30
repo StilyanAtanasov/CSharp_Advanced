@@ -3,8 +3,8 @@ namespace CarManufacturer;
 
 class Car
 {
-    private string make;
-    private string model;
+    private string make = null!;
+    private string model = null!;
     private int year;
 
 
