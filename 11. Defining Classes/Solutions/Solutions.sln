@@ -5,11 +5,13 @@ VisualStudioVersion = 17.7.34009.444
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Car", "01. Car\01. Car.csproj", "{975F3311-523A-4979-9C5A-2B0FCB3F3BFC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Car Extension", "02. Car Extension\02. Car Extension.csproj", "{0FA2B292-79FE-4A54-8E9E-78E84EF397EE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. Car Extension", "02. Car Extension\02. Car Extension.csproj", "{0FA2B292-79FE-4A54-8E9E-78E84EF397EE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Car Constructors", "03. Car Constructors\03. Car Constructors.csproj", "{75D73426-E633-4312-AD7A-0EBFB9A92350}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. Car Constructors", "03. Car Constructors\03. Car Constructors.csproj", "{75D73426-E633-4312-AD7A-0EBFB9A92350}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Car Engine And Tires", "04. Car Engine And Tires\04. Car Engine And Tires.csproj", "{E62956DA-0959-4533-BD69-4396D4CE829B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04. Car Engine And Tires", "04. Car Engine And Tires\04. Car Engine And Tires.csproj", "{E62956DA-0959-4533-BD69-4396D4CE829B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Special Cars", "05. Special Cars\05. Special Cars.csproj", "{55CFFBE9-4151-426A-A672-D462691C987C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{E62956DA-0959-4533-BD69-4396D4CE829B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E62956DA-0959-4533-BD69-4396D4CE829B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E62956DA-0959-4533-BD69-4396D4CE829B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55CFFBE9-4151-426A-A672-D462691C987C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55CFFBE9-4151-426A-A672-D462691C987C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55CFFBE9-4151-426A-A672-D462691C987C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55CFFBE9-4151-426A-A672-D462691C987C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,14 @@
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\11. Defining Classes\Solutions\05. Special Cars\bin\Debug\net6.0\05. Special Cars.exe
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\11. Defining Classes\Solutions\05. Special Cars\bin\Debug\net6.0\05. Special Cars.deps.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\11. Defining Classes\Solutions\05. Special Cars\bin\Debug\net6.0\05. Special Cars.runtimeconfig.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\11. Defining Classes\Solutions\05. Special Cars\bin\Debug\net6.0\05. Special Cars.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\11. Defining Classes\Solutions\05. Special Cars\bin\Debug\net6.0\05. Special Cars.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\11. Defining Classes\Solutions\05. Special Cars\obj\Debug\net6.0\05. Special Cars.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\11. Defining Classes\Solutions\05. Special Cars\obj\Debug\net6.0\05. Special Cars.AssemblyInfoInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\11. Defining Classes\Solutions\05. Special Cars\obj\Debug\net6.0\05. Special Cars.AssemblyInfo.cs
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\11. Defining Classes\Solutions\05. Special Cars\obj\Debug\net6.0\05. Special Cars.csproj.CoreCompileInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\11. Defining Classes\Solutions\05. Special Cars\obj\Debug\net6.0\05. Special Cars.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\11. Defining Classes\Solutions\05. Special Cars\obj\Debug\net6.0\refint\05. Special Cars.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\11. Defining Classes\Solutions\05. Special Cars\obj\Debug\net6.0\05. Special Cars.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\11. Defining Classes\Solutions\05. Special Cars\obj\Debug\net6.0\05. Special Cars.genruntimeconfig.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\11. Defining Classes\Solutions\05. Special Cars\obj\Debug\net6.0\ref\05. Special Cars.dll
