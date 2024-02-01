@@ -29,7 +29,7 @@ public class Car
         if (Engine.HorsePower > 330 && Year >= 2017 && Tires.Sum(t => t.Pressure) is >= 9 and <= 10)
         {
             Drive();
-            Console.Write($"Make: {Make} \nModel: {Model} \nYear: {Year} \nHorsePowers: {Engine.HorsePower} \nFuelQuantity: {FuelQuantity}");
+            Console.WriteLine($"Make: {Make} \nModel: {Model} \nYear: {Year} \nHorsePowers: {Engine.HorsePower} \nFuelQuantity: {FuelQuantity}");
         }
     }
 }
