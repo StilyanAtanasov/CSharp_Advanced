@@ -1,0 +1,14 @@
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\12. Exercise Defining Classes\Solutions\02. Creating Constructors\bin\Debug\net6.0\02. Creating Constructors.exe
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\12. Exercise Defining Classes\Solutions\02. Creating Constructors\bin\Debug\net6.0\02. Creating Constructors.deps.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\12. Exercise Defining Classes\Solutions\02. Creating Constructors\bin\Debug\net6.0\02. Creating Constructors.runtimeconfig.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\12. Exercise Defining Classes\Solutions\02. Creating Constructors\bin\Debug\net6.0\02. Creating Constructors.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\12. Exercise Defining Classes\Solutions\02. Creating Constructors\bin\Debug\net6.0\02. Creating Constructors.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\12. Exercise Defining Classes\Solutions\02. Creating Constructors\obj\Debug\net6.0\02. Creating Constructors.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\12. Exercise Defining Classes\Solutions\02. Creating Constructors\obj\Debug\net6.0\02. Creating Constructors.AssemblyInfoInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\12. Exercise Defining Classes\Solutions\02. Creating Constructors\obj\Debug\net6.0\02. Creating Constructors.AssemblyInfo.cs
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\12. Exercise Defining Classes\Solutions\02. Creating Constructors\obj\Debug\net6.0\02. Creating Constructors.csproj.CoreCompileInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\12. Exercise Defining Classes\Solutions\02. Creating Constructors\obj\Debug\net6.0\02. Creating Constructors.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\12. Exercise Defining Classes\Solutions\02. Creating Constructors\obj\Debug\net6.0\refint\02. Creating Constructors.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\12. Exercise Defining Classes\Solutions\02. Creating Constructors\obj\Debug\net6.0\02. Creating Constructors.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\12. Exercise Defining Classes\Solutions\02. Creating Constructors\obj\Debug\net6.0\02. Creating Constructors.genruntimeconfig.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\12. Exercise Defining Classes\Solutions\02. Creating Constructors\obj\Debug\net6.0\ref\02. Creating Constructors.dll

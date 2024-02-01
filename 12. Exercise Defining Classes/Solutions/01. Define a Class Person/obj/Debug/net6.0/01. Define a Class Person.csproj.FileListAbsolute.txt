@@ -1,0 +1,14 @@
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\12. Exercise Defining Classes\Solutions\01. Define a Class Person\bin\Debug\net6.0\01. Define a Class Person.exe
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\12. Exercise Defining Classes\Solutions\01. Define a Class Person\bin\Debug\net6.0\01. Define a Class Person.deps.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\12. Exercise Defining Classes\Solutions\01. Define a Class Person\bin\Debug\net6.0\01. Define a Class Person.runtimeconfig.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\12. Exercise Defining Classes\Solutions\01. Define a Class Person\bin\Debug\net6.0\01. Define a Class Person.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\12. Exercise Defining Classes\Solutions\01. Define a Class Person\bin\Debug\net6.0\01. Define a Class Person.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\12. Exercise Defining Classes\Solutions\01. Define a Class Person\obj\Debug\net6.0\01. Define a Class Person.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\12. Exercise Defining Classes\Solutions\01. Define a Class Person\obj\Debug\net6.0\01. Define a Class Person.AssemblyInfoInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\12. Exercise Defining Classes\Solutions\01. Define a Class Person\obj\Debug\net6.0\01. Define a Class Person.AssemblyInfo.cs
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\12. Exercise Defining Classes\Solutions\01. Define a Class Person\obj\Debug\net6.0\01. Define a Class Person.csproj.CoreCompileInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\12. Exercise Defining Classes\Solutions\01. Define a Class Person\obj\Debug\net6.0\01. Define a Class Person.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\12. Exercise Defining Classes\Solutions\01. Define a Class Person\obj\Debug\net6.0\refint\01. Define a Class Person.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\12. Exercise Defining Classes\Solutions\01. Define a Class Person\obj\Debug\net6.0\01. Define a Class Person.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\12. Exercise Defining Classes\Solutions\01. Define a Class Person\obj\Debug\net6.0\01. Define a Class Person.genruntimeconfig.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\12. Exercise Defining Classes\Solutions\01. Define a Class Person\obj\Debug\net6.0\ref\01. Define a Class Person.dll
