@@ -1,0 +1,14 @@
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\12. Exercise Defining Classes\Solutions\06. Speed Racing\bin\Debug\net6.0\06. Speed Racing.exe
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\12. Exercise Defining Classes\Solutions\06. Speed Racing\bin\Debug\net6.0\06. Speed Racing.deps.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\12. Exercise Defining Classes\Solutions\06. Speed Racing\bin\Debug\net6.0\06. Speed Racing.runtimeconfig.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\12. Exercise Defining Classes\Solutions\06. Speed Racing\bin\Debug\net6.0\06. Speed Racing.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\12. Exercise Defining Classes\Solutions\06. Speed Racing\bin\Debug\net6.0\06. Speed Racing.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\12. Exercise Defining Classes\Solutions\06. Speed Racing\obj\Debug\net6.0\06. Speed Racing.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\12. Exercise Defining Classes\Solutions\06. Speed Racing\obj\Debug\net6.0\06. Speed Racing.AssemblyInfoInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\12. Exercise Defining Classes\Solutions\06. Speed Racing\obj\Debug\net6.0\06. Speed Racing.AssemblyInfo.cs
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\12. Exercise Defining Classes\Solutions\06. Speed Racing\obj\Debug\net6.0\06. Speed Racing.csproj.CoreCompileInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\12. Exercise Defining Classes\Solutions\06. Speed Racing\obj\Debug\net6.0\06. Speed Racing.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\12. Exercise Defining Classes\Solutions\06. Speed Racing\obj\Debug\net6.0\refint\06. Speed Racing.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\12. Exercise Defining Classes\Solutions\06. Speed Racing\obj\Debug\net6.0\06. Speed Racing.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\12. Exercise Defining Classes\Solutions\06. Speed Racing\obj\Debug\net6.0\06. Speed Racing.genruntimeconfig.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\12. Exercise Defining Classes\Solutions\06. Speed Racing\obj\Debug\net6.0\ref\06. Speed Racing.dll

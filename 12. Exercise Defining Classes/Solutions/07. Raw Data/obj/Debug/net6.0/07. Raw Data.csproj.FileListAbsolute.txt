@@ -1,0 +1,14 @@
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\12. Exercise Defining Classes\Solutions\07. Raw Data\bin\Debug\net6.0\07. Raw Data.exe
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\12. Exercise Defining Classes\Solutions\07. Raw Data\bin\Debug\net6.0\07. Raw Data.deps.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\12. Exercise Defining Classes\Solutions\07. Raw Data\bin\Debug\net6.0\07. Raw Data.runtimeconfig.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\12. Exercise Defining Classes\Solutions\07. Raw Data\bin\Debug\net6.0\07. Raw Data.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\12. Exercise Defining Classes\Solutions\07. Raw Data\bin\Debug\net6.0\07. Raw Data.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\12. Exercise Defining Classes\Solutions\07. Raw Data\obj\Debug\net6.0\07. Raw Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\12. Exercise Defining Classes\Solutions\07. Raw Data\obj\Debug\net6.0\07. Raw Data.AssemblyInfoInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\12. Exercise Defining Classes\Solutions\07. Raw Data\obj\Debug\net6.0\07. Raw Data.AssemblyInfo.cs
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\12. Exercise Defining Classes\Solutions\07. Raw Data\obj\Debug\net6.0\07. Raw Data.csproj.CoreCompileInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\12. Exercise Defining Classes\Solutions\07. Raw Data\obj\Debug\net6.0\07. Raw Data.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\12. Exercise Defining Classes\Solutions\07. Raw Data\obj\Debug\net6.0\refint\07. Raw Data.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\12. Exercise Defining Classes\Solutions\07. Raw Data\obj\Debug\net6.0\07. Raw Data.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\12. Exercise Defining Classes\Solutions\07. Raw Data\obj\Debug\net6.0\07. Raw Data.genruntimeconfig.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\12. Exercise Defining Classes\Solutions\07. Raw Data\obj\Debug\net6.0\ref\07. Raw Data.dll
