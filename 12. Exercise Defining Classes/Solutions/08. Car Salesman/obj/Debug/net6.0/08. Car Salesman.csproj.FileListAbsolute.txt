@@ -1,0 +1,14 @@
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\12. Exercise Defining Classes\Solutions\08. Car Salesman\bin\Debug\net6.0\08. Car Salesman.exe
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\12. Exercise Defining Classes\Solutions\08. Car Salesman\bin\Debug\net6.0\08. Car Salesman.deps.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\12. Exercise Defining Classes\Solutions\08. Car Salesman\bin\Debug\net6.0\08. Car Salesman.runtimeconfig.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\12. Exercise Defining Classes\Solutions\08. Car Salesman\bin\Debug\net6.0\08. Car Salesman.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\12. Exercise Defining Classes\Solutions\08. Car Salesman\bin\Debug\net6.0\08. Car Salesman.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\12. Exercise Defining Classes\Solutions\08. Car Salesman\obj\Debug\net6.0\08. Car Salesman.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\12. Exercise Defining Classes\Solutions\08. Car Salesman\obj\Debug\net6.0\08. Car Salesman.AssemblyInfoInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\12. Exercise Defining Classes\Solutions\08. Car Salesman\obj\Debug\net6.0\08. Car Salesman.AssemblyInfo.cs
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\12. Exercise Defining Classes\Solutions\08. Car Salesman\obj\Debug\net6.0\08. Car Salesman.csproj.CoreCompileInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\12. Exercise Defining Classes\Solutions\08. Car Salesman\obj\Debug\net6.0\08. Car Salesman.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\12. Exercise Defining Classes\Solutions\08. Car Salesman\obj\Debug\net6.0\refint\08. Car Salesman.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\12. Exercise Defining Classes\Solutions\08. Car Salesman\obj\Debug\net6.0\08. Car Salesman.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\12. Exercise Defining Classes\Solutions\08. Car Salesman\obj\Debug\net6.0\08. Car Salesman.genruntimeconfig.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\12. Exercise Defining Classes\Solutions\08. Car Salesman\obj\Debug\net6.0\ref\08. Car Salesman.dll
