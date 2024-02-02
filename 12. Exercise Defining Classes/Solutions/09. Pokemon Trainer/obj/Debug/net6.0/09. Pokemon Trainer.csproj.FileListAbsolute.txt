@@ -1,0 +1,14 @@
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\12. Exercise Defining Classes\Solutions\09. Pokemon Trainer\bin\Debug\net6.0\09. Pokemon Trainer.exe
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\12. Exercise Defining Classes\Solutions\09. Pokemon Trainer\bin\Debug\net6.0\09. Pokemon Trainer.deps.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\12. Exercise Defining Classes\Solutions\09. Pokemon Trainer\bin\Debug\net6.0\09. Pokemon Trainer.runtimeconfig.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\12. Exercise Defining Classes\Solutions\09. Pokemon Trainer\bin\Debug\net6.0\09. Pokemon Trainer.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\12. Exercise Defining Classes\Solutions\09. Pokemon Trainer\bin\Debug\net6.0\09. Pokemon Trainer.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\12. Exercise Defining Classes\Solutions\09. Pokemon Trainer\obj\Debug\net6.0\09. Pokemon Trainer.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\12. Exercise Defining Classes\Solutions\09. Pokemon Trainer\obj\Debug\net6.0\09. Pokemon Trainer.AssemblyInfoInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\12. Exercise Defining Classes\Solutions\09. Pokemon Trainer\obj\Debug\net6.0\09. Pokemon Trainer.AssemblyInfo.cs
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\12. Exercise Defining Classes\Solutions\09. Pokemon Trainer\obj\Debug\net6.0\09. Pokemon Trainer.csproj.CoreCompileInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\12. Exercise Defining Classes\Solutions\09. Pokemon Trainer\obj\Debug\net6.0\09. Pokemon Trainer.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\12. Exercise Defining Classes\Solutions\09. Pokemon Trainer\obj\Debug\net6.0\refint\09. Pokemon Trainer.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\12. Exercise Defining Classes\Solutions\09. Pokemon Trainer\obj\Debug\net6.0\09. Pokemon Trainer.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\12. Exercise Defining Classes\Solutions\09. Pokemon Trainer\obj\Debug\net6.0\09. Pokemon Trainer.genruntimeconfig.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\12. Exercise Defining Classes\Solutions\09. Pokemon Trainer\obj\Debug\net6.0\ref\09. Pokemon Trainer.dll
