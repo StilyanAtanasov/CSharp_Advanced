@@ -1,0 +1,14 @@
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\15. Generics\Solutions\02. Array Creator\bin\Debug\net6.0\02. Array Creator.exe
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\15. Generics\Solutions\02. Array Creator\bin\Debug\net6.0\02. Array Creator.deps.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\15. Generics\Solutions\02. Array Creator\bin\Debug\net6.0\02. Array Creator.runtimeconfig.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\15. Generics\Solutions\02. Array Creator\bin\Debug\net6.0\02. Array Creator.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\15. Generics\Solutions\02. Array Creator\bin\Debug\net6.0\02. Array Creator.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\15. Generics\Solutions\02. Array Creator\obj\Debug\net6.0\02. Array Creator.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\15. Generics\Solutions\02. Array Creator\obj\Debug\net6.0\02. Array Creator.AssemblyInfoInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\15. Generics\Solutions\02. Array Creator\obj\Debug\net6.0\02. Array Creator.AssemblyInfo.cs
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\15. Generics\Solutions\02. Array Creator\obj\Debug\net6.0\02. Array Creator.csproj.CoreCompileInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\15. Generics\Solutions\02. Array Creator\obj\Debug\net6.0\02. Array Creator.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\15. Generics\Solutions\02. Array Creator\obj\Debug\net6.0\refint\02. Array Creator.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\15. Generics\Solutions\02. Array Creator\obj\Debug\net6.0\02. Array Creator.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\15. Generics\Solutions\02. Array Creator\obj\Debug\net6.0\02. Array Creator.genruntimeconfig.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\15. Generics\Solutions\02. Array Creator\obj\Debug\net6.0\ref\02. Array Creator.dll

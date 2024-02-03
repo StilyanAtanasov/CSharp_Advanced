@@ -1,0 +1,14 @@
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\15. Generics\Solutions\03. Generic Scale\bin\Debug\net6.0\03. Generic Scale.exe
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\15. Generics\Solutions\03. Generic Scale\bin\Debug\net6.0\03. Generic Scale.deps.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\15. Generics\Solutions\03. Generic Scale\bin\Debug\net6.0\03. Generic Scale.runtimeconfig.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\15. Generics\Solutions\03. Generic Scale\bin\Debug\net6.0\03. Generic Scale.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\15. Generics\Solutions\03. Generic Scale\bin\Debug\net6.0\03. Generic Scale.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\15. Generics\Solutions\03. Generic Scale\obj\Debug\net6.0\03. Generic Scale.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\15. Generics\Solutions\03. Generic Scale\obj\Debug\net6.0\03. Generic Scale.AssemblyInfoInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\15. Generics\Solutions\03. Generic Scale\obj\Debug\net6.0\03. Generic Scale.AssemblyInfo.cs
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\15. Generics\Solutions\03. Generic Scale\obj\Debug\net6.0\03. Generic Scale.csproj.CoreCompileInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\15. Generics\Solutions\03. Generic Scale\obj\Debug\net6.0\03. Generic Scale.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\15. Generics\Solutions\03. Generic Scale\obj\Debug\net6.0\refint\03. Generic Scale.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\15. Generics\Solutions\03. Generic Scale\obj\Debug\net6.0\03. Generic Scale.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\15. Generics\Solutions\03. Generic Scale\obj\Debug\net6.0\03. Generic Scale.genruntimeconfig.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\15. Generics\Solutions\03. Generic Scale\obj\Debug\net6.0\ref\03. Generic Scale.dll
