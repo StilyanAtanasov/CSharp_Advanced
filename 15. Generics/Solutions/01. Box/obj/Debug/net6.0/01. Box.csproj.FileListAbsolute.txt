@@ -1,0 +1,14 @@
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\15. Generics\Solutions\01. Box\bin\Debug\net6.0\01. Box.exe
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\15. Generics\Solutions\01. Box\bin\Debug\net6.0\01. Box.deps.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\15. Generics\Solutions\01. Box\bin\Debug\net6.0\01. Box.runtimeconfig.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\15. Generics\Solutions\01. Box\bin\Debug\net6.0\01. Box.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\15. Generics\Solutions\01. Box\bin\Debug\net6.0\01. Box.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\15. Generics\Solutions\01. Box\obj\Debug\net6.0\01. Box.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\15. Generics\Solutions\01. Box\obj\Debug\net6.0\01. Box.AssemblyInfoInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\15. Generics\Solutions\01. Box\obj\Debug\net6.0\01. Box.AssemblyInfo.cs
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\15. Generics\Solutions\01. Box\obj\Debug\net6.0\01. Box.csproj.CoreCompileInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\15. Generics\Solutions\01. Box\obj\Debug\net6.0\01. Box.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\15. Generics\Solutions\01. Box\obj\Debug\net6.0\refint\01. Box.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\15. Generics\Solutions\01. Box\obj\Debug\net6.0\01. Box.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\15. Generics\Solutions\01. Box\obj\Debug\net6.0\01. Box.genruntimeconfig.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\15. Generics\Solutions\01. Box\obj\Debug\net6.0\ref\01. Box.dll
