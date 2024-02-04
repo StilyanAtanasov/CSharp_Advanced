@@ -1,0 +1,14 @@
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\13. Implementing Linked List\CustomLinkedListOfInt32\Custom Linked List Of Int32\bin\Debug\net6.0\Custom Linked List Of Int32.exe
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\13. Implementing Linked List\CustomLinkedListOfInt32\Custom Linked List Of Int32\bin\Debug\net6.0\Custom Linked List Of Int32.deps.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\13. Implementing Linked List\CustomLinkedListOfInt32\Custom Linked List Of Int32\bin\Debug\net6.0\Custom Linked List Of Int32.runtimeconfig.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\13. Implementing Linked List\CustomLinkedListOfInt32\Custom Linked List Of Int32\bin\Debug\net6.0\Custom Linked List Of Int32.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\13. Implementing Linked List\CustomLinkedListOfInt32\Custom Linked List Of Int32\bin\Debug\net6.0\Custom Linked List Of Int32.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\13. Implementing Linked List\CustomLinkedListOfInt32\Custom Linked List Of Int32\obj\Debug\net6.0\Custom Linked List Of Int32.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\13. Implementing Linked List\CustomLinkedListOfInt32\Custom Linked List Of Int32\obj\Debug\net6.0\Custom Linked List Of Int32.AssemblyInfoInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\13. Implementing Linked List\CustomLinkedListOfInt32\Custom Linked List Of Int32\obj\Debug\net6.0\Custom Linked List Of Int32.AssemblyInfo.cs
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\13. Implementing Linked List\CustomLinkedListOfInt32\Custom Linked List Of Int32\obj\Debug\net6.0\Custom Linked List Of Int32.csproj.CoreCompileInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\13. Implementing Linked List\CustomLinkedListOfInt32\Custom Linked List Of Int32\obj\Debug\net6.0\Custom Linked List Of Int32.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\13. Implementing Linked List\CustomLinkedListOfInt32\Custom Linked List Of Int32\obj\Debug\net6.0\refint\Custom Linked List Of Int32.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\13. Implementing Linked List\CustomLinkedListOfInt32\Custom Linked List Of Int32\obj\Debug\net6.0\Custom Linked List Of Int32.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\13. Implementing Linked List\CustomLinkedListOfInt32\Custom Linked List Of Int32\obj\Debug\net6.0\Custom Linked List Of Int32.genruntimeconfig.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\13. Implementing Linked List\CustomLinkedListOfInt32\Custom Linked List Of Int32\obj\Debug\net6.0\ref\Custom Linked List Of Int32.dll
