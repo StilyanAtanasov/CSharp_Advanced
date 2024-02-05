@@ -1,0 +1,14 @@
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\16. Exercise Generics\Solutions\06. Generic Count Method Double\bin\Debug\net6.0\06. Generic Count Method Double.exe
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\16. Exercise Generics\Solutions\06. Generic Count Method Double\bin\Debug\net6.0\06. Generic Count Method Double.deps.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\16. Exercise Generics\Solutions\06. Generic Count Method Double\bin\Debug\net6.0\06. Generic Count Method Double.runtimeconfig.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\16. Exercise Generics\Solutions\06. Generic Count Method Double\bin\Debug\net6.0\06. Generic Count Method Double.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\16. Exercise Generics\Solutions\06. Generic Count Method Double\bin\Debug\net6.0\06. Generic Count Method Double.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\16. Exercise Generics\Solutions\06. Generic Count Method Double\obj\Debug\net6.0\06. Generic Count Method Double.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\16. Exercise Generics\Solutions\06. Generic Count Method Double\obj\Debug\net6.0\06. Generic Count Method Double.AssemblyInfoInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\16. Exercise Generics\Solutions\06. Generic Count Method Double\obj\Debug\net6.0\06. Generic Count Method Double.AssemblyInfo.cs
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\16. Exercise Generics\Solutions\06. Generic Count Method Double\obj\Debug\net6.0\06. Generic Count Method Double.csproj.CoreCompileInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\16. Exercise Generics\Solutions\06. Generic Count Method Double\obj\Debug\net6.0\06. Generic Count Method Double.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\16. Exercise Generics\Solutions\06. Generic Count Method Double\obj\Debug\net6.0\refint\06. Generic Count Method Double.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\16. Exercise Generics\Solutions\06. Generic Count Method Double\obj\Debug\net6.0\06. Generic Count Method Double.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\16. Exercise Generics\Solutions\06. Generic Count Method Double\obj\Debug\net6.0\06. Generic Count Method Double.genruntimeconfig.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\16. Exercise Generics\Solutions\06. Generic Count Method Double\obj\Debug\net6.0\ref\06. Generic Count Method Double.dll

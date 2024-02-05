@@ -1,0 +1,14 @@
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\16. Exercise Generics\Solutions\05. Generic Count Method String\bin\Debug\net6.0\05. Generic Count Method String.exe
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\16. Exercise Generics\Solutions\05. Generic Count Method String\bin\Debug\net6.0\05. Generic Count Method String.deps.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\16. Exercise Generics\Solutions\05. Generic Count Method String\bin\Debug\net6.0\05. Generic Count Method String.runtimeconfig.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\16. Exercise Generics\Solutions\05. Generic Count Method String\bin\Debug\net6.0\05. Generic Count Method String.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\16. Exercise Generics\Solutions\05. Generic Count Method String\bin\Debug\net6.0\05. Generic Count Method String.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\16. Exercise Generics\Solutions\05. Generic Count Method String\obj\Debug\net6.0\05. Generic Count Method String.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\16. Exercise Generics\Solutions\05. Generic Count Method String\obj\Debug\net6.0\05. Generic Count Method String.AssemblyInfoInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\16. Exercise Generics\Solutions\05. Generic Count Method String\obj\Debug\net6.0\05. Generic Count Method String.AssemblyInfo.cs
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\16. Exercise Generics\Solutions\05. Generic Count Method String\obj\Debug\net6.0\05. Generic Count Method String.csproj.CoreCompileInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\16. Exercise Generics\Solutions\05. Generic Count Method String\obj\Debug\net6.0\05. Generic Count Method String.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\16. Exercise Generics\Solutions\05. Generic Count Method String\obj\Debug\net6.0\refint\05. Generic Count Method String.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\16. Exercise Generics\Solutions\05. Generic Count Method String\obj\Debug\net6.0\05. Generic Count Method String.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\16. Exercise Generics\Solutions\05. Generic Count Method String\obj\Debug\net6.0\05. Generic Count Method String.genruntimeconfig.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\16. Exercise Generics\Solutions\05. Generic Count Method String\obj\Debug\net6.0\ref\05. Generic Count Method String.dll
