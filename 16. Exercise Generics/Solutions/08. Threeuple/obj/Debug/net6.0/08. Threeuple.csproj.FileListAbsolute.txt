@@ -1,0 +1,14 @@
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\16. Exercise Generics\Solutions\08. Threeuple\bin\Debug\net6.0\08. Threeuple.exe
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\16. Exercise Generics\Solutions\08. Threeuple\bin\Debug\net6.0\08. Threeuple.deps.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\16. Exercise Generics\Solutions\08. Threeuple\bin\Debug\net6.0\08. Threeuple.runtimeconfig.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\16. Exercise Generics\Solutions\08. Threeuple\bin\Debug\net6.0\08. Threeuple.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\16. Exercise Generics\Solutions\08. Threeuple\bin\Debug\net6.0\08. Threeuple.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\16. Exercise Generics\Solutions\08. Threeuple\obj\Debug\net6.0\08. Threeuple.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\16. Exercise Generics\Solutions\08. Threeuple\obj\Debug\net6.0\08. Threeuple.AssemblyInfoInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\16. Exercise Generics\Solutions\08. Threeuple\obj\Debug\net6.0\08. Threeuple.AssemblyInfo.cs
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\16. Exercise Generics\Solutions\08. Threeuple\obj\Debug\net6.0\08. Threeuple.csproj.CoreCompileInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\16. Exercise Generics\Solutions\08. Threeuple\obj\Debug\net6.0\08. Threeuple.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\16. Exercise Generics\Solutions\08. Threeuple\obj\Debug\net6.0\refint\08. Threeuple.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\16. Exercise Generics\Solutions\08. Threeuple\obj\Debug\net6.0\08. Threeuple.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\16. Exercise Generics\Solutions\08. Threeuple\obj\Debug\net6.0\08. Threeuple.genruntimeconfig.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\16. Exercise Generics\Solutions\08. Threeuple\obj\Debug\net6.0\ref\08. Threeuple.dll
