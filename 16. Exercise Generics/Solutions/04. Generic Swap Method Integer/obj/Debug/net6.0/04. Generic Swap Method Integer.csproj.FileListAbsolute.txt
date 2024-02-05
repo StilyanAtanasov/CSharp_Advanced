@@ -1,0 +1,14 @@
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\16. Exercise Generics\Solutions\04. Generic Swap Method Integer\bin\Debug\net6.0\04. Generic Swap Method Integer.exe
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\16. Exercise Generics\Solutions\04. Generic Swap Method Integer\bin\Debug\net6.0\04. Generic Swap Method Integer.deps.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\16. Exercise Generics\Solutions\04. Generic Swap Method Integer\bin\Debug\net6.0\04. Generic Swap Method Integer.runtimeconfig.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\16. Exercise Generics\Solutions\04. Generic Swap Method Integer\bin\Debug\net6.0\04. Generic Swap Method Integer.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\16. Exercise Generics\Solutions\04. Generic Swap Method Integer\bin\Debug\net6.0\04. Generic Swap Method Integer.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\16. Exercise Generics\Solutions\04. Generic Swap Method Integer\obj\Debug\net6.0\04. Generic Swap Method Integer.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\16. Exercise Generics\Solutions\04. Generic Swap Method Integer\obj\Debug\net6.0\04. Generic Swap Method Integer.AssemblyInfoInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\16. Exercise Generics\Solutions\04. Generic Swap Method Integer\obj\Debug\net6.0\04. Generic Swap Method Integer.AssemblyInfo.cs
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\16. Exercise Generics\Solutions\04. Generic Swap Method Integer\obj\Debug\net6.0\04. Generic Swap Method Integer.csproj.CoreCompileInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\16. Exercise Generics\Solutions\04. Generic Swap Method Integer\obj\Debug\net6.0\04. Generic Swap Method Integer.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\16. Exercise Generics\Solutions\04. Generic Swap Method Integer\obj\Debug\net6.0\refint\04. Generic Swap Method Integer.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\16. Exercise Generics\Solutions\04. Generic Swap Method Integer\obj\Debug\net6.0\04. Generic Swap Method Integer.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\16. Exercise Generics\Solutions\04. Generic Swap Method Integer\obj\Debug\net6.0\04. Generic Swap Method Integer.genruntimeconfig.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\16. Exercise Generics\Solutions\04. Generic Swap Method Integer\obj\Debug\net6.0\ref\04. Generic Swap Method Integer.dll

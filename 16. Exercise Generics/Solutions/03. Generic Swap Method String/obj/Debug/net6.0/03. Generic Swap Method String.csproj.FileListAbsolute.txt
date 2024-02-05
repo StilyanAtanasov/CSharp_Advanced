@@ -1,0 +1,14 @@
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\16. Exercise Generics\Solutions\03. Generic Swap Method String\bin\Debug\net6.0\03. Generic Swap Method String.exe
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\16. Exercise Generics\Solutions\03. Generic Swap Method String\bin\Debug\net6.0\03. Generic Swap Method String.deps.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\16. Exercise Generics\Solutions\03. Generic Swap Method String\bin\Debug\net6.0\03. Generic Swap Method String.runtimeconfig.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\16. Exercise Generics\Solutions\03. Generic Swap Method String\bin\Debug\net6.0\03. Generic Swap Method String.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\16. Exercise Generics\Solutions\03. Generic Swap Method String\bin\Debug\net6.0\03. Generic Swap Method String.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\16. Exercise Generics\Solutions\03. Generic Swap Method String\obj\Debug\net6.0\03. Generic Swap Method String.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\16. Exercise Generics\Solutions\03. Generic Swap Method String\obj\Debug\net6.0\03. Generic Swap Method String.AssemblyInfoInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\16. Exercise Generics\Solutions\03. Generic Swap Method String\obj\Debug\net6.0\03. Generic Swap Method String.AssemblyInfo.cs
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\16. Exercise Generics\Solutions\03. Generic Swap Method String\obj\Debug\net6.0\03. Generic Swap Method String.csproj.CoreCompileInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\16. Exercise Generics\Solutions\03. Generic Swap Method String\obj\Debug\net6.0\03. Generic Swap Method String.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\16. Exercise Generics\Solutions\03. Generic Swap Method String\obj\Debug\net6.0\refint\03. Generic Swap Method String.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\16. Exercise Generics\Solutions\03. Generic Swap Method String\obj\Debug\net6.0\03. Generic Swap Method String.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\16. Exercise Generics\Solutions\03. Generic Swap Method String\obj\Debug\net6.0\03. Generic Swap Method String.genruntimeconfig.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\16. Exercise Generics\Solutions\03. Generic Swap Method String\obj\Debug\net6.0\ref\03. Generic Swap Method String.dll
