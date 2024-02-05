@@ -1,0 +1,14 @@
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\16. Exercise Generics\Solutions\02. Generic Box of Integer\bin\Debug\net6.0\02. Generic Box of Integer.exe
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\16. Exercise Generics\Solutions\02. Generic Box of Integer\bin\Debug\net6.0\02. Generic Box of Integer.deps.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\16. Exercise Generics\Solutions\02. Generic Box of Integer\bin\Debug\net6.0\02. Generic Box of Integer.runtimeconfig.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\16. Exercise Generics\Solutions\02. Generic Box of Integer\bin\Debug\net6.0\02. Generic Box of Integer.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\16. Exercise Generics\Solutions\02. Generic Box of Integer\bin\Debug\net6.0\02. Generic Box of Integer.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\16. Exercise Generics\Solutions\02. Generic Box of Integer\obj\Debug\net6.0\02. Generic Box of Integer.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\16. Exercise Generics\Solutions\02. Generic Box of Integer\obj\Debug\net6.0\02. Generic Box of Integer.AssemblyInfoInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\16. Exercise Generics\Solutions\02. Generic Box of Integer\obj\Debug\net6.0\02. Generic Box of Integer.AssemblyInfo.cs
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\16. Exercise Generics\Solutions\02. Generic Box of Integer\obj\Debug\net6.0\02. Generic Box of Integer.csproj.CoreCompileInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\16. Exercise Generics\Solutions\02. Generic Box of Integer\obj\Debug\net6.0\02. Generic Box of Integer.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\16. Exercise Generics\Solutions\02. Generic Box of Integer\obj\Debug\net6.0\refint\02. Generic Box of Integer.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\16. Exercise Generics\Solutions\02. Generic Box of Integer\obj\Debug\net6.0\02. Generic Box of Integer.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\16. Exercise Generics\Solutions\02. Generic Box of Integer\obj\Debug\net6.0\02. Generic Box of Integer.genruntimeconfig.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\16. Exercise Generics\Solutions\02. Generic Box of Integer\obj\Debug\net6.0\ref\02. Generic Box of Integer.dll

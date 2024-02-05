@@ -1,0 +1,14 @@
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\16. Exercise Generics\Solutions\01. Generic Box of String\bin\Debug\net6.0\01. Generic Box of String.exe
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\16. Exercise Generics\Solutions\01. Generic Box of String\bin\Debug\net6.0\01. Generic Box of String.deps.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\16. Exercise Generics\Solutions\01. Generic Box of String\bin\Debug\net6.0\01. Generic Box of String.runtimeconfig.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\16. Exercise Generics\Solutions\01. Generic Box of String\bin\Debug\net6.0\01. Generic Box of String.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\16. Exercise Generics\Solutions\01. Generic Box of String\bin\Debug\net6.0\01. Generic Box of String.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\16. Exercise Generics\Solutions\01. Generic Box of String\obj\Debug\net6.0\01. Generic Box of String.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\16. Exercise Generics\Solutions\01. Generic Box of String\obj\Debug\net6.0\01. Generic Box of String.AssemblyInfoInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\16. Exercise Generics\Solutions\01. Generic Box of String\obj\Debug\net6.0\01. Generic Box of String.AssemblyInfo.cs
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\16. Exercise Generics\Solutions\01. Generic Box of String\obj\Debug\net6.0\01. Generic Box of String.csproj.CoreCompileInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\16. Exercise Generics\Solutions\01. Generic Box of String\obj\Debug\net6.0\01. Generic Box of String.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\16. Exercise Generics\Solutions\01. Generic Box of String\obj\Debug\net6.0\refint\01. Generic Box of String.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\16. Exercise Generics\Solutions\01. Generic Box of String\obj\Debug\net6.0\01. Generic Box of String.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\16. Exercise Generics\Solutions\01. Generic Box of String\obj\Debug\net6.0\01. Generic Box of String.genruntimeconfig.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\16. Exercise Generics\Solutions\01. Generic Box of String\obj\Debug\net6.0\ref\01. Generic Box of String.dll
