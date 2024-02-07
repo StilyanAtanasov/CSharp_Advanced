@@ -1,0 +1,14 @@
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\17. Iterators and Comparators\Solutions\02. LibraryIterator\bin\Debug\net6.0\02. LibraryIterator.exe
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\17. Iterators and Comparators\Solutions\02. LibraryIterator\bin\Debug\net6.0\02. LibraryIterator.deps.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\17. Iterators and Comparators\Solutions\02. LibraryIterator\bin\Debug\net6.0\02. LibraryIterator.runtimeconfig.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\17. Iterators and Comparators\Solutions\02. LibraryIterator\bin\Debug\net6.0\02. LibraryIterator.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\17. Iterators and Comparators\Solutions\02. LibraryIterator\bin\Debug\net6.0\02. LibraryIterator.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\17. Iterators and Comparators\Solutions\02. LibraryIterator\obj\Debug\net6.0\02. LibraryIterator.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\17. Iterators and Comparators\Solutions\02. LibraryIterator\obj\Debug\net6.0\02. LibraryIterator.AssemblyInfoInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\17. Iterators and Comparators\Solutions\02. LibraryIterator\obj\Debug\net6.0\02. LibraryIterator.AssemblyInfo.cs
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\17. Iterators and Comparators\Solutions\02. LibraryIterator\obj\Debug\net6.0\02. LibraryIterator.csproj.CoreCompileInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\17. Iterators and Comparators\Solutions\02. LibraryIterator\obj\Debug\net6.0\02. LibraryIterator.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\17. Iterators and Comparators\Solutions\02. LibraryIterator\obj\Debug\net6.0\refint\02. LibraryIterator.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\17. Iterators and Comparators\Solutions\02. LibraryIterator\obj\Debug\net6.0\02. LibraryIterator.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\17. Iterators and Comparators\Solutions\02. LibraryIterator\obj\Debug\net6.0\02. LibraryIterator.genruntimeconfig.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\17. Iterators and Comparators\Solutions\02. LibraryIterator\obj\Debug\net6.0\ref\02. LibraryIterator.dll
