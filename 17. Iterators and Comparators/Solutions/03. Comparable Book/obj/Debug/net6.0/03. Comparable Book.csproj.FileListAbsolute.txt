@@ -1,0 +1,14 @@
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\17. Iterators and Comparators\Solutions\03. Comparable Book\bin\Debug\net6.0\03. Comparable Book.exe
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\17. Iterators and Comparators\Solutions\03. Comparable Book\bin\Debug\net6.0\03. Comparable Book.deps.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\17. Iterators and Comparators\Solutions\03. Comparable Book\bin\Debug\net6.0\03. Comparable Book.runtimeconfig.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\17. Iterators and Comparators\Solutions\03. Comparable Book\bin\Debug\net6.0\03. Comparable Book.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\17. Iterators and Comparators\Solutions\03. Comparable Book\bin\Debug\net6.0\03. Comparable Book.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\17. Iterators and Comparators\Solutions\03. Comparable Book\obj\Debug\net6.0\03. Comparable Book.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\17. Iterators and Comparators\Solutions\03. Comparable Book\obj\Debug\net6.0\03. Comparable Book.AssemblyInfoInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\17. Iterators and Comparators\Solutions\03. Comparable Book\obj\Debug\net6.0\03. Comparable Book.AssemblyInfo.cs
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\17. Iterators and Comparators\Solutions\03. Comparable Book\obj\Debug\net6.0\03. Comparable Book.csproj.CoreCompileInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\17. Iterators and Comparators\Solutions\03. Comparable Book\obj\Debug\net6.0\03. Comparable Book.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\17. Iterators and Comparators\Solutions\03. Comparable Book\obj\Debug\net6.0\refint\03. Comparable Book.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\17. Iterators and Comparators\Solutions\03. Comparable Book\obj\Debug\net6.0\03. Comparable Book.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\17. Iterators and Comparators\Solutions\03. Comparable Book\obj\Debug\net6.0\03. Comparable Book.genruntimeconfig.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\17. Iterators and Comparators\Solutions\03. Comparable Book\obj\Debug\net6.0\ref\03. Comparable Book.dll
