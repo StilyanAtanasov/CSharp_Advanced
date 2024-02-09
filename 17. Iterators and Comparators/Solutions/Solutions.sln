@@ -7,7 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Library", "01. Library\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. LibraryIterator", "02. LibraryIterator\02. LibraryIterator.csproj", "{11DF466E-F5C0-4892-BA6F-C9C5A4D0E5A1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Comparable Book", "03. Comparable Book\03. Comparable Book.csproj", "{3CAD6FA8-393D-482E-AEA3-435C3BD3283E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. Comparable Book", "03. Comparable Book\03. Comparable Book.csproj", "{3CAD6FA8-393D-482E-AEA3-435C3BD3283E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. BookComparer", "04. BookComparer\04. BookComparer.csproj", "{556194EA-535C-49E2-B447-BF8D34904545}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{3CAD6FA8-393D-482E-AEA3-435C3BD3283E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3CAD6FA8-393D-482E-AEA3-435C3BD3283E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3CAD6FA8-393D-482E-AEA3-435C3BD3283E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{556194EA-535C-49E2-B447-BF8D34904545}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{556194EA-535C-49E2-B447-BF8D34904545}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{556194EA-535C-49E2-B447-BF8D34904545}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{556194EA-535C-49E2-B447-BF8D34904545}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
