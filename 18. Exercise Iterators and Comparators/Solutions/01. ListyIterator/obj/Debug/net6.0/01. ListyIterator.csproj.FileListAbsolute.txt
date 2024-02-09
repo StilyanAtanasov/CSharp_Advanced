@@ -1,0 +1,14 @@
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\18. Exercise Iterators and Comparators\Solutions\01. ListyIterator\bin\Debug\net6.0\01. ListyIterator.exe
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\18. Exercise Iterators and Comparators\Solutions\01. ListyIterator\bin\Debug\net6.0\01. ListyIterator.deps.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\18. Exercise Iterators and Comparators\Solutions\01. ListyIterator\bin\Debug\net6.0\01. ListyIterator.runtimeconfig.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\18. Exercise Iterators and Comparators\Solutions\01. ListyIterator\bin\Debug\net6.0\01. ListyIterator.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\18. Exercise Iterators and Comparators\Solutions\01. ListyIterator\bin\Debug\net6.0\01. ListyIterator.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\18. Exercise Iterators and Comparators\Solutions\01. ListyIterator\obj\Debug\net6.0\01. ListyIterator.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\18. Exercise Iterators and Comparators\Solutions\01. ListyIterator\obj\Debug\net6.0\01. ListyIterator.AssemblyInfoInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\18. Exercise Iterators and Comparators\Solutions\01. ListyIterator\obj\Debug\net6.0\01. ListyIterator.AssemblyInfo.cs
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\18. Exercise Iterators and Comparators\Solutions\01. ListyIterator\obj\Debug\net6.0\01. ListyIterator.csproj.CoreCompileInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\18. Exercise Iterators and Comparators\Solutions\01. ListyIterator\obj\Debug\net6.0\01. ListyIterator.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\18. Exercise Iterators and Comparators\Solutions\01. ListyIterator\obj\Debug\net6.0\refint\01. ListyIterator.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\18. Exercise Iterators and Comparators\Solutions\01. ListyIterator\obj\Debug\net6.0\01. ListyIterator.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\18. Exercise Iterators and Comparators\Solutions\01. ListyIterator\obj\Debug\net6.0\01. ListyIterator.genruntimeconfig.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\18. Exercise Iterators and Comparators\Solutions\01. ListyIterator\obj\Debug\net6.0\ref\01. ListyIterator.dll
