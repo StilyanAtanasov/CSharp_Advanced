@@ -1,0 +1,14 @@
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\18. Exercise Iterators and Comparators\Solutions\05. Comparing Objects\bin\Debug\net6.0\05. Comparing Objects.exe
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\18. Exercise Iterators and Comparators\Solutions\05. Comparing Objects\bin\Debug\net6.0\05. Comparing Objects.deps.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\18. Exercise Iterators and Comparators\Solutions\05. Comparing Objects\bin\Debug\net6.0\05. Comparing Objects.runtimeconfig.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\18. Exercise Iterators and Comparators\Solutions\05. Comparing Objects\bin\Debug\net6.0\05. Comparing Objects.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\18. Exercise Iterators and Comparators\Solutions\05. Comparing Objects\bin\Debug\net6.0\05. Comparing Objects.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\18. Exercise Iterators and Comparators\Solutions\05. Comparing Objects\obj\Debug\net6.0\05. Comparing Objects.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\18. Exercise Iterators and Comparators\Solutions\05. Comparing Objects\obj\Debug\net6.0\05. Comparing Objects.AssemblyInfoInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\18. Exercise Iterators and Comparators\Solutions\05. Comparing Objects\obj\Debug\net6.0\05. Comparing Objects.AssemblyInfo.cs
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\18. Exercise Iterators and Comparators\Solutions\05. Comparing Objects\obj\Debug\net6.0\05. Comparing Objects.csproj.CoreCompileInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\18. Exercise Iterators and Comparators\Solutions\05. Comparing Objects\obj\Debug\net6.0\05. Comparing Objects.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\18. Exercise Iterators and Comparators\Solutions\05. Comparing Objects\obj\Debug\net6.0\refint\05. Comparing Objects.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\18. Exercise Iterators and Comparators\Solutions\05. Comparing Objects\obj\Debug\net6.0\05. Comparing Objects.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\18. Exercise Iterators and Comparators\Solutions\05. Comparing Objects\obj\Debug\net6.0\05. Comparing Objects.genruntimeconfig.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\18. Exercise Iterators and Comparators\Solutions\05. Comparing Objects\obj\Debug\net6.0\ref\05. Comparing Objects.dll

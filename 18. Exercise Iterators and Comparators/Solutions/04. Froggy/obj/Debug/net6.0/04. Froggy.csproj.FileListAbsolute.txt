@@ -1,0 +1,14 @@
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\18. Exercise Iterators and Comparators\Solutions\04. Froggy\bin\Debug\net6.0\04. Froggy.exe
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\18. Exercise Iterators and Comparators\Solutions\04. Froggy\bin\Debug\net6.0\04. Froggy.deps.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\18. Exercise Iterators and Comparators\Solutions\04. Froggy\bin\Debug\net6.0\04. Froggy.runtimeconfig.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\18. Exercise Iterators and Comparators\Solutions\04. Froggy\bin\Debug\net6.0\04. Froggy.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\18. Exercise Iterators and Comparators\Solutions\04. Froggy\bin\Debug\net6.0\04. Froggy.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\18. Exercise Iterators and Comparators\Solutions\04. Froggy\obj\Debug\net6.0\04. Froggy.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\18. Exercise Iterators and Comparators\Solutions\04. Froggy\obj\Debug\net6.0\04. Froggy.AssemblyInfoInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\18. Exercise Iterators and Comparators\Solutions\04. Froggy\obj\Debug\net6.0\04. Froggy.AssemblyInfo.cs
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\18. Exercise Iterators and Comparators\Solutions\04. Froggy\obj\Debug\net6.0\04. Froggy.csproj.CoreCompileInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\18. Exercise Iterators and Comparators\Solutions\04. Froggy\obj\Debug\net6.0\04. Froggy.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\18. Exercise Iterators and Comparators\Solutions\04. Froggy\obj\Debug\net6.0\refint\04. Froggy.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\18. Exercise Iterators and Comparators\Solutions\04. Froggy\obj\Debug\net6.0\04. Froggy.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\18. Exercise Iterators and Comparators\Solutions\04. Froggy\obj\Debug\net6.0\04. Froggy.genruntimeconfig.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\18. Exercise Iterators and Comparators\Solutions\04. Froggy\obj\Debug\net6.0\ref\04. Froggy.dll

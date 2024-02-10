@@ -1,0 +1,14 @@
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\18. Exercise Iterators and Comparators\Solutions\03. Stack\bin\Debug\net6.0\03. Stack.exe
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\18. Exercise Iterators and Comparators\Solutions\03. Stack\bin\Debug\net6.0\03. Stack.deps.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\18. Exercise Iterators and Comparators\Solutions\03. Stack\bin\Debug\net6.0\03. Stack.runtimeconfig.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\18. Exercise Iterators and Comparators\Solutions\03. Stack\bin\Debug\net6.0\03. Stack.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\18. Exercise Iterators and Comparators\Solutions\03. Stack\bin\Debug\net6.0\03. Stack.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\18. Exercise Iterators and Comparators\Solutions\03. Stack\obj\Debug\net6.0\03. Stack.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\18. Exercise Iterators and Comparators\Solutions\03. Stack\obj\Debug\net6.0\03. Stack.AssemblyInfoInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\18. Exercise Iterators and Comparators\Solutions\03. Stack\obj\Debug\net6.0\03. Stack.AssemblyInfo.cs
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\18. Exercise Iterators and Comparators\Solutions\03. Stack\obj\Debug\net6.0\03. Stack.csproj.CoreCompileInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\18. Exercise Iterators and Comparators\Solutions\03. Stack\obj\Debug\net6.0\03. Stack.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\18. Exercise Iterators and Comparators\Solutions\03. Stack\obj\Debug\net6.0\refint\03. Stack.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\18. Exercise Iterators and Comparators\Solutions\03. Stack\obj\Debug\net6.0\03. Stack.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\18. Exercise Iterators and Comparators\Solutions\03. Stack\obj\Debug\net6.0\03. Stack.genruntimeconfig.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\18. Exercise Iterators and Comparators\Solutions\03. Stack\obj\Debug\net6.0\ref\03. Stack.dll
