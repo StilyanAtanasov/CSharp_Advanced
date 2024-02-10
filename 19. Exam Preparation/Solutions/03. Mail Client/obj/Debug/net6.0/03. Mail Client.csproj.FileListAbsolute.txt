@@ -1,0 +1,14 @@
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\19. Exam Preparation\Solutions\03. Mail Client\bin\Debug\net6.0\03. Mail Client.exe
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\19. Exam Preparation\Solutions\03. Mail Client\bin\Debug\net6.0\03. Mail Client.deps.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\19. Exam Preparation\Solutions\03. Mail Client\bin\Debug\net6.0\03. Mail Client.runtimeconfig.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\19. Exam Preparation\Solutions\03. Mail Client\bin\Debug\net6.0\03. Mail Client.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\19. Exam Preparation\Solutions\03. Mail Client\bin\Debug\net6.0\03. Mail Client.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\19. Exam Preparation\Solutions\03. Mail Client\obj\Debug\net6.0\03. Mail Client.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\19. Exam Preparation\Solutions\03. Mail Client\obj\Debug\net6.0\03. Mail Client.AssemblyInfoInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\19. Exam Preparation\Solutions\03. Mail Client\obj\Debug\net6.0\03. Mail Client.AssemblyInfo.cs
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\19. Exam Preparation\Solutions\03. Mail Client\obj\Debug\net6.0\03. Mail Client.csproj.CoreCompileInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\19. Exam Preparation\Solutions\03. Mail Client\obj\Debug\net6.0\03. Mail Client.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\19. Exam Preparation\Solutions\03. Mail Client\obj\Debug\net6.0\refint\03. Mail Client.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\19. Exam Preparation\Solutions\03. Mail Client\obj\Debug\net6.0\03. Mail Client.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\19. Exam Preparation\Solutions\03. Mail Client\obj\Debug\net6.0\03. Mail Client.genruntimeconfig.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\19. Exam Preparation\Solutions\03. Mail Client\obj\Debug\net6.0\ref\03. Mail Client.dll

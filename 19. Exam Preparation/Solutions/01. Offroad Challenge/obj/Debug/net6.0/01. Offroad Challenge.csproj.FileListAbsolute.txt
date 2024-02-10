@@ -1,0 +1,14 @@
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\19. Exam Preparation\Solutions\01. Offroad Challenge\bin\Debug\net6.0\01. Offroad Challenge.exe
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\19. Exam Preparation\Solutions\01. Offroad Challenge\bin\Debug\net6.0\01. Offroad Challenge.deps.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\19. Exam Preparation\Solutions\01. Offroad Challenge\bin\Debug\net6.0\01. Offroad Challenge.runtimeconfig.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\19. Exam Preparation\Solutions\01. Offroad Challenge\bin\Debug\net6.0\01. Offroad Challenge.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\19. Exam Preparation\Solutions\01. Offroad Challenge\bin\Debug\net6.0\01. Offroad Challenge.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\19. Exam Preparation\Solutions\01. Offroad Challenge\obj\Debug\net6.0\01. Offroad Challenge.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\19. Exam Preparation\Solutions\01. Offroad Challenge\obj\Debug\net6.0\01. Offroad Challenge.AssemblyInfoInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\19. Exam Preparation\Solutions\01. Offroad Challenge\obj\Debug\net6.0\01. Offroad Challenge.AssemblyInfo.cs
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\19. Exam Preparation\Solutions\01. Offroad Challenge\obj\Debug\net6.0\01. Offroad Challenge.csproj.CoreCompileInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\19. Exam Preparation\Solutions\01. Offroad Challenge\obj\Debug\net6.0\01. Offroad Challenge.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\19. Exam Preparation\Solutions\01. Offroad Challenge\obj\Debug\net6.0\refint\01. Offroad Challenge.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\19. Exam Preparation\Solutions\01. Offroad Challenge\obj\Debug\net6.0\01. Offroad Challenge.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\19. Exam Preparation\Solutions\01. Offroad Challenge\obj\Debug\net6.0\01. Offroad Challenge.genruntimeconfig.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\19. Exam Preparation\Solutions\01. Offroad Challenge\obj\Debug\net6.0\ref\01. Offroad Challenge.dll
