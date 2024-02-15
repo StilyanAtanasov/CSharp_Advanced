@@ -1,0 +1,14 @@
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\20. Exam Preparation\Solutions\02. Mouse In The Kitchen\bin\Debug\net6.0\02. Mouse In The Kitchen.exe
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\20. Exam Preparation\Solutions\02. Mouse In The Kitchen\bin\Debug\net6.0\02. Mouse In The Kitchen.deps.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\20. Exam Preparation\Solutions\02. Mouse In The Kitchen\bin\Debug\net6.0\02. Mouse In The Kitchen.runtimeconfig.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\20. Exam Preparation\Solutions\02. Mouse In The Kitchen\bin\Debug\net6.0\02. Mouse In The Kitchen.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\20. Exam Preparation\Solutions\02. Mouse In The Kitchen\bin\Debug\net6.0\02. Mouse In The Kitchen.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\20. Exam Preparation\Solutions\02. Mouse In The Kitchen\obj\Debug\net6.0\02. Mouse In The Kitchen.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\20. Exam Preparation\Solutions\02. Mouse In The Kitchen\obj\Debug\net6.0\02. Mouse In The Kitchen.AssemblyInfoInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\20. Exam Preparation\Solutions\02. Mouse In The Kitchen\obj\Debug\net6.0\02. Mouse In The Kitchen.AssemblyInfo.cs
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\20. Exam Preparation\Solutions\02. Mouse In The Kitchen\obj\Debug\net6.0\02. Mouse In The Kitchen.csproj.CoreCompileInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\20. Exam Preparation\Solutions\02. Mouse In The Kitchen\obj\Debug\net6.0\02. Mouse In The Kitchen.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\20. Exam Preparation\Solutions\02. Mouse In The Kitchen\obj\Debug\net6.0\refint\02. Mouse In The Kitchen.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\20. Exam Preparation\Solutions\02. Mouse In The Kitchen\obj\Debug\net6.0\02. Mouse In The Kitchen.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\20. Exam Preparation\Solutions\02. Mouse In The Kitchen\obj\Debug\net6.0\02. Mouse In The Kitchen.genruntimeconfig.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\20. Exam Preparation\Solutions\02. Mouse In The Kitchen\obj\Debug\net6.0\ref\02. Mouse In The Kitchen.dll
