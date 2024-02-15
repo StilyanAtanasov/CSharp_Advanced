@@ -88,7 +88,7 @@ while ((command = Console.ReadLine()!) != "danger")
 }
 
 // Print the final result
-Console.WriteLine("Mouse will come back later");
+Console.WriteLine("Mouse will come back later!");
 PrintMatrix();
 
 bool CanMove(int nextPosition, int maxBorder, int minBorder)

@@ -7,5 +7,5 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = _03._Automotive_Repair_Shop
+build_property.RootNamespace = AutomotiveRepairShop
 build_property.ProjectDir = D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\20. Exam Preparation\Solutions\03. Automotive Repair Shop\

@@ -1,0 +1,14 @@
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\20. Exam Preparation\Solutions\03. Automotive Repair Shop\bin\Debug\net6.0\03. Automotive Repair Shop.exe
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\20. Exam Preparation\Solutions\03. Automotive Repair Shop\bin\Debug\net6.0\03. Automotive Repair Shop.deps.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\20. Exam Preparation\Solutions\03. Automotive Repair Shop\bin\Debug\net6.0\03. Automotive Repair Shop.runtimeconfig.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\20. Exam Preparation\Solutions\03. Automotive Repair Shop\bin\Debug\net6.0\03. Automotive Repair Shop.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\20. Exam Preparation\Solutions\03. Automotive Repair Shop\bin\Debug\net6.0\03. Automotive Repair Shop.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\20. Exam Preparation\Solutions\03. Automotive Repair Shop\obj\Debug\net6.0\03. Automotive Repair Shop.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\20. Exam Preparation\Solutions\03. Automotive Repair Shop\obj\Debug\net6.0\03. Automotive Repair Shop.AssemblyInfoInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\20. Exam Preparation\Solutions\03. Automotive Repair Shop\obj\Debug\net6.0\03. Automotive Repair Shop.AssemblyInfo.cs
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\20. Exam Preparation\Solutions\03. Automotive Repair Shop\obj\Debug\net6.0\03. Automotive Repair Shop.csproj.CoreCompileInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\20. Exam Preparation\Solutions\03. Automotive Repair Shop\obj\Debug\net6.0\03. Automotive Repair Shop.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\20. Exam Preparation\Solutions\03. Automotive Repair Shop\obj\Debug\net6.0\refint\03. Automotive Repair Shop.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\20. Exam Preparation\Solutions\03. Automotive Repair Shop\obj\Debug\net6.0\03. Automotive Repair Shop.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\20. Exam Preparation\Solutions\03. Automotive Repair Shop\obj\Debug\net6.0\03. Automotive Repair Shop.genruntimeconfig.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\20. Exam Preparation\Solutions\03. Automotive Repair Shop\obj\Debug\net6.0\ref\03. Automotive Repair Shop.dll
