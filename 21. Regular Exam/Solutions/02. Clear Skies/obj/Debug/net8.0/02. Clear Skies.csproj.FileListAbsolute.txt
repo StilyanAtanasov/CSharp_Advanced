@@ -1,0 +1,15 @@
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\21. Regular Exam\Solutions\02. Clear Skies\bin\Debug\net8.0\02. Clear Skies.exe
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\21. Regular Exam\Solutions\02. Clear Skies\bin\Debug\net8.0\02. Clear Skies.deps.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\21. Regular Exam\Solutions\02. Clear Skies\bin\Debug\net8.0\02. Clear Skies.runtimeconfig.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\21. Regular Exam\Solutions\02. Clear Skies\bin\Debug\net8.0\02. Clear Skies.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\21. Regular Exam\Solutions\02. Clear Skies\bin\Debug\net8.0\02. Clear Skies.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\21. Regular Exam\Solutions\02. Clear Skies\obj\Debug\net8.0\02. Clear Skies.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\21. Regular Exam\Solutions\02. Clear Skies\obj\Debug\net8.0\02. Clear Skies.AssemblyInfoInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\21. Regular Exam\Solutions\02. Clear Skies\obj\Debug\net8.0\02. Clear Skies.AssemblyInfo.cs
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\21. Regular Exam\Solutions\02. Clear Skies\obj\Debug\net8.0\02. Clear Skies.csproj.CoreCompileInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\21. Regular Exam\Solutions\02. Clear Skies\obj\Debug\net8.0\02. Clear Skies.sourcelink.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\21. Regular Exam\Solutions\02. Clear Skies\obj\Debug\net8.0\02. Clear Skies.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\21. Regular Exam\Solutions\02. Clear Skies\obj\Debug\net8.0\refint\02. Clear Skies.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\21. Regular Exam\Solutions\02. Clear Skies\obj\Debug\net8.0\02. Clear Skies.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\21. Regular Exam\Solutions\02. Clear Skies\obj\Debug\net8.0\02. Clear Skies.genruntimeconfig.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\21. Regular Exam\Solutions\02. Clear Skies\obj\Debug\net8.0\ref\02. Clear Skies.dll

@@ -1,0 +1,15 @@
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\21. Regular Exam\Solutions\03. Shark Taxonomy\bin\Debug\net6.0\03. Shark Taxonomy.exe
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\21. Regular Exam\Solutions\03. Shark Taxonomy\bin\Debug\net6.0\03. Shark Taxonomy.deps.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\21. Regular Exam\Solutions\03. Shark Taxonomy\bin\Debug\net6.0\03. Shark Taxonomy.runtimeconfig.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\21. Regular Exam\Solutions\03. Shark Taxonomy\bin\Debug\net6.0\03. Shark Taxonomy.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\21. Regular Exam\Solutions\03. Shark Taxonomy\bin\Debug\net6.0\03. Shark Taxonomy.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\21. Regular Exam\Solutions\03. Shark Taxonomy\obj\Debug\net6.0\03. Shark Taxonomy.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\21. Regular Exam\Solutions\03. Shark Taxonomy\obj\Debug\net6.0\03. Shark Taxonomy.AssemblyInfoInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\21. Regular Exam\Solutions\03. Shark Taxonomy\obj\Debug\net6.0\03. Shark Taxonomy.AssemblyInfo.cs
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\21. Regular Exam\Solutions\03. Shark Taxonomy\obj\Debug\net6.0\03. Shark Taxonomy.csproj.CoreCompileInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\21. Regular Exam\Solutions\03. Shark Taxonomy\obj\Debug\net6.0\03. Shark Taxonomy.sourcelink.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\21. Regular Exam\Solutions\03. Shark Taxonomy\obj\Debug\net6.0\03. Shark Taxonomy.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\21. Regular Exam\Solutions\03. Shark Taxonomy\obj\Debug\net6.0\refint\03. Shark Taxonomy.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\21. Regular Exam\Solutions\03. Shark Taxonomy\obj\Debug\net6.0\03. Shark Taxonomy.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\21. Regular Exam\Solutions\03. Shark Taxonomy\obj\Debug\net6.0\03. Shark Taxonomy.genruntimeconfig.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\21. Regular Exam\Solutions\03. Shark Taxonomy\obj\Debug\net6.0\ref\03. Shark Taxonomy.dll

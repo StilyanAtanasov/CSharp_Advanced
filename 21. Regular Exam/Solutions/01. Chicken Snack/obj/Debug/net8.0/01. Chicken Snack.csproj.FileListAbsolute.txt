@@ -1,0 +1,15 @@
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\21. Regular Exam\Solutions\01. Chicken Snack\bin\Debug\net8.0\01. Chicken Snack.exe
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\21. Regular Exam\Solutions\01. Chicken Snack\bin\Debug\net8.0\01. Chicken Snack.deps.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\21. Regular Exam\Solutions\01. Chicken Snack\bin\Debug\net8.0\01. Chicken Snack.runtimeconfig.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\21. Regular Exam\Solutions\01. Chicken Snack\bin\Debug\net8.0\01. Chicken Snack.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\21. Regular Exam\Solutions\01. Chicken Snack\bin\Debug\net8.0\01. Chicken Snack.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\21. Regular Exam\Solutions\01. Chicken Snack\obj\Debug\net8.0\01. Chicken Snack.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\21. Regular Exam\Solutions\01. Chicken Snack\obj\Debug\net8.0\01. Chicken Snack.AssemblyInfoInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\21. Regular Exam\Solutions\01. Chicken Snack\obj\Debug\net8.0\01. Chicken Snack.AssemblyInfo.cs
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\21. Regular Exam\Solutions\01. Chicken Snack\obj\Debug\net8.0\01. Chicken Snack.csproj.CoreCompileInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\21. Regular Exam\Solutions\01. Chicken Snack\obj\Debug\net8.0\01. Chicken Snack.sourcelink.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\21. Regular Exam\Solutions\01. Chicken Snack\obj\Debug\net8.0\01. Chicken Snack.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\21. Regular Exam\Solutions\01. Chicken Snack\obj\Debug\net8.0\refint\01. Chicken Snack.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\21. Regular Exam\Solutions\01. Chicken Snack\obj\Debug\net8.0\01. Chicken Snack.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\21. Regular Exam\Solutions\01. Chicken Snack\obj\Debug\net8.0\01. Chicken Snack.genruntimeconfig.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\21. Regular Exam\Solutions\01. Chicken Snack\obj\Debug\net8.0\ref\01. Chicken Snack.dll
