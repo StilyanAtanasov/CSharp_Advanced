@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\My Documents\\Stilyan\\Programming\\GitHub Repositories\\SoftUni-CSharp-Advanced-January-2024\\02. Exercise Stacks and Queues\\Solutions\\02. Basic Queue Operations\\02. Basic Queue Operations.csproj": {}
+    "D:\\My Documents\\Stilyan\\Programming\\GitHub Repositories\\C# Advanced\\02. Exercise Stacks and Queues\\Solutions\\02. Basic Queue Operations\\02. Basic Queue Operations.csproj": {}
   },
   "projects": {
-    "D:\\My Documents\\Stilyan\\Programming\\GitHub Repositories\\SoftUni-CSharp-Advanced-January-2024\\02. Exercise Stacks and Queues\\Solutions\\02. Basic Queue Operations\\02. Basic Queue Operations.csproj": {
+    "D:\\My Documents\\Stilyan\\Programming\\GitHub Repositories\\C# Advanced\\02. Exercise Stacks and Queues\\Solutions\\02. Basic Queue Operations\\02. Basic Queue Operations.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\My Documents\\Stilyan\\Programming\\GitHub Repositories\\SoftUni-CSharp-Advanced-January-2024\\02. Exercise Stacks and Queues\\Solutions\\02. Basic Queue Operations\\02. Basic Queue Operations.csproj",
+        "projectUniqueName": "D:\\My Documents\\Stilyan\\Programming\\GitHub Repositories\\C# Advanced\\02. Exercise Stacks and Queues\\Solutions\\02. Basic Queue Operations\\02. Basic Queue Operations.csproj",
         "projectName": "02. Basic Queue Operations",
-        "projectPath": "D:\\My Documents\\Stilyan\\Programming\\GitHub Repositories\\SoftUni-CSharp-Advanced-January-2024\\02. Exercise Stacks and Queues\\Solutions\\02. Basic Queue Operations\\02. Basic Queue Operations.csproj",
+        "projectPath": "D:\\My Documents\\Stilyan\\Programming\\GitHub Repositories\\C# Advanced\\02. Exercise Stacks and Queues\\Solutions\\02. Basic Queue Operations\\02. Basic Queue Operations.csproj",
         "packagesPath": "C:\\Users\\Becko\\.nuget\\packages\\",
-        "outputPath": "D:\\My Documents\\Stilyan\\Programming\\GitHub Repositories\\SoftUni-CSharp-Advanced-January-2024\\02. Exercise Stacks and Queues\\Solutions\\02. Basic Queue Operations\\obj\\",
+        "outputPath": "D:\\My Documents\\Stilyan\\Programming\\GitHub Repositories\\C# Advanced\\02. Exercise Stacks and Queues\\Solutions\\02. Basic Queue Operations\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -38,6 +38,11 @@
           "warnAsError": [
             "NU1605"
           ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -59,7 +64,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }

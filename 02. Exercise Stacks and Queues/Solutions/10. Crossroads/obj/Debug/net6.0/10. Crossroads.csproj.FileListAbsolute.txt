@@ -1,0 +1,15 @@
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\02. Exercise Stacks and Queues\Solutions\10. Crossroads\bin\Debug\net6.0\10. Crossroads.exe
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\02. Exercise Stacks and Queues\Solutions\10. Crossroads\bin\Debug\net6.0\10. Crossroads.deps.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\02. Exercise Stacks and Queues\Solutions\10. Crossroads\bin\Debug\net6.0\10. Crossroads.runtimeconfig.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\02. Exercise Stacks and Queues\Solutions\10. Crossroads\bin\Debug\net6.0\10. Crossroads.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\02. Exercise Stacks and Queues\Solutions\10. Crossroads\bin\Debug\net6.0\10. Crossroads.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\02. Exercise Stacks and Queues\Solutions\10. Crossroads\obj\Debug\net6.0\10. Crossroads.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\02. Exercise Stacks and Queues\Solutions\10. Crossroads\obj\Debug\net6.0\10. Crossroads.AssemblyInfoInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\02. Exercise Stacks and Queues\Solutions\10. Crossroads\obj\Debug\net6.0\10. Crossroads.AssemblyInfo.cs
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\02. Exercise Stacks and Queues\Solutions\10. Crossroads\obj\Debug\net6.0\10. Crossroads.csproj.CoreCompileInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\02. Exercise Stacks and Queues\Solutions\10. Crossroads\obj\Debug\net6.0\10. Crossroads.sourcelink.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\02. Exercise Stacks and Queues\Solutions\10. Crossroads\obj\Debug\net6.0\10. Crossroads.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\02. Exercise Stacks and Queues\Solutions\10. Crossroads\obj\Debug\net6.0\refint\10. Crossroads.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\02. Exercise Stacks and Queues\Solutions\10. Crossroads\obj\Debug\net6.0\10. Crossroads.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\02. Exercise Stacks and Queues\Solutions\10. Crossroads\obj\Debug\net6.0\10. Crossroads.genruntimeconfig.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\02. Exercise Stacks and Queues\Solutions\10. Crossroads\obj\Debug\net6.0\ref\10. Crossroads.dll

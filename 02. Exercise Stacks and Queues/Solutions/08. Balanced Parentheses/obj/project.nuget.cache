@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mCkrCUD7QuIgeUqeaP1y8aOoFWjPWR9nMRfnjmmyHeKbAUtOtjdKtwq+zcLGOLiyNGzuxkeQa/03bxRYLaiEjQ==",
+  "dgSpecHash": "zsDZGbLDFc2sot6bpG6dRhAv6BHOlNZGS8/f0KdJd88CAYAPbaVifi8BnsECTb5/w/OUcq8gxUGpUT6NAbA6tQ==",
   "success": true,
-  "projectFilePath": "D:\\My Documents\\Stilyan\\Programming\\GitHub Repositories\\SoftUni-CSharp-Advanced-January-2024\\02. Exercise Stacks and Queues\\Solutions\\08. Balanced Parentheses\\08. Balanced Parentheses.csproj",
+  "projectFilePath": "D:\\My Documents\\Stilyan\\Programming\\GitHub Repositories\\C# Advanced\\02. Exercise Stacks and Queues\\Solutions\\08. Balanced Parentheses\\08. Balanced Parentheses.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
