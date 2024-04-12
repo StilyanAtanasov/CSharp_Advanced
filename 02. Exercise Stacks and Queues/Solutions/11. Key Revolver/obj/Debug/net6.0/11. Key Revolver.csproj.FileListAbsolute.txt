@@ -1,0 +1,15 @@
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\02. Exercise Stacks and Queues\Solutions\11. Key Revolver\obj\Debug\net6.0\11. Key Revolver.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\02. Exercise Stacks and Queues\Solutions\11. Key Revolver\obj\Debug\net6.0\11. Key Revolver.AssemblyInfoInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\02. Exercise Stacks and Queues\Solutions\11. Key Revolver\obj\Debug\net6.0\11. Key Revolver.AssemblyInfo.cs
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\02. Exercise Stacks and Queues\Solutions\11. Key Revolver\obj\Debug\net6.0\11. Key Revolver.csproj.CoreCompileInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\02. Exercise Stacks and Queues\Solutions\11. Key Revolver\obj\Debug\net6.0\11. Key Revolver.sourcelink.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\02. Exercise Stacks and Queues\Solutions\11. Key Revolver\bin\Debug\net6.0\11. Key Revolver.exe
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\02. Exercise Stacks and Queues\Solutions\11. Key Revolver\bin\Debug\net6.0\11. Key Revolver.deps.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\02. Exercise Stacks and Queues\Solutions\11. Key Revolver\bin\Debug\net6.0\11. Key Revolver.runtimeconfig.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\02. Exercise Stacks and Queues\Solutions\11. Key Revolver\bin\Debug\net6.0\11. Key Revolver.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\02. Exercise Stacks and Queues\Solutions\11. Key Revolver\bin\Debug\net6.0\11. Key Revolver.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\02. Exercise Stacks and Queues\Solutions\11. Key Revolver\obj\Debug\net6.0\11. Key Revolver.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\02. Exercise Stacks and Queues\Solutions\11. Key Revolver\obj\Debug\net6.0\refint\11. Key Revolver.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\02. Exercise Stacks and Queues\Solutions\11. Key Revolver\obj\Debug\net6.0\11. Key Revolver.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\02. Exercise Stacks and Queues\Solutions\11. Key Revolver\obj\Debug\net6.0\11. Key Revolver.genruntimeconfig.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\02. Exercise Stacks and Queues\Solutions\11. Key Revolver\obj\Debug\net6.0\ref\11. Key Revolver.dll

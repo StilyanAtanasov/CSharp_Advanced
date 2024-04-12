@@ -1,0 +1,15 @@
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\02. Exercise Stacks and Queues\Solutions\12. Cups and Bottles\bin\Debug\net6.0\12. Cups and Bottles.exe
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\02. Exercise Stacks and Queues\Solutions\12. Cups and Bottles\bin\Debug\net6.0\12. Cups and Bottles.deps.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\02. Exercise Stacks and Queues\Solutions\12. Cups and Bottles\bin\Debug\net6.0\12. Cups and Bottles.runtimeconfig.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\02. Exercise Stacks and Queues\Solutions\12. Cups and Bottles\bin\Debug\net6.0\12. Cups and Bottles.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\02. Exercise Stacks and Queues\Solutions\12. Cups and Bottles\bin\Debug\net6.0\12. Cups and Bottles.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\02. Exercise Stacks and Queues\Solutions\12. Cups and Bottles\obj\Debug\net6.0\12. Cups and Bottles.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\02. Exercise Stacks and Queues\Solutions\12. Cups and Bottles\obj\Debug\net6.0\12. Cups and Bottles.AssemblyInfoInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\02. Exercise Stacks and Queues\Solutions\12. Cups and Bottles\obj\Debug\net6.0\12. Cups and Bottles.AssemblyInfo.cs
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\02. Exercise Stacks and Queues\Solutions\12. Cups and Bottles\obj\Debug\net6.0\12. Cups and Bottles.csproj.CoreCompileInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\02. Exercise Stacks and Queues\Solutions\12. Cups and Bottles\obj\Debug\net6.0\12. Cups and Bottles.sourcelink.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\02. Exercise Stacks and Queues\Solutions\12. Cups and Bottles\obj\Debug\net6.0\12. Cups and Bottles.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\02. Exercise Stacks and Queues\Solutions\12. Cups and Bottles\obj\Debug\net6.0\refint\12. Cups and Bottles.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\02. Exercise Stacks and Queues\Solutions\12. Cups and Bottles\obj\Debug\net6.0\12. Cups and Bottles.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\02. Exercise Stacks and Queues\Solutions\12. Cups and Bottles\obj\Debug\net6.0\12. Cups and Bottles.genruntimeconfig.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\02. Exercise Stacks and Queues\Solutions\12. Cups and Bottles\obj\Debug\net6.0\ref\12. Cups and Bottles.dll
