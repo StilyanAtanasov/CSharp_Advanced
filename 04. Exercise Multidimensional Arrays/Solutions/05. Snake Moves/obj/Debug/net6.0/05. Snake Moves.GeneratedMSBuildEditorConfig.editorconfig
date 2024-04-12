@@ -8,4 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = _05._Snake_Moves
-build_property.ProjectDir = D:\My Documents\Stilyan\Programming\GitHub\Repositories\SoftUni-CSharp-Advanced-January-2024\04. Exercise Multidimensional Arrays\Solutions\05. Snake Moves\
+build_property.ProjectDir = D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\04. Exercise Multidimensional Arrays\Solutions\05. Snake Moves\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

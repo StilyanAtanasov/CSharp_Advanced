@@ -1,0 +1,15 @@
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\04. Exercise Multidimensional Arrays\Solutions\8. Bombs\bin\Debug\net6.0\8. Bombs.exe
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\04. Exercise Multidimensional Arrays\Solutions\8. Bombs\bin\Debug\net6.0\8. Bombs.deps.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\04. Exercise Multidimensional Arrays\Solutions\8. Bombs\bin\Debug\net6.0\8. Bombs.runtimeconfig.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\04. Exercise Multidimensional Arrays\Solutions\8. Bombs\bin\Debug\net6.0\8. Bombs.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\04. Exercise Multidimensional Arrays\Solutions\8. Bombs\bin\Debug\net6.0\8. Bombs.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\04. Exercise Multidimensional Arrays\Solutions\8. Bombs\obj\Debug\net6.0\8. Bombs.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\04. Exercise Multidimensional Arrays\Solutions\8. Bombs\obj\Debug\net6.0\8. Bombs.AssemblyInfoInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\04. Exercise Multidimensional Arrays\Solutions\8. Bombs\obj\Debug\net6.0\8. Bombs.AssemblyInfo.cs
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\04. Exercise Multidimensional Arrays\Solutions\8. Bombs\obj\Debug\net6.0\8. Bombs.csproj.CoreCompileInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\04. Exercise Multidimensional Arrays\Solutions\8. Bombs\obj\Debug\net6.0\8. Bombs.sourcelink.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\04. Exercise Multidimensional Arrays\Solutions\8. Bombs\obj\Debug\net6.0\8. Bombs.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\04. Exercise Multidimensional Arrays\Solutions\8. Bombs\obj\Debug\net6.0\refint\8. Bombs.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\04. Exercise Multidimensional Arrays\Solutions\8. Bombs\obj\Debug\net6.0\8. Bombs.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\04. Exercise Multidimensional Arrays\Solutions\8. Bombs\obj\Debug\net6.0\8. Bombs.genruntimeconfig.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\04. Exercise Multidimensional Arrays\Solutions\8. Bombs\obj\Debug\net6.0\ref\8. Bombs.dll
