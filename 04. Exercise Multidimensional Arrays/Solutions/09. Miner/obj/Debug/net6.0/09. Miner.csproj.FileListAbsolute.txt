@@ -1,0 +1,15 @@
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\04. Exercise Multidimensional Arrays\Solutions\09. Miner\bin\Debug\net6.0\09. Miner.exe
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\04. Exercise Multidimensional Arrays\Solutions\09. Miner\bin\Debug\net6.0\09. Miner.deps.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\04. Exercise Multidimensional Arrays\Solutions\09. Miner\bin\Debug\net6.0\09. Miner.runtimeconfig.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\04. Exercise Multidimensional Arrays\Solutions\09. Miner\bin\Debug\net6.0\09. Miner.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\04. Exercise Multidimensional Arrays\Solutions\09. Miner\bin\Debug\net6.0\09. Miner.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\04. Exercise Multidimensional Arrays\Solutions\09. Miner\obj\Debug\net6.0\09. Miner.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\04. Exercise Multidimensional Arrays\Solutions\09. Miner\obj\Debug\net6.0\09. Miner.AssemblyInfoInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\04. Exercise Multidimensional Arrays\Solutions\09. Miner\obj\Debug\net6.0\09. Miner.AssemblyInfo.cs
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\04. Exercise Multidimensional Arrays\Solutions\09. Miner\obj\Debug\net6.0\09. Miner.csproj.CoreCompileInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\04. Exercise Multidimensional Arrays\Solutions\09. Miner\obj\Debug\net6.0\09. Miner.sourcelink.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\04. Exercise Multidimensional Arrays\Solutions\09. Miner\obj\Debug\net6.0\09. Miner.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\04. Exercise Multidimensional Arrays\Solutions\09. Miner\obj\Debug\net6.0\refint\09. Miner.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\04. Exercise Multidimensional Arrays\Solutions\09. Miner\obj\Debug\net6.0\09. Miner.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\04. Exercise Multidimensional Arrays\Solutions\09. Miner\obj\Debug\net6.0\09. Miner.genruntimeconfig.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\04. Exercise Multidimensional Arrays\Solutions\09. Miner\obj\Debug\net6.0\ref\09. Miner.dll

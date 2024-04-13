@@ -7,7 +7,7 @@ for (int i = 0; i < squareMatrixSize; i++)
     for (int j = 0; j < squareMatrixSize; j++) squareMatrix[i, j] = row[j];
 }
 
-ushort bombRange = 1;
+ushort bombRange = 1; // To be read by the console for more scalable functionality
 
 string[] bombsPositions = Console.ReadLine()!.Split();
 foreach (string bombsPosition in bombsPositions)
