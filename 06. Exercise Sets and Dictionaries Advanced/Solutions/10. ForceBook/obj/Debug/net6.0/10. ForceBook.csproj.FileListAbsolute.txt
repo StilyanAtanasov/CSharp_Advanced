@@ -1,0 +1,15 @@
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\06. Exercise Sets and Dictionaries Advanced\Solutions\10. ForceBook\bin\Debug\net6.0\10. ForceBook.exe
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\06. Exercise Sets and Dictionaries Advanced\Solutions\10. ForceBook\bin\Debug\net6.0\10. ForceBook.deps.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\06. Exercise Sets and Dictionaries Advanced\Solutions\10. ForceBook\bin\Debug\net6.0\10. ForceBook.runtimeconfig.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\06. Exercise Sets and Dictionaries Advanced\Solutions\10. ForceBook\bin\Debug\net6.0\10. ForceBook.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\06. Exercise Sets and Dictionaries Advanced\Solutions\10. ForceBook\bin\Debug\net6.0\10. ForceBook.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\06. Exercise Sets and Dictionaries Advanced\Solutions\10. ForceBook\obj\Debug\net6.0\10. ForceBook.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\06. Exercise Sets and Dictionaries Advanced\Solutions\10. ForceBook\obj\Debug\net6.0\10. ForceBook.AssemblyInfoInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\06. Exercise Sets and Dictionaries Advanced\Solutions\10. ForceBook\obj\Debug\net6.0\10. ForceBook.AssemblyInfo.cs
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\06. Exercise Sets and Dictionaries Advanced\Solutions\10. ForceBook\obj\Debug\net6.0\10. ForceBook.csproj.CoreCompileInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\06. Exercise Sets and Dictionaries Advanced\Solutions\10. ForceBook\obj\Debug\net6.0\10. ForceBook.sourcelink.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\06. Exercise Sets and Dictionaries Advanced\Solutions\10. ForceBook\obj\Debug\net6.0\10. ForceBook.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\06. Exercise Sets and Dictionaries Advanced\Solutions\10. ForceBook\obj\Debug\net6.0\refint\10. ForceBook.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\06. Exercise Sets and Dictionaries Advanced\Solutions\10. ForceBook\obj\Debug\net6.0\10. ForceBook.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\06. Exercise Sets and Dictionaries Advanced\Solutions\10. ForceBook\obj\Debug\net6.0\10. ForceBook.genruntimeconfig.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\06. Exercise Sets and Dictionaries Advanced\Solutions\10. ForceBook\obj\Debug\net6.0\ref\10. ForceBook.dll

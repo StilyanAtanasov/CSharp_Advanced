@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("02. Sets of Elements")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8c8e6503f66f73f74432ca15683f0ce4981fefde")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c2dd80f2cda090358618bda3791fe7f4f3afcf73")]
 [assembly: System.Reflection.AssemblyProductAttribute("02. Sets of Elements")]
 [assembly: System.Reflection.AssemblyTitleAttribute("02. Sets of Elements")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
