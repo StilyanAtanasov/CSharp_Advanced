@@ -1,0 +1,15 @@
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\06. Exercise Sets and Dictionaries Advanced\Solutions\09. SoftUni Exam Results\bin\Debug\net6.0\09. SoftUni Exam Results.exe
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\06. Exercise Sets and Dictionaries Advanced\Solutions\09. SoftUni Exam Results\bin\Debug\net6.0\09. SoftUni Exam Results.deps.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\06. Exercise Sets and Dictionaries Advanced\Solutions\09. SoftUni Exam Results\bin\Debug\net6.0\09. SoftUni Exam Results.runtimeconfig.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\06. Exercise Sets and Dictionaries Advanced\Solutions\09. SoftUni Exam Results\bin\Debug\net6.0\09. SoftUni Exam Results.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\06. Exercise Sets and Dictionaries Advanced\Solutions\09. SoftUni Exam Results\bin\Debug\net6.0\09. SoftUni Exam Results.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\06. Exercise Sets and Dictionaries Advanced\Solutions\09. SoftUni Exam Results\obj\Debug\net6.0\09. SoftUni Exam Results.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\06. Exercise Sets and Dictionaries Advanced\Solutions\09. SoftUni Exam Results\obj\Debug\net6.0\09. SoftUni Exam Results.AssemblyInfoInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\06. Exercise Sets and Dictionaries Advanced\Solutions\09. SoftUni Exam Results\obj\Debug\net6.0\09. SoftUni Exam Results.AssemblyInfo.cs
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\06. Exercise Sets and Dictionaries Advanced\Solutions\09. SoftUni Exam Results\obj\Debug\net6.0\09. SoftUni Exam Results.csproj.CoreCompileInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\06. Exercise Sets and Dictionaries Advanced\Solutions\09. SoftUni Exam Results\obj\Debug\net6.0\09. SoftUni Exam Results.sourcelink.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\06. Exercise Sets and Dictionaries Advanced\Solutions\09. SoftUni Exam Results\obj\Debug\net6.0\09. SoftUni Exam Results.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\06. Exercise Sets and Dictionaries Advanced\Solutions\09. SoftUni Exam Results\obj\Debug\net6.0\refint\09. SoftUni Exam Results.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\06. Exercise Sets and Dictionaries Advanced\Solutions\09. SoftUni Exam Results\obj\Debug\net6.0\09. SoftUni Exam Results.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\06. Exercise Sets and Dictionaries Advanced\Solutions\09. SoftUni Exam Results\obj\Debug\net6.0\09. SoftUni Exam Results.genruntimeconfig.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\06. Exercise Sets and Dictionaries Advanced\Solutions\09. SoftUni Exam Results\obj\Debug\net6.0\ref\09. SoftUni Exam Results.dll
