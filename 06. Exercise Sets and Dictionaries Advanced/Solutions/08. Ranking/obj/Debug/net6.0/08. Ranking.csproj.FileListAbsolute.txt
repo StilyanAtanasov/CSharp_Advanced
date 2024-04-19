@@ -1,0 +1,15 @@
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\06. Exercise Sets and Dictionaries Advanced\Solutions\08. Ranking\bin\Debug\net6.0\08. Ranking.exe
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\06. Exercise Sets and Dictionaries Advanced\Solutions\08. Ranking\bin\Debug\net6.0\08. Ranking.deps.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\06. Exercise Sets and Dictionaries Advanced\Solutions\08. Ranking\bin\Debug\net6.0\08. Ranking.runtimeconfig.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\06. Exercise Sets and Dictionaries Advanced\Solutions\08. Ranking\bin\Debug\net6.0\08. Ranking.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\06. Exercise Sets and Dictionaries Advanced\Solutions\08. Ranking\bin\Debug\net6.0\08. Ranking.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\06. Exercise Sets and Dictionaries Advanced\Solutions\08. Ranking\obj\Debug\net6.0\08. Ranking.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\06. Exercise Sets and Dictionaries Advanced\Solutions\08. Ranking\obj\Debug\net6.0\08. Ranking.AssemblyInfoInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\06. Exercise Sets and Dictionaries Advanced\Solutions\08. Ranking\obj\Debug\net6.0\08. Ranking.AssemblyInfo.cs
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\06. Exercise Sets and Dictionaries Advanced\Solutions\08. Ranking\obj\Debug\net6.0\08. Ranking.csproj.CoreCompileInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\06. Exercise Sets and Dictionaries Advanced\Solutions\08. Ranking\obj\Debug\net6.0\08. Ranking.sourcelink.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\06. Exercise Sets and Dictionaries Advanced\Solutions\08. Ranking\obj\Debug\net6.0\08. Ranking.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\06. Exercise Sets and Dictionaries Advanced\Solutions\08. Ranking\obj\Debug\net6.0\refint\08. Ranking.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\06. Exercise Sets and Dictionaries Advanced\Solutions\08. Ranking\obj\Debug\net6.0\08. Ranking.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\06. Exercise Sets and Dictionaries Advanced\Solutions\08. Ranking\obj\Debug\net6.0\08. Ranking.genruntimeconfig.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\06. Exercise Sets and Dictionaries Advanced\Solutions\08. Ranking\obj\Debug\net6.0\ref\08. Ranking.dll
