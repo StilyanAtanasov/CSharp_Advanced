@@ -9,3 +9,5 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = _08._Car_Salesman
 build_property.ProjectDir = D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\12. Exercise Defining Classes\Solutions\08. Car Salesman\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

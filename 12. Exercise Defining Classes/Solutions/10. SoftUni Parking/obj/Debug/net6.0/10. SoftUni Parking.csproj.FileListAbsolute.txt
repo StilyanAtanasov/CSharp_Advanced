@@ -1,0 +1,15 @@
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\12. Exercise Defining Classes\Solutions\10. SoftUni Parking\bin\Debug\net6.0\10. SoftUni Parking.exe
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\12. Exercise Defining Classes\Solutions\10. SoftUni Parking\bin\Debug\net6.0\10. SoftUni Parking.deps.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\12. Exercise Defining Classes\Solutions\10. SoftUni Parking\bin\Debug\net6.0\10. SoftUni Parking.runtimeconfig.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\12. Exercise Defining Classes\Solutions\10. SoftUni Parking\bin\Debug\net6.0\10. SoftUni Parking.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\12. Exercise Defining Classes\Solutions\10. SoftUni Parking\bin\Debug\net6.0\10. SoftUni Parking.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\12. Exercise Defining Classes\Solutions\10. SoftUni Parking\obj\Debug\net6.0\10. SoftUni Parking.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\12. Exercise Defining Classes\Solutions\10. SoftUni Parking\obj\Debug\net6.0\10. SoftUni Parking.AssemblyInfoInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\12. Exercise Defining Classes\Solutions\10. SoftUni Parking\obj\Debug\net6.0\10. SoftUni Parking.AssemblyInfo.cs
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\12. Exercise Defining Classes\Solutions\10. SoftUni Parking\obj\Debug\net6.0\10. SoftUni Parking.csproj.CoreCompileInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\12. Exercise Defining Classes\Solutions\10. SoftUni Parking\obj\Debug\net6.0\10. SoftUni Parking.sourcelink.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\12. Exercise Defining Classes\Solutions\10. SoftUni Parking\obj\Debug\net6.0\10. SoftUni Parking.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\12. Exercise Defining Classes\Solutions\10. SoftUni Parking\obj\Debug\net6.0\refint\10. SoftUni Parking.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\12. Exercise Defining Classes\Solutions\10. SoftUni Parking\obj\Debug\net6.0\10. SoftUni Parking.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\12. Exercise Defining Classes\Solutions\10. SoftUni Parking\obj\Debug\net6.0\10. SoftUni Parking.genruntimeconfig.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\12. Exercise Defining Classes\Solutions\10. SoftUni Parking\obj\Debug\net6.0\ref\10. SoftUni Parking.dll

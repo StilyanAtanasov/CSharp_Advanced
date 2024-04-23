@@ -1,0 +1,15 @@
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\12. Exercise Defining Classes\Solutions\05. Date Modifier\bin\Debug\net6.0\05. Date Modifier.exe
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\12. Exercise Defining Classes\Solutions\05. Date Modifier\bin\Debug\net6.0\05. Date Modifier.deps.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\12. Exercise Defining Classes\Solutions\05. Date Modifier\bin\Debug\net6.0\05. Date Modifier.runtimeconfig.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\12. Exercise Defining Classes\Solutions\05. Date Modifier\bin\Debug\net6.0\05. Date Modifier.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\12. Exercise Defining Classes\Solutions\05. Date Modifier\bin\Debug\net6.0\05. Date Modifier.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\12. Exercise Defining Classes\Solutions\05. Date Modifier\obj\Debug\net6.0\05. Date Modifier.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\12. Exercise Defining Classes\Solutions\05. Date Modifier\obj\Debug\net6.0\05. Date Modifier.AssemblyInfoInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\12. Exercise Defining Classes\Solutions\05. Date Modifier\obj\Debug\net6.0\05. Date Modifier.AssemblyInfo.cs
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\12. Exercise Defining Classes\Solutions\05. Date Modifier\obj\Debug\net6.0\05. Date Modifier.csproj.CoreCompileInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\12. Exercise Defining Classes\Solutions\05. Date Modifier\obj\Debug\net6.0\05. Date Modifier.sourcelink.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\12. Exercise Defining Classes\Solutions\05. Date Modifier\obj\Debug\net6.0\05. Date Modifier.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\12. Exercise Defining Classes\Solutions\05. Date Modifier\obj\Debug\net6.0\refint\05. Date Modifier.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\12. Exercise Defining Classes\Solutions\05. Date Modifier\obj\Debug\net6.0\05. Date Modifier.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\12. Exercise Defining Classes\Solutions\05. Date Modifier\obj\Debug\net6.0\05. Date Modifier.genruntimeconfig.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\12. Exercise Defining Classes\Solutions\05. Date Modifier\obj\Debug\net6.0\ref\05. Date Modifier.dll

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("07. The V-Logger")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c2dd80f2cda090358618bda3791fe7f4f3afcf73")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+de8c69e94882408b06ff8bf272f3caf076521f64")]
 [assembly: System.Reflection.AssemblyProductAttribute("07. The V-Logger")]
 [assembly: System.Reflection.AssemblyTitleAttribute("07. The V-Logger")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

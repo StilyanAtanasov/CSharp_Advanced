@@ -11,13 +11,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. Oldest Family Member", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04. Opinion Poll", "04. Opinion Poll\04. Opinion Poll.csproj", "{9A21B75E-69B2-46C8-B026-791099EBC9F7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Speed Racing", "06. Speed Racing\06. Speed Racing.csproj", "{475A688B-2BE4-40D3-859A-B5D5DF9605D4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06. Speed Racing", "06. Speed Racing\06. Speed Racing.csproj", "{475A688B-2BE4-40D3-859A-B5D5DF9605D4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. Raw Data", "07. Raw Data\07. Raw Data.csproj", "{3F7A8A28-9245-4014-A957-897A1B09B5A7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07. Raw Data", "07. Raw Data\07. Raw Data.csproj", "{3F7A8A28-9245-4014-A957-897A1B09B5A7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08. Car Salesman", "08. Car Salesman\08. Car Salesman.csproj", "{5475501C-7072-4AD5-80AA-78B527842EA3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08. Car Salesman", "08. Car Salesman\08. Car Salesman.csproj", "{5475501C-7072-4AD5-80AA-78B527842EA3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09. Pokemon Trainer", "09. Pokemon Trainer\09. Pokemon Trainer.csproj", "{25DFB640-A1FF-4C65-8A39-3F39668BFE5C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "09. Pokemon Trainer", "09. Pokemon Trainer\09. Pokemon Trainer.csproj", "{25DFB640-A1FF-4C65-8A39-3F39668BFE5C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Date Modifier", "05. Date Modifier\05. Date Modifier.csproj", "{68AF2D82-22B3-4A16-A08F-51DF42ABCCDB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10. SoftUni Parking", "10. SoftUni Parking\10. SoftUni Parking.csproj", "{88FA31B3-93B6-470E-A42F-462954993335}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +61,14 @@ Global
 		{25DFB640-A1FF-4C65-8A39-3F39668BFE5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{25DFB640-A1FF-4C65-8A39-3F39668BFE5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{25DFB640-A1FF-4C65-8A39-3F39668BFE5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68AF2D82-22B3-4A16-A08F-51DF42ABCCDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68AF2D82-22B3-4A16-A08F-51DF42ABCCDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68AF2D82-22B3-4A16-A08F-51DF42ABCCDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68AF2D82-22B3-4A16-A08F-51DF42ABCCDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{88FA31B3-93B6-470E-A42F-462954993335}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{88FA31B3-93B6-470E-A42F-462954993335}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{88FA31B3-93B6-470E-A42F-462954993335}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{88FA31B3-93B6-470E-A42F-462954993335}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

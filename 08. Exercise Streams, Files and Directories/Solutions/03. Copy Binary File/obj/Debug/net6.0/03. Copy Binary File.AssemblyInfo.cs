@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("03. Copy Binary File")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+de8c69e94882408b06ff8bf272f3caf076521f64")]
 [assembly: System.Reflection.AssemblyProductAttribute("03. Copy Binary File")]
 [assembly: System.Reflection.AssemblyTitleAttribute("03. Copy Binary File")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

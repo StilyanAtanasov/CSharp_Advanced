@@ -9,3 +9,5 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = _01._Action_Print
 build_property.ProjectDir = D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\10. Exercise Functional Programming\Solutions\01. Action Print\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
