@@ -1,0 +1,15 @@
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\14. Implementing Stack and Queue\Implementing Stack and Queue\Custom Queue of Int32\bin\Debug\net6.0\Custom Queue of Int32.exe
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\14. Implementing Stack and Queue\Implementing Stack and Queue\Custom Queue of Int32\bin\Debug\net6.0\Custom Queue of Int32.deps.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\14. Implementing Stack and Queue\Implementing Stack and Queue\Custom Queue of Int32\bin\Debug\net6.0\Custom Queue of Int32.runtimeconfig.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\14. Implementing Stack and Queue\Implementing Stack and Queue\Custom Queue of Int32\bin\Debug\net6.0\Custom Queue of Int32.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\14. Implementing Stack and Queue\Implementing Stack and Queue\Custom Queue of Int32\bin\Debug\net6.0\Custom Queue of Int32.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\14. Implementing Stack and Queue\Implementing Stack and Queue\Custom Queue of Int32\obj\Debug\net6.0\Custom Queue of Int32.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\14. Implementing Stack and Queue\Implementing Stack and Queue\Custom Queue of Int32\obj\Debug\net6.0\Custom Queue of Int32.AssemblyInfoInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\14. Implementing Stack and Queue\Implementing Stack and Queue\Custom Queue of Int32\obj\Debug\net6.0\Custom Queue of Int32.AssemblyInfo.cs
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\14. Implementing Stack and Queue\Implementing Stack and Queue\Custom Queue of Int32\obj\Debug\net6.0\Custom Queue of Int32.csproj.CoreCompileInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\14. Implementing Stack and Queue\Implementing Stack and Queue\Custom Queue of Int32\obj\Debug\net6.0\Custom Queue of Int32.sourcelink.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\14. Implementing Stack and Queue\Implementing Stack and Queue\Custom Queue of Int32\obj\Debug\net6.0\Custom Queue of Int32.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\14. Implementing Stack and Queue\Implementing Stack and Queue\Custom Queue of Int32\obj\Debug\net6.0\refint\Custom Queue of Int32.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\14. Implementing Stack and Queue\Implementing Stack and Queue\Custom Queue of Int32\obj\Debug\net6.0\Custom Queue of Int32.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\14. Implementing Stack and Queue\Implementing Stack and Queue\Custom Queue of Int32\obj\Debug\net6.0\Custom Queue of Int32.genruntimeconfig.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\14. Implementing Stack and Queue\Implementing Stack and Queue\Custom Queue of Int32\obj\Debug\net6.0\ref\Custom Queue of Int32.dll
