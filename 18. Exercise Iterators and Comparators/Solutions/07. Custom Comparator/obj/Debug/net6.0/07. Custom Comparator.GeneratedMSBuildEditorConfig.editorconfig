@@ -9,3 +9,5 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = _07._Custom_Comparator
 build_property.ProjectDir = D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\18. Exercise Iterators and Comparators\Solutions\07. Custom Comparator\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

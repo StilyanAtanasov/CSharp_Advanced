@@ -5,19 +5,21 @@ VisualStudioVersion = 17.7.34009.444
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Generic Box of String", "01. Generic Box of String\01. Generic Box of String.csproj", "{303E81EE-E464-4655-B016-76889F223933}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Generic Box of Integer", "02. Generic Box of Integer\02. Generic Box of Integer.csproj", "{F2782211-6995-4367-925A-2EBD73F66DDF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. Generic Box of Integer", "02. Generic Box of Integer\02. Generic Box of Integer.csproj", "{F2782211-6995-4367-925A-2EBD73F66DDF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Generic Swap Method String", "03. Generic Swap Method String\03. Generic Swap Method String.csproj", "{153533AB-70D2-40C3-8D4F-A3B44949F485}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. Generic Swap Method String", "03. Generic Swap Method String\03. Generic Swap Method String.csproj", "{153533AB-70D2-40C3-8D4F-A3B44949F485}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Generic Swap Method Integer", "04. Generic Swap Method Integer\04. Generic Swap Method Integer.csproj", "{E928CEC7-D350-4418-A8C5-BF7319D6F877}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04. Generic Swap Method Integer", "04. Generic Swap Method Integer\04. Generic Swap Method Integer.csproj", "{E928CEC7-D350-4418-A8C5-BF7319D6F877}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Generic Count Method String", "05. Generic Count Method String\05. Generic Count Method String.csproj", "{F8340446-ACB7-4D42-B98E-FDC0E6488FDE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05. Generic Count Method String", "05. Generic Count Method String\05. Generic Count Method String.csproj", "{F8340446-ACB7-4D42-B98E-FDC0E6488FDE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Generic Count Method Double", "06. Generic Count Method Double\06. Generic Count Method Double.csproj", "{D0B48424-91F6-4572-AA8C-E96878224EA0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "06. Generic Count Method Double", "06. Generic Count Method Double\06. Generic Count Method Double.csproj", "{D0B48424-91F6-4572-AA8C-E96878224EA0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. Tuple", "07. Tuple\07. Tuple.csproj", "{E8FEE015-72A9-4F7F-8CC3-9B4F3FF578E0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07. Tuple", "07. Tuple\07. Tuple.csproj", "{E8FEE015-72A9-4F7F-8CC3-9B4F3FF578E0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08. Threeuple", "08. Threeuple\08. Threeuple.csproj", "{C10D5596-D1A7-4E5F-9CBC-1FBE5E2EA4B0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08. Threeuple", "08. Threeuple\08. Threeuple.csproj", "{C10D5596-D1A7-4E5F-9CBC-1FBE5E2EA4B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09. Custom Linked List", "09. Custom Linked List\09. Custom Linked List.csproj", "{33B9D735-3E8B-490F-99D4-918FB57A001C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{C10D5596-D1A7-4E5F-9CBC-1FBE5E2EA4B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C10D5596-D1A7-4E5F-9CBC-1FBE5E2EA4B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C10D5596-D1A7-4E5F-9CBC-1FBE5E2EA4B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33B9D735-3E8B-490F-99D4-918FB57A001C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33B9D735-3E8B-490F-99D4-918FB57A001C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33B9D735-3E8B-490F-99D4-918FB57A001C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33B9D735-3E8B-490F-99D4-918FB57A001C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

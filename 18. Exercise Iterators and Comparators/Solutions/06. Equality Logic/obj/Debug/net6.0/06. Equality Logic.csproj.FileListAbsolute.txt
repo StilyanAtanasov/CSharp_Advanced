@@ -1,0 +1,15 @@
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\18. Exercise Iterators and Comparators\Solutions\06. Equality Logic\bin\Debug\net6.0\06. Equality Logic.exe
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\18. Exercise Iterators and Comparators\Solutions\06. Equality Logic\bin\Debug\net6.0\06. Equality Logic.deps.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\18. Exercise Iterators and Comparators\Solutions\06. Equality Logic\bin\Debug\net6.0\06. Equality Logic.runtimeconfig.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\18. Exercise Iterators and Comparators\Solutions\06. Equality Logic\bin\Debug\net6.0\06. Equality Logic.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\18. Exercise Iterators and Comparators\Solutions\06. Equality Logic\bin\Debug\net6.0\06. Equality Logic.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\18. Exercise Iterators and Comparators\Solutions\06. Equality Logic\obj\Debug\net6.0\06. Equality Logic.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\18. Exercise Iterators and Comparators\Solutions\06. Equality Logic\obj\Debug\net6.0\06. Equality Logic.AssemblyInfoInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\18. Exercise Iterators and Comparators\Solutions\06. Equality Logic\obj\Debug\net6.0\06. Equality Logic.AssemblyInfo.cs
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\18. Exercise Iterators and Comparators\Solutions\06. Equality Logic\obj\Debug\net6.0\06. Equality Logic.csproj.CoreCompileInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\18. Exercise Iterators and Comparators\Solutions\06. Equality Logic\obj\Debug\net6.0\06. Equality Logic.sourcelink.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\18. Exercise Iterators and Comparators\Solutions\06. Equality Logic\obj\Debug\net6.0\06. Equality Logic.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\18. Exercise Iterators and Comparators\Solutions\06. Equality Logic\obj\Debug\net6.0\refint\06. Equality Logic.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\18. Exercise Iterators and Comparators\Solutions\06. Equality Logic\obj\Debug\net6.0\06. Equality Logic.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\18. Exercise Iterators and Comparators\Solutions\06. Equality Logic\obj\Debug\net6.0\06. Equality Logic.genruntimeconfig.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\18. Exercise Iterators and Comparators\Solutions\06. Equality Logic\obj\Debug\net6.0\ref\06. Equality Logic.dll

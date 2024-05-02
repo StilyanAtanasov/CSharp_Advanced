@@ -1,0 +1,15 @@
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\16. Exercise Generics\Solutions\09. Custom Linked List\bin\Debug\net6.0\09. Custom Linked List.exe
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\16. Exercise Generics\Solutions\09. Custom Linked List\bin\Debug\net6.0\09. Custom Linked List.deps.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\16. Exercise Generics\Solutions\09. Custom Linked List\bin\Debug\net6.0\09. Custom Linked List.runtimeconfig.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\16. Exercise Generics\Solutions\09. Custom Linked List\bin\Debug\net6.0\09. Custom Linked List.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\16. Exercise Generics\Solutions\09. Custom Linked List\bin\Debug\net6.0\09. Custom Linked List.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\16. Exercise Generics\Solutions\09. Custom Linked List\obj\Debug\net6.0\09. Custom Linked List.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\16. Exercise Generics\Solutions\09. Custom Linked List\obj\Debug\net6.0\09. Custom Linked List.AssemblyInfoInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\16. Exercise Generics\Solutions\09. Custom Linked List\obj\Debug\net6.0\09. Custom Linked List.AssemblyInfo.cs
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\16. Exercise Generics\Solutions\09. Custom Linked List\obj\Debug\net6.0\09. Custom Linked List.csproj.CoreCompileInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\16. Exercise Generics\Solutions\09. Custom Linked List\obj\Debug\net6.0\09. Custom Linked List.sourcelink.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\16. Exercise Generics\Solutions\09. Custom Linked List\obj\Debug\net6.0\09. Custom Linked List.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\16. Exercise Generics\Solutions\09. Custom Linked List\obj\Debug\net6.0\refint\09. Custom Linked List.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\16. Exercise Generics\Solutions\09. Custom Linked List\obj\Debug\net6.0\09. Custom Linked List.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\16. Exercise Generics\Solutions\09. Custom Linked List\obj\Debug\net6.0\09. Custom Linked List.genruntimeconfig.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\16. Exercise Generics\Solutions\09. Custom Linked List\obj\Debug\net6.0\ref\09. Custom Linked List.dll

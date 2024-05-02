@@ -9,11 +9,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. Collection", "02. Colle
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. Stack", "03. Stack\03. Stack.csproj", "{A660093C-1A2F-48BC-868B-F7E877926DCC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Froggy", "04. Froggy\04. Froggy.csproj", "{621E7F2A-5BB5-4B6C-B7A5-04C567DF2590}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04. Froggy", "04. Froggy\04. Froggy.csproj", "{621E7F2A-5BB5-4B6C-B7A5-04C567DF2590}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Comparing Objects", "05. Comparing Objects\05. Comparing Objects.csproj", "{9A02AABB-123A-4CD7-AB57-2089020A89B8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05. Comparing Objects", "05. Comparing Objects\05. Comparing Objects.csproj", "{9A02AABB-123A-4CD7-AB57-2089020A89B8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. Custom Comparator", "07. Custom Comparator\07. Custom Comparator.csproj", "{C0CEC088-69BE-42C1-AE12-A9756D7D3DCE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "07. Custom Comparator", "07. Custom Comparator\07. Custom Comparator.csproj", "{C0CEC088-69BE-42C1-AE12-A9756D7D3DCE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Equality Logic", "06. Equality Logic\06. Equality Logic.csproj", "{A10B6AF0-3D27-41C3-86D2-6AC402407952}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{C0CEC088-69BE-42C1-AE12-A9756D7D3DCE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C0CEC088-69BE-42C1-AE12-A9756D7D3DCE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C0CEC088-69BE-42C1-AE12-A9756D7D3DCE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A10B6AF0-3D27-41C3-86D2-6AC402407952}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A10B6AF0-3D27-41C3-86D2-6AC402407952}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A10B6AF0-3D27-41C3-86D2-6AC402407952}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A10B6AF0-3D27-41C3-86D2-6AC402407952}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
