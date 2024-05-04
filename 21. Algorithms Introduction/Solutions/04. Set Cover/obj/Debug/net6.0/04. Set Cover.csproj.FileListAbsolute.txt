@@ -1,0 +1,15 @@
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\21. Algorithms Introduction\Solutions\04. Set Cover\bin\Debug\net6.0\04. Set Cover.exe
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\21. Algorithms Introduction\Solutions\04. Set Cover\bin\Debug\net6.0\04. Set Cover.deps.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\21. Algorithms Introduction\Solutions\04. Set Cover\bin\Debug\net6.0\04. Set Cover.runtimeconfig.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\21. Algorithms Introduction\Solutions\04. Set Cover\bin\Debug\net6.0\04. Set Cover.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\21. Algorithms Introduction\Solutions\04. Set Cover\bin\Debug\net6.0\04. Set Cover.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\21. Algorithms Introduction\Solutions\04. Set Cover\obj\Debug\net6.0\04. Set Cover.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\21. Algorithms Introduction\Solutions\04. Set Cover\obj\Debug\net6.0\04. Set Cover.AssemblyInfoInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\21. Algorithms Introduction\Solutions\04. Set Cover\obj\Debug\net6.0\04. Set Cover.AssemblyInfo.cs
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\21. Algorithms Introduction\Solutions\04. Set Cover\obj\Debug\net6.0\04. Set Cover.csproj.CoreCompileInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\21. Algorithms Introduction\Solutions\04. Set Cover\obj\Debug\net6.0\04. Set Cover.sourcelink.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\21. Algorithms Introduction\Solutions\04. Set Cover\obj\Debug\net6.0\04. Set Cover.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\21. Algorithms Introduction\Solutions\04. Set Cover\obj\Debug\net6.0\refint\04. Set Cover.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\21. Algorithms Introduction\Solutions\04. Set Cover\obj\Debug\net6.0\04. Set Cover.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\21. Algorithms Introduction\Solutions\04. Set Cover\obj\Debug\net6.0\04. Set Cover.genruntimeconfig.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\21. Algorithms Introduction\Solutions\04. Set Cover\obj\Debug\net6.0\ref\04. Set Cover.dll
