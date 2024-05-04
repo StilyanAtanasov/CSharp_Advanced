@@ -1,0 +1,15 @@
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\21. Algorithms Introduction\Solutions\02. Recursive Factorial\bin\Debug\net6.0\02. Recursive Factorial.exe
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\21. Algorithms Introduction\Solutions\02. Recursive Factorial\bin\Debug\net6.0\02. Recursive Factorial.deps.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\21. Algorithms Introduction\Solutions\02. Recursive Factorial\bin\Debug\net6.0\02. Recursive Factorial.runtimeconfig.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\21. Algorithms Introduction\Solutions\02. Recursive Factorial\bin\Debug\net6.0\02. Recursive Factorial.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\21. Algorithms Introduction\Solutions\02. Recursive Factorial\bin\Debug\net6.0\02. Recursive Factorial.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\21. Algorithms Introduction\Solutions\02. Recursive Factorial\obj\Debug\net6.0\02. Recursive Factorial.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\21. Algorithms Introduction\Solutions\02. Recursive Factorial\obj\Debug\net6.0\02. Recursive Factorial.AssemblyInfoInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\21. Algorithms Introduction\Solutions\02. Recursive Factorial\obj\Debug\net6.0\02. Recursive Factorial.AssemblyInfo.cs
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\21. Algorithms Introduction\Solutions\02. Recursive Factorial\obj\Debug\net6.0\02. Recursive Factorial.csproj.CoreCompileInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\21. Algorithms Introduction\Solutions\02. Recursive Factorial\obj\Debug\net6.0\02. Recursive Factorial.sourcelink.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\21. Algorithms Introduction\Solutions\02. Recursive Factorial\obj\Debug\net6.0\02. Recursive Factorial.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\21. Algorithms Introduction\Solutions\02. Recursive Factorial\obj\Debug\net6.0\refint\02. Recursive Factorial.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\21. Algorithms Introduction\Solutions\02. Recursive Factorial\obj\Debug\net6.0\02. Recursive Factorial.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\21. Algorithms Introduction\Solutions\02. Recursive Factorial\obj\Debug\net6.0\02. Recursive Factorial.genruntimeconfig.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\21. Algorithms Introduction\Solutions\02. Recursive Factorial\obj\Debug\net6.0\ref\02. Recursive Factorial.dll

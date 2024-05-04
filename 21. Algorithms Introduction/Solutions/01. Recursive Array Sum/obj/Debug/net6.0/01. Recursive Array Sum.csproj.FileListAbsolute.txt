@@ -1,0 +1,15 @@
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\21. Algorithms Introduction\Solutions\01. Recursive Array Sum\obj\Debug\net6.0\01. Recursive Array Sum.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\21. Algorithms Introduction\Solutions\01. Recursive Array Sum\obj\Debug\net6.0\01. Recursive Array Sum.AssemblyInfoInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\21. Algorithms Introduction\Solutions\01. Recursive Array Sum\obj\Debug\net6.0\01. Recursive Array Sum.AssemblyInfo.cs
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\21. Algorithms Introduction\Solutions\01. Recursive Array Sum\obj\Debug\net6.0\01. Recursive Array Sum.csproj.CoreCompileInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\21. Algorithms Introduction\Solutions\01. Recursive Array Sum\obj\Debug\net6.0\01. Recursive Array Sum.sourcelink.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\21. Algorithms Introduction\Solutions\01. Recursive Array Sum\bin\Debug\net6.0\01. Recursive Array Sum.exe
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\21. Algorithms Introduction\Solutions\01. Recursive Array Sum\bin\Debug\net6.0\01. Recursive Array Sum.deps.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\21. Algorithms Introduction\Solutions\01. Recursive Array Sum\bin\Debug\net6.0\01. Recursive Array Sum.runtimeconfig.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\21. Algorithms Introduction\Solutions\01. Recursive Array Sum\bin\Debug\net6.0\01. Recursive Array Sum.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\21. Algorithms Introduction\Solutions\01. Recursive Array Sum\bin\Debug\net6.0\01. Recursive Array Sum.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\21. Algorithms Introduction\Solutions\01. Recursive Array Sum\obj\Debug\net6.0\01. Recursive Array Sum.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\21. Algorithms Introduction\Solutions\01. Recursive Array Sum\obj\Debug\net6.0\refint\01. Recursive Array Sum.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\21. Algorithms Introduction\Solutions\01. Recursive Array Sum\obj\Debug\net6.0\01. Recursive Array Sum.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\21. Algorithms Introduction\Solutions\01. Recursive Array Sum\obj\Debug\net6.0\01. Recursive Array Sum.genruntimeconfig.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\21. Algorithms Introduction\Solutions\01. Recursive Array Sum\obj\Debug\net6.0\ref\01. Recursive Array Sum.dll

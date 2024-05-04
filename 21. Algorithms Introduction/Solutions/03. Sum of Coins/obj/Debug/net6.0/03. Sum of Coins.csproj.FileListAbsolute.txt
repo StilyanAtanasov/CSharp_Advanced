@@ -1,0 +1,15 @@
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\21. Algorithms Introduction\Solutions\03. Sum of Coins\bin\Debug\net6.0\03. Sum of Coins.exe
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\21. Algorithms Introduction\Solutions\03. Sum of Coins\bin\Debug\net6.0\03. Sum of Coins.deps.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\21. Algorithms Introduction\Solutions\03. Sum of Coins\bin\Debug\net6.0\03. Sum of Coins.runtimeconfig.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\21. Algorithms Introduction\Solutions\03. Sum of Coins\bin\Debug\net6.0\03. Sum of Coins.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\21. Algorithms Introduction\Solutions\03. Sum of Coins\bin\Debug\net6.0\03. Sum of Coins.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\21. Algorithms Introduction\Solutions\03. Sum of Coins\obj\Debug\net6.0\03. Sum of Coins.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\21. Algorithms Introduction\Solutions\03. Sum of Coins\obj\Debug\net6.0\03. Sum of Coins.AssemblyInfoInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\21. Algorithms Introduction\Solutions\03. Sum of Coins\obj\Debug\net6.0\03. Sum of Coins.AssemblyInfo.cs
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\21. Algorithms Introduction\Solutions\03. Sum of Coins\obj\Debug\net6.0\03. Sum of Coins.csproj.CoreCompileInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\21. Algorithms Introduction\Solutions\03. Sum of Coins\obj\Debug\net6.0\03. Sum of Coins.sourcelink.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\21. Algorithms Introduction\Solutions\03. Sum of Coins\obj\Debug\net6.0\03. Sum of Coins.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\21. Algorithms Introduction\Solutions\03. Sum of Coins\obj\Debug\net6.0\refint\03. Sum of Coins.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\21. Algorithms Introduction\Solutions\03. Sum of Coins\obj\Debug\net6.0\03. Sum of Coins.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\21. Algorithms Introduction\Solutions\03. Sum of Coins\obj\Debug\net6.0\03. Sum of Coins.genruntimeconfig.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\21. Algorithms Introduction\Solutions\03. Sum of Coins\obj\Debug\net6.0\ref\03. Sum of Coins.dll
