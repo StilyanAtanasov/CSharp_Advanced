@@ -2,7 +2,7 @@
 
 class StartUp
 {
-    static void Main(string[] args)
+    static void Main()
     {
         // Read the input
         int[] universe = Console.ReadLine()!.Split(", ").Select(int.Parse).ToArray();

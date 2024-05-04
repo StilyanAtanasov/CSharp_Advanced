@@ -1,0 +1,15 @@
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\21. Algorithms Introduction\Solutions\05. Merge Sort\obj\Debug\net6.0\05. Merge Sort.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\21. Algorithms Introduction\Solutions\05. Merge Sort\obj\Debug\net6.0\05. Merge Sort.AssemblyInfoInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\21. Algorithms Introduction\Solutions\05. Merge Sort\obj\Debug\net6.0\05. Merge Sort.AssemblyInfo.cs
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\21. Algorithms Introduction\Solutions\05. Merge Sort\obj\Debug\net6.0\05. Merge Sort.csproj.CoreCompileInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\21. Algorithms Introduction\Solutions\05. Merge Sort\obj\Debug\net6.0\05. Merge Sort.sourcelink.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\21. Algorithms Introduction\Solutions\05. Merge Sort\bin\Debug\net6.0\05. Merge Sort.exe
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\21. Algorithms Introduction\Solutions\05. Merge Sort\bin\Debug\net6.0\05. Merge Sort.deps.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\21. Algorithms Introduction\Solutions\05. Merge Sort\bin\Debug\net6.0\05. Merge Sort.runtimeconfig.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\21. Algorithms Introduction\Solutions\05. Merge Sort\bin\Debug\net6.0\05. Merge Sort.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\21. Algorithms Introduction\Solutions\05. Merge Sort\bin\Debug\net6.0\05. Merge Sort.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\21. Algorithms Introduction\Solutions\05. Merge Sort\obj\Debug\net6.0\05. Merge Sort.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\21. Algorithms Introduction\Solutions\05. Merge Sort\obj\Debug\net6.0\refint\05. Merge Sort.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\21. Algorithms Introduction\Solutions\05. Merge Sort\obj\Debug\net6.0\05. Merge Sort.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\21. Algorithms Introduction\Solutions\05. Merge Sort\obj\Debug\net6.0\05. Merge Sort.genruntimeconfig.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\21. Algorithms Introduction\Solutions\05. Merge Sort\obj\Debug\net6.0\ref\05. Merge Sort.dll
