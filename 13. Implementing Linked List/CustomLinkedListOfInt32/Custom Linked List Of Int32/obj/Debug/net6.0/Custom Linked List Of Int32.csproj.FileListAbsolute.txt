@@ -12,3 +12,4 @@ D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\13. Implemen
 D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\13. Implementing Linked List\CustomLinkedListOfInt32\Custom Linked List Of Int32\obj\Debug\net6.0\Custom Linked List Of Int32.pdb
 D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\13. Implementing Linked List\CustomLinkedListOfInt32\Custom Linked List Of Int32\obj\Debug\net6.0\Custom Linked List Of Int32.genruntimeconfig.cache
 D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\13. Implementing Linked List\CustomLinkedListOfInt32\Custom Linked List Of Int32\obj\Debug\net6.0\ref\Custom Linked List Of Int32.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\13. Implementing Linked List\CustomLinkedListOfInt32\Custom Linked List Of Int32\obj\Debug\net6.0\Custom Linked List Of Int32.sourcelink.json

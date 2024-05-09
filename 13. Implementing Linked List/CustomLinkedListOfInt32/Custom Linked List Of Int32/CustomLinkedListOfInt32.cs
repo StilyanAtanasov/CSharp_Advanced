@@ -7,15 +7,19 @@ public class CustomLinkedListOfInt32
     public Node? Head { get; set; }
     public Node? Tail { get; set; }
 
+    public int Count => _count;
+
     public void AddFirst(int value)
     {
         Node node = new(value);
 
         if (Head == null) HandleEmptyObject(node);
-
-        Head!.Previous = node;
-        node.Next = Head;
-        Head = node;
+        else
+        {
+            Head!.Previous = node;
+            node.Next = Head;
+            Head = node;
+        }
 
         _count++;
     }
@@ -44,10 +48,12 @@ public class CustomLinkedListOfInt32
         Node node = new(value);
 
         if (Head == null) HandleEmptyObject(node);
-
-        Tail!.Next = node;
-        node.Previous = Tail;
-        Tail = node;
+        else
+        {
+            Tail!.Next = node;
+            node.Previous = Tail;
+            Tail = node;
+        }
 
         _count++;
     }
@@ -57,7 +63,7 @@ public class CustomLinkedListOfInt32
         int oldTail;
         if (Head != null)
         {
-             oldTail = Head.Value;
+            oldTail = Head.Value;
             if (Tail!.Previous != null)
             {
                 Tail.Previous.Next = null;

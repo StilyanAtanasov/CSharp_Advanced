@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Custom Linked List Of Int32")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3c9d05dca99bbf72c3d36cdb4fad1f8d04b3e6fb")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c9092784f4e78c6842314a1b51706b3161e03a81")]
 [assembly: System.Reflection.AssemblyProductAttribute("Custom Linked List Of Int32")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Custom Linked List Of Int32")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
