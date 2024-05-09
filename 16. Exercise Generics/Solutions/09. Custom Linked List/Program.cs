@@ -19,6 +19,7 @@ try
 
     // Add first
     linkedList.AddFirst(0);
+    Console.WriteLine(linkedList.Count);
 
     // Remove first
     linkedList.RemoveFirst();

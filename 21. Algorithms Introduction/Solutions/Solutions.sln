@@ -3,15 +3,17 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34607.119
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Recursive Array Sum", "01. Recursive Array Sum\01. Recursive Array Sum.csproj", "{17988BF1-855E-414E-BA70-5B924D554297}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Recursive Array Sum", "01. Recursive Array Sum\01. Recursive Array Sum.csproj", "{17988BF1-855E-414E-BA70-5B924D554297}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Recursive Factorial", "02. Recursive Factorial\02. Recursive Factorial.csproj", "{F0421FB4-FB46-4513-B9FC-AD627CB40799}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. Recursive Factorial", "02. Recursive Factorial\02. Recursive Factorial.csproj", "{F0421FB4-FB46-4513-B9FC-AD627CB40799}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Sum of Coins", "03. Sum of Coins\03. Sum of Coins.csproj", "{9BE8CC19-AFAE-4674-9D54-636D51D16967}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03. Sum of Coins", "03. Sum of Coins\03. Sum of Coins.csproj", "{9BE8CC19-AFAE-4674-9D54-636D51D16967}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Set Cover", "04. Set Cover\04. Set Cover.csproj", "{B234E9B3-35F8-4C0C-9ABA-D39EA135DE3A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "04. Set Cover", "04. Set Cover\04. Set Cover.csproj", "{B234E9B3-35F8-4C0C-9ABA-D39EA135DE3A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Merge Sort", "05. Merge Sort\05. Merge Sort.csproj", "{E2F58505-502E-4F58-81B8-F18E2E02011B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "05. Merge Sort", "05. Merge Sort\05. Merge Sort.csproj", "{E2F58505-502E-4F58-81B8-F18E2E02011B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Quicksort", "06. Quicksort\06. Quicksort.csproj", "{66A35DD6-F289-4E15-8AC3-A5524B186380}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{E2F58505-502E-4F58-81B8-F18E2E02011B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E2F58505-502E-4F58-81B8-F18E2E02011B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E2F58505-502E-4F58-81B8-F18E2E02011B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66A35DD6-F289-4E15-8AC3-A5524B186380}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66A35DD6-F289-4E15-8AC3-A5524B186380}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66A35DD6-F289-4E15-8AC3-A5524B186380}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66A35DD6-F289-4E15-8AC3-A5524B186380}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

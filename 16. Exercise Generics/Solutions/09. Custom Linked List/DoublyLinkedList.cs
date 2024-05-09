@@ -14,10 +14,12 @@ public class DoublyLinkedList<T>
         Node<T> node = new(value);
 
         if (Head == null) HandleEmptyObject(node);
-
-        Head!.Previous = node;
-        node.Next = Head;
-        Head = node;
+        else
+        {
+            Head!.Previous = node;
+            node.Next = Head;
+            Head = node;
+        }
 
         _count++;
     }
@@ -46,10 +48,12 @@ public class DoublyLinkedList<T>
         Node<T> node = new(value);
 
         if (Head == null) HandleEmptyObject(node);
-
-        Tail!.Next = node;
-        node.Previous = Tail;
-        Tail = node;
+        else
+        {
+            Tail!.Next = node;
+            node.Previous = Tail;
+            Tail = node;
+        }
 
         _count++;
     }

@@ -1,0 +1,15 @@
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\21. Algorithms Introduction\Solutions\06. Quicksort\bin\Debug\net6.0\06. Quicksort.exe
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\21. Algorithms Introduction\Solutions\06. Quicksort\bin\Debug\net6.0\06. Quicksort.deps.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\21. Algorithms Introduction\Solutions\06. Quicksort\bin\Debug\net6.0\06. Quicksort.runtimeconfig.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\21. Algorithms Introduction\Solutions\06. Quicksort\bin\Debug\net6.0\06. Quicksort.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\21. Algorithms Introduction\Solutions\06. Quicksort\bin\Debug\net6.0\06. Quicksort.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\21. Algorithms Introduction\Solutions\06. Quicksort\obj\Debug\net6.0\06. Quicksort.GeneratedMSBuildEditorConfig.editorconfig
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\21. Algorithms Introduction\Solutions\06. Quicksort\obj\Debug\net6.0\06. Quicksort.AssemblyInfoInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\21. Algorithms Introduction\Solutions\06. Quicksort\obj\Debug\net6.0\06. Quicksort.AssemblyInfo.cs
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\21. Algorithms Introduction\Solutions\06. Quicksort\obj\Debug\net6.0\06. Quicksort.csproj.CoreCompileInputs.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\21. Algorithms Introduction\Solutions\06. Quicksort\obj\Debug\net6.0\06. Quicksort.sourcelink.json
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\21. Algorithms Introduction\Solutions\06. Quicksort\obj\Debug\net6.0\06. Quicksort.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\21. Algorithms Introduction\Solutions\06. Quicksort\obj\Debug\net6.0\refint\06. Quicksort.dll
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\21. Algorithms Introduction\Solutions\06. Quicksort\obj\Debug\net6.0\06. Quicksort.pdb
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\21. Algorithms Introduction\Solutions\06. Quicksort\obj\Debug\net6.0\06. Quicksort.genruntimeconfig.cache
+D:\My Documents\Stilyan\Programming\GitHub Repositories\C# Advanced\21. Algorithms Introduction\Solutions\06. Quicksort\obj\Debug\net6.0\ref\06. Quicksort.dll
