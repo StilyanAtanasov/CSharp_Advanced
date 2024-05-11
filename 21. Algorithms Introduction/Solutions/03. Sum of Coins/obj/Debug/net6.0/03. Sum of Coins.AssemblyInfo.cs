@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("03. Sum of Coins")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c12eba334d8d2c42b3d1ac85984238e42df94418")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a1674db911d7763616a66c4bc1f26c75a9f5bfa7")]
 [assembly: System.Reflection.AssemblyProductAttribute("03. Sum of Coins")]
 [assembly: System.Reflection.AssemblyTitleAttribute("03. Sum of Coins")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

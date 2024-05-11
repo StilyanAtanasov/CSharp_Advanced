@@ -3,25 +3,26 @@
 QuickSort(array, 0, array.Length - 1);
 Console.WriteLine(string.Join(" ", array));
 
-int Partition(int[] arr, int lowBound, int highBound)
+int Partition(int[] arr, int lowBound, int highBound, int pivot)
 {
-    int pivotValue = arr[highBound];
-    int lastSmallerElementIndex = lowBound - 1;
+    while (lowBound <= highBound)
+    {
+        while (arr[lowBound] < pivot) lowBound++;
+        while (arr[highBound] > pivot) highBound--;
 
-    for (int i = lowBound; i < highBound; i++)
-        if (arr[i] < pivotValue) (arr[i], arr[++lastSmallerElementIndex]) = (arr[lastSmallerElementIndex], arr[i]);
+        if (lowBound <= highBound) (arr[lowBound], arr[highBound]) = (arr[highBound--], arr[lowBound++]);
+    }
 
-    (arr[highBound], arr[lastSmallerElementIndex + 1]) = (arr[lastSmallerElementIndex + 1], arr[highBound]);
-
-    return ++lastSmallerElementIndex;
+    return lowBound;
 }
 
 void QuickSort(int[] arr, int lowBound, int highBound)
 {
     if (lowBound >= highBound) return;
 
-    int lastSmallerElementIndex = Partition(arr, lowBound, highBound);
+    int pivot = arr[(lowBound + highBound) / 2];
+    int index = Partition(arr, lowBound, highBound, pivot);
 
-    QuickSort(arr, lowBound, lastSmallerElementIndex - 1);
-    QuickSort(arr, lastSmallerElementIndex + 1, highBound);
+    QuickSort(arr, lowBound, index - 1);
+    QuickSort(arr, index, highBound);
 }
